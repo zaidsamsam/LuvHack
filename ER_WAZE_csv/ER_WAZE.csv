@@ -1,0 +1,1693 @@
+osm_id,osm_type,health_facility_type,access,toilets_disposal,staff_count_doctors,operator,toilets_handwashing,status,name,health_facility_level,opening_hours,operator_type,medical_system_western,staff_count_nurses,health_facility_bed,amenity,longitude,latitude,geom_type
+7039284220,nodes,,,,,,,,La Clinique de Chirurgie Esthétique,,,,,,,doctors,-75.6888434,45.493934,POINT
+3103074406,nodes,,,,,,,,Uniprix,,,,,,,pharmacy,-75.6888107,45.4937261,POINT
+7039334004,nodes,,,,,,,,Clinique Medicale St-Alexandre,,,,,,,doctors,-75.7454001,45.4873059,POINT
+9381859458,nodes,,,,,,,,Canadian Diagnostic Network,,,,,,,clinic,-75.8964925,45.312179,POINT
+4435076071,nodes,,,,,,,,Orleans Urgent Care Clinic,,"Mo-Fr 08:00-21:00; Sa,Su 08:00-15:00",,,,,doctors,-75.5204082,45.4767452,POINT
+10799577580,nodes,,,,,,,,Clinique d'Hygiene Dentaire Gatineau,,,,,,,dentist,-75.6499428,45.4836551,POINT
+6283666906,nodes,,,,,,,,Uniprix,,,,,,,pharmacy,-75.6983088,45.4795406,POINT
+6516670663,nodes,,,,,,,,Guardian,,,,,,,pharmacy,-75.7234289,45.3908757,POINT
+5756773437,nodes,,,,,,,,Pharm Can,,,,,,,pharmacy,-75.7092906,45.407131,POINT
+5862310852,nodes,,,,,,,,Dr. Jeremy Lo,,,,,,,doctors,-75.7093791,45.4071025,POINT
+2450668992,nodes,,,,,,,,Ottawa Medical Pharmacy,,,,,,,pharmacy,-75.7105463,45.4097213,POINT
+5836628247,nodes,,,,,,,,Vina Medical Centre,,,,,,,clinic,-75.7116573,45.4092652,POINT
+3690936032,nodes,,,,,,,,Clinique Sante,,,,,,,pharmacy,-75.7422265,45.4471544,POINT
+6660835833,nodes,,,,,,,,NutriSimple,,,,,,,clinic,-75.7503935,45.445914,POINT
+6660835832,nodes,,,,,,,,Centre de commotions cérébrales et thérapie du sport,,,,,,,clinic,-75.7504033,45.4460159,POINT
+6630302224,nodes,,,,,,,,Clinique Dentaire du Village Urbain du Plateau,,,,,,,dentist,-75.7949721,45.4426505,POINT
+6281701251,nodes,,,,,,,,Pharmacie Michel Quesnel,,,,,,,pharmacy,-75.7008708,45.4727529,POINT
+6061073637,nodes,,,,,,,,PharmaChoice,,,,,,,pharmacy,-74.9877137,45.5402948,POINT
+5487638214,nodes,,,,,,,,Dr. Sam Lee,,,,,,,dentist,-75.4810846,45.4911074,POINT
+5815813973,nodes,,,,,,,,ABCommunication Speech Therapy,,,,,,,clinic,-75.5001926,45.4490204,POINT
+7341658239,nodes,,,,,,,,Navan Medical Pharmacy,,,,,,,pharmacy,-75.5044891,45.4279478,POINT
+7341658242,nodes,,,,,,,,Vantage Medical Pharmacy,,,,,,,pharmacy,-75.5477785,45.4620956,POINT
+5689366235,nodes,,,,,,,,St. Josephs Orleans Dental Centre,,,,,,,dentist,-75.5275472,45.4691546,POINT
+6720169005,nodes,,,,,,,,Groupe Sante Dentaire,,,,,,,dentist,-75.4108169,45.575782,POINT
+7343390956,nodes,,,,,,,,Drug Store Pharmacy,,,,,,,pharmacy,-76.661039,45.476902,POINT
+4741690115,nodes,,,,,Familiprix,,,Familiprix,,"Mo-Fr 09:00-18:00; Sa 09:00-16:00",,,,,pharmacy,-76.4873967,45.5977233,POINT
+6023614382,nodes,,,,,,,,Renfrew Health Village Medical Clinic,,,,,,,clinic,-76.7004678,45.4822496,POINT
+365301683,nodes,,,,,,,,Kinney Drugs,,,,,,,pharmacy,-75.1489756,44.5999766,POINT
+472438941,nodes,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.69923,44.602713,POINT
+9335930406,nodes,,,,,Canadian Ski Patrol,,,First Aid Clinic,,,private_non_profit,,,,clinic,-75.8511787,45.6464274,POINT
+7341658241,nodes,,,,,,,,Orleans Integrative Pharmacy,,,,,,,pharmacy,-75.508914,45.4801175,POINT
+13108044074,nodes,,,,,,,,Cedargrove Massage Therapy,,,,,,,clinic,-75.757771,45.2866129,POINT
+4631106489,nodes,,,,,,,,Uniprix,,,,,,,pharmacy,-75.7186835,45.4711687,POINT
+6764030518,nodes,,,,,,,,Clinique Dentaire des Vallées l'Outaouais,,,,,,,dentist,-75.7419901,45.4594646,POINT
+3690845433,nodes,,,,,,,,Dr. Andre Guay,,,,,,,dentist,-75.7420938,45.4561309,POINT
+7177395921,nodes,,,,,,,,Good Doctors Clinic,,,,,,,doctors,-75.6211723,45.430683,POINT
+4310300213,nodes,,,,,Loblaws,,,Loblaws Pharmacy,,,,,,,pharmacy,-75.6103842,45.4332617,POINT
+6392120592,nodes,,,,,Walmart,,,Walmart Pharmacy,,,,,,,pharmacy,-75.611153,45.4315405,POINT
+6392347243,nodes,,,,,Walmart,,,Walmart Pharmacy,,,,,,,pharmacy,-75.8716276,45.2752809,POINT
+6197309349,nodes,,,,,Walmart,,,Walmart Pharmacy,,,,,,,pharmacy,-75.508724,45.4508258,POINT
+6565089696,nodes,,,,,,,,Clinique Médicale Casselman,,,,,,,doctors,-75.0825512,45.3055885,POINT
+1722492792,nodes,,,,,Pharmacie Isabelle Ménard,,,Proxim,,,,,,,pharmacy,-75.7948769,45.5035624,POINT
+2509684262,nodes,,,,,,,,I.D.A.,,,,,,,pharmacy,-74.4995391,45.140273,POINT
+6354880912,nodes,,,,,,,,Stittsville Whole Health Pharmacy,,,,,,,pharmacy,-75.9161305,45.2552905,POINT
+6565089698,nodes,,,,,,,,Dentistrie @ Casselman,,,,,,,dentist,-75.0843121,45.3062638,POINT
+5891429659,nodes,,,,,,,,West Physio,,,,,,,clinic,-75.916265,45.2554278,POINT
+6141609771,nodes,,,,,,,,Dr. Lily Nahri & Associates,,,,,,,dentist,-75.6223257,45.3170731,POINT
+5764321700,nodes,,,,,CHEO,,,Youth Net,,,,,,,clinic,-75.6176265,45.3841327,POINT
+6515366692,nodes,,,,,,,,Clinique Prothese Dentaire,,,,,,,dentist,-75.8338487,45.3953583,POINT
+6515184054,nodes,,,,,,,,Dentiste Implantologie,,,,,,,dentist,-75.8228664,45.3960938,POINT
+6128608029,nodes,,,,,,,,Kanata West Counselling,,,,,,,doctors,-75.9158733,45.2773614,POINT
+4309700897,nodes,,,,,,,,Yang Medicine & Associates,,,,,,,doctors,-75.6282046,45.3826224,POINT
+2037688842,nodes,,,,,,,,First Care Pharmacy,,,,,,,pharmacy,-75.6208054,45.3697845,POINT
+7752634545,nodes,,,,,,,,Findlay Creek Dental,,,,,,,dentist,-75.5917612,45.3188662,POINT
+4561043620,nodes,,,,,Campus Pharmacy,,,Campus Pharmacy,,,,,,,pharmacy,-75.6804316,45.4218049,POINT
+5930025958,nodes,,,,,,,,Dentistry@Arnprior,,,,,,,dentist,-76.3673884,45.4251602,POINT
+7341658238,nodes,,,,,,,,Pharmacie Medici Pharmacy,,,,,,,pharmacy,-75.4270054,45.4222381,POINT
+5809685946,nodes,,,,,,,,Body and Sole Foot Care,,,,,,,clinic,-75.6373648,45.0155987,POINT
+7341652365,nodes,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.661626,45.3679646,POINT
+5811470624,nodes,,,,,,,,Palladium Dental,,,,,,,dentist,-75.9092858,45.3008618,POINT
+5811470620,nodes,,,,,,,,Dr. Lisa Richardson and Associates,,,,,,,dentist,-75.9090364,45.3006778,POINT
+5811470615,nodes,,,,,,,,Andrea Stevens Dentistry,,,,,,,dentist,-75.9097378,45.3001552,POINT
+5950064169,nodes,,,,,,,,Blackburn Hamlet Chiropractic Office,,,,,,,clinic,-75.5655849,45.4320121,POINT
+6391235551,nodes,,,,,,,,Dentistry @ Brockville,,,,,,,dentist,-75.6921302,44.60822,POINT
+6100578091,nodes,,,,,,,,PermaSmile Dentistry,,,,,,,dentist,-75.6899643,45.4263471,POINT
+7949172831,nodes,,,,,,,,Green Acres Family Dental,,,,,,,dentist,-75.9335357,45.2704809,POINT
+5888798646,nodes,,,,,,,,Embrun Medical Clinic,,,,,,,clinic,-75.2917045,45.2710726,POINT
+6080195107,nodes,,,,,,,,Capital Periodontics,,,,,,,dentist,-75.7574091,45.2862899,POINT
+6080195109,nodes,,,,,,,,Dr. Dexter G. Johnson,,,,,,,dentist,-75.7575176,45.2863052,POINT
+6080195113,nodes,,,,,,,,Artistic Dental Design,,,,,,,dentist,-75.7578956,45.2865826,POINT
+3690565713,nodes,,,,,,,,Familiprix,,,,,,,pharmacy,-75.733324,45.435196,POINT
+4685387865,nodes,,,,,Seongwoo Lee,,,Barrhaven Denture Clinic,,"Mo-Th 09:00-17:00; Fr-Su closed",,,,,dentist,-75.73724,45.2709425,POINT
+7341573277,nodes,,,,,,,,Drugstore Pharmacy,,,,,,,pharmacy,-75.7468349,45.2678385,POINT
+6591731274,nodes,,,,,,,,Kiar Counseling,,,,,,,doctors,-75.6466301,45.3639901,POINT
+6141609770,nodes,,,,,,,,Dr. Dolly Nahri,,,,,,,doctors,-75.6223083,45.3170099,POINT
+6114249009,nodes,,,,,,,,Altum Health,,,,,,,clinic,-75.6521291,45.3517089,POINT
+6455963821,nodes,,,,,,,,Dentistry@Perth,,,,,,,dentist,-76.2645471,44.9079504,POINT
+2086199173,nodes,,,,,,,,Pharmasave,,,,,,,pharmacy,-76.2518538,44.9009513,POINT
+9085059902,nodes,,,,,,,,Just Dental Care,,,,,,,dentist,-75.7451395,45.2849216,POINT
+6067392231,nodes,,,,,,,,Dr. Pascul Laverdure,,,,,,,doctors,-75.7477283,45.4622621,POINT
+6067392234,nodes,,,,,,,,Equilibre de Vie,,,,,,,doctors,-75.7477498,45.4623449,POINT
+7341699825,nodes,,,,,,,,Freshco Pharmacy,,,,,,,pharmacy,-74.7241577,45.0324284,POINT
+5949895727,nodes,,,,,,,,Bhanji Optometry,,,,,,,clinic,-75.6094658,45.4321306,POINT
+12718474959,nodes,,,,,,,,Pharmacie Costco,,,,,,,pharmacy,-75.6996219,45.4748147,POINT
+2964208367,nodes,,,,,,,,Ottawa-Carleton Physiotherapy & Sports Injury Center,,,,,,,clinic,-75.6764237,45.4325002,POINT
+6071971302,nodes,,,,,,,,Smyth Massage Therapy Centre,,,,,,,clinic,-75.62434,45.3788397,POINT
+6392308007,nodes,,,,,Walmart Canada,,,Walmart Pharmacy,,,,,,,pharmacy,-75.6753328,45.4811937,POINT
+6036866490,nodes,,,,,,,,Dr. Roy Kang,,,,,,,dentist,-75.9270287,45.2641494,POINT
+13198586438,nodes,,,,,,,,Luminara,,,,,,,dentist,-75.9194082,45.2574099,POINT
+6392120591,nodes,,,,,Walmart,,,Walmart Pharmacy,,"Mo-Fr 08:00-22:00; Sa 09:00-18:00; Su 10:00-18:00; PH off",,,,,pharmacy,-75.6789812,45.3849742,POINT
+5847377957,nodes,,,,,,,,Spine Align Chiropractic Centre,,,,,,,clinic,-75.7388093,45.2705951,POINT
+4743707038,nodes,,,,,,,,Sandy Hill Dental Centre,,,,,,,dentist,-75.6821211,45.4284065,POINT
+6147857492,nodes,,,,,,,,Ottawa Foot Clinic,,,,,,,clinic,-75.7044576,45.3313136,POINT
+5804291872,nodes,,,,,,,,Action Potential Rehab,,,,,,,clinic,-75.7135168,45.3183282,POINT
+7024442699,nodes,,,,,,,,PharmaChoice,,,,,,,pharmacy,-76.2532255,44.9046716,POINT
+5951860123,nodes,,,,,,,,Alvarez Denture Clinic,,,,,,,dentist,-75.6888706,45.4174481,POINT
+6760909711,nodes,,,,,,,,Dental on Booth,,,,,,,dentist,-75.7093827,45.4079661,POINT
+4066748991,nodes,,,,,,,,Dr Anthony Lentini,,,,,,,doctors,-75.7191599,45.3406499,POINT
+6077260123,nodes,,,,,,,,Family Naturopathic Clinic,,,,,,,clinic,-75.7005238,45.4010582,POINT
+6658553177,nodes,,,,,Michel Quesnel Pharmacie Inc.,,,Pharmacie Michel Quesnel,,"Mo-Fr 08:00-20:00; Sa 09:00-17:00",,,,,pharmacy,-75.7436169,45.4431408,POINT
+5739418229,nodes,,,,,,,,Aegis Dental Centre,,,,,,,dentist,-75.6751523,45.3877868,POINT
+7148952371,nodes,,,,,,,,Lyndhurst Dental Centre,,,,,,,dentist,-76.122203,44.5513601,POINT
+6575186287,nodes,,,,,,,,Centre Dentaire Bélanger,,,,,,,dentist,-75.7714846,45.5374373,POINT
+6575186286,nodes,,,,,,,,Proxim — Fadila Benabdeslam,,"Mo-Fr 09:00-19:00; Sa 09:00-17:00",,,,,pharmacy,-75.7712201,45.5375374,POINT
+354760274,nodes,,,,,,,,Hospice of St. Lawrence County,,,,,,,doctors,-75.0801511,44.6353237,POINT
+6103824311,nodes,,,,,,,,150Elgin Dental,,"Mo-Th 07:30-17:00; Fr 07:30-16:00; Sa 08:00-15:00",,,,,dentist,-75.6932306,45.4202524,POINT
+7343285068,nodes,,,,,,,,Walmart Pharmacy,,Mo-Su 07:00-23:00,,,,,pharmacy,-74.7428281,45.024081,POINT
+12967105425,nodes,,,,,,,,Walgreens,,,,,,,pharmacy,-74.8891532,44.9227203,POINT
+6028350824,nodes,,,,,,,,Renfrew Eye Clinic,,,,,,,clinic,-76.6823604,45.4707048,POINT
+6022500129,nodes,,,,,,,,Dentistry in the Valley,,,,,,,dentist,-76.6590478,45.474755,POINT
+4353543397,nodes,,,,,Walmart,,,Walmart Pharmacy,,Mo-Su 07:00-23:00,,,,,pharmacy,-75.6862119,44.6155778,POINT
+4147312992,nodes,,,,,,,,Alliance Pharmacy,,,,,,,pharmacy,-75.7324384,45.3997356,POINT
+6392265075,nodes,,,,,Walmart,,,Walmart Pharmacy,,,,,,,pharmacy,-75.7387631,45.3632765,POINT
+5180554117,nodes,,,,,,,,Loblaw Pharmacy,,,,,,,pharmacy,-74.6019752,45.5933244,POINT
+7341745841,nodes,,,,,,,,Walmart Pharmacy,,,,,,,pharmacy,-74.6031892,45.5935948,POINT
+6392347260,nodes,,,,,Walmart,,,Walmart Pharmacy,,,,,,,pharmacy,-75.7402262,45.2717324,POINT
+4784909437,nodes,,,,,,,,Sobeys Pharmacy,,,,,,,pharmacy,-75.4559865,45.4693182,POINT
+390667713,nodes,,,,,,,,Orlando Chiropractic Center,,,,,,,doctors,-74.9869358,44.7136869,POINT
+1456261151,nodes,,,,,,,,Familiprix,,,,,,,pharmacy,-75.7847862,45.4379026,POINT
+6704010009,nodes,,,,,,,,Clinique Médicale Champlain,,,,,,,doctors,-75.7628748,45.4271378,POINT
+2511900611,nodes,,,,,,,,"Dr. Kevin Orser, Family Dentistry",,,,,,,dentist,-76.2504773,44.9000649,POINT
+6960794459,nodes,,,,,,,,Perth Mews Pharmacy,,,,,,,pharmacy,-76.2656374,44.9076551,POINT
+3855433470,nodes,,,,,,,,Conway's Pharmacy,,,,,,,pharmacy,-76.8859244,45.6265823,POINT
+3956939007,nodes,,,,,,,,Lakeview Dental Client,,,,,,,dentist,-76.8820918,45.6298194,POINT
+7343726948,nodes,,,,,,,,Drugsmart Pharmacy,,,,,,,pharmacy,-76.5969596,44.4095983,POINT
+6600216736,nodes,,,,,,,,Burns Ortho Foot Clinic,,,,,,,doctors,-75.3013498,45.5445741,POINT
+6600216740,nodes,,,,,,,,Clarence Rockland X Ray,,,,,,,doctors,-75.3010467,45.5445986,POINT
+6600216742,nodes,,,,,,,,Dr. Eric Pommainville,,,,,,,dentist,-75.3012103,45.5447019,POINT
+4441647077,nodes,,,,,,,,Independent Pharmacy,,,,,,,pharmacy,-75.2986629,45.5410829,POINT
+6597932572,nodes,,,,,,,,Rockland Family Optometric Centre,,,,,,,doctors,-75.30334,45.5388294,POINT
+6597932571,nodes,,,,,,,,Fournier Denturist Clinic,,,,,,,dentist,-75.3032045,45.5388557,POINT
+6600368485,nodes,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.3017333,45.5420325,POINT
+6575186288,nodes,,,,,,,,Chiropratique de la Source,,,,,,,doctors,-75.7714263,45.5374391,POINT
+5880266230,nodes,,,,,,,,Russell Chiropractic,,,,,,,doctors,-75.3601787,45.261041,POINT
+6470960799,nodes,,,,,,,,Brockville Denture Clinic,,,,,,,dentist,-75.6882537,44.5884759,POINT
+3470380009,nodes,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.1827147,44.9009571,POINT
+7341566266,nodes,,,,,,,,Sobeys Pharmacy,,,,,,,pharmacy,-75.8963926,45.2923885,POINT
+6028681095,nodes,,,,,,,,Westboro Chiropractic Clinic,,,,,,,clinic,-75.7547075,45.3930313,POINT
+4782968325,nodes,,,,,,,,Remedy'sRx,,,,,,,pharmacy,-75.6968718,45.4156817,POINT
+5838318140,nodes,,,,,,,,Centretown Community Health Centre,,,,,,,clinic,-75.697791,45.4155437,POINT
+5867011020,nodes,,,,,,,,Dr. Jill M. Taylor Dentistry,,,,,,,dentist,-75.69268,45.4108704,POINT
+6414973277,nodes,,,,,,,,Dr. Karine Pleiva,,,,,,,dentist,-75.6965928,45.4128005,POINT
+6110092016,nodes,,,,,Dr. Khaled A. Sharaf,,,Stars Orthodontics,,Mo-Th 08:30-16:00,,,,,dentist,-75.6917011,45.4113281,POINT
+3690884732,nodes,,,,,,,,Clinique dentaire David Côté,,,,,,,dentist,-75.7417364,45.4223068,POINT
+13336221736,nodes,,,,,,,,Pharmaprix,,,,,,,pharmacy,-75.8997555,45.5971446,POINT
+5836744307,nodes,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.7072108,45.4106984,POINT
+6515184060,nodes,,,,,,,,Groupe Sante Dentaire,,,,,,,dentist,-75.823431,45.39614,POINT
+3667311985,nodes,,,,,,,,Ampos Orthopaedic,,,,,,,doctors,-75.6421555,45.4430656,POINT
+5862395145,nodes,,,,,,,,Rideau-Rockcliffe Family Medicine,,,,,,,doctors,-75.6434099,45.4427836,POINT
+9073228049,nodes,,,,,,,,Clinique Dentaire Bibeau,,,,,,,dentist,-75.244782,45.5968136,POINT
+3690504281,nodes,,,,,,,,Familprix,,,,,,,pharmacy,-75.727467,45.429967,POINT
+3690369492,nodes,,,,,,,,Clinique Dentaire Du Portage,,,,,,,dentist,-75.7159495,45.4258642,POINT
+3690401196,nodes,,,,,,,,Centre Dentaire Marleau,,,,,,,dentist,-75.7159961,45.4261797,POINT
+6386265334,nodes,,,,,,,,Dentiste Knight,,,,,,,dentist,-75.7196932,45.4258742,POINT
+5667880288,nodes,,,,,,,,Dermapure,,,,,,,clinic,-75.6921815,45.4293033,POINT
+5874394683,nodes,,,,,,,,Dr. Lily Wong Family Dentistry,,,,,,,dentist,-75.7591462,45.3533958,POINT
+5874394673,nodes,,,,,,,,Baseline Dental,,,,,,,dentist,-75.7586279,45.3536747,POINT
+6281330153,nodes,,,,,,,,Westboro Station Dental,,,,,,,dentist,-75.7581154,45.3896466,POINT
+5559893321,nodes,,,,,Dr. John Oueis,,,Carling Dental,,,,,,,dentist,-75.7440335,45.3823065,POINT
+5833728383,nodes,,,,,,,,Dr. Ted Heinke,,,,,,,dentist,-75.6646563,45.3744352,POINT
+2208779302,nodes,,,,,,,,Trillium Dental,,,,,,,dentist,-75.881397,45.30956,POINT
+6666504731,nodes,,,,,,,,Labrosse Dentaire,,,,,,,dentist,-75.6419045,45.5004037,POINT
+6187145996,nodes,,,,,,,,Medicaid Pharmacy,,,,,,,pharmacy,-75.1509712,45.2163045,POINT
+5849340772,nodes,,,,,,,,Medical Pharmacy,,,,,,,pharmacy,-75.6707838,45.3767616,POINT
+6403076440,nodes,,,,,,,,Dr. Emad Abdulkarim,,,,,,,doctors,-75.6691685,45.3802042,POINT
+3690788477,nodes,,,,,,,,Clinique De Physiothérapie De La Lièvre,,,,,,,clinic,-75.41427,45.5831,POINT
+5880266273,nodes,,,,,,,,Russell Medical Centre,,,,,,,clinic,-75.3697756,45.2574726,POINT
+354782227,nodes,,,,,St. Lawrence Health System,,,St. Lawrence Health Urgent Care,,,private_non_profit,,,,clinic,-75.1528082,44.5959192,POINT
+1709347056,nodes,,,,,,,,Appletree,,,,,,,doctors,-75.7350167,45.386073,POINT
+2930374490,nodes,,,,,,,,Wellington Medical Clinic,,,,,,,doctors,-75.7314639,45.4000693,POINT
+5874394684,nodes,,,,,,,,Dr. K.A. Beauchamp Optometry,,,,,,,doctors,-75.7593662,45.3533706,POINT
+6018705948,nodes,,,,,,,,OATC Renfrew,,,,,,,clinic,-76.6694775,45.4696107,POINT
+5857384833,nodes,,,,,,,,Mona's Pharmacy,,,,,,,pharmacy,-76.1415323,45.1369443,POINT
+6764030508,nodes,,,,,,,,Clinique de denturologie Richer,,,,,,,dentist,-75.7425774,45.45672,POINT
+6764030502,nodes,,,,,,,,Clinique Santé-Voyage Vac-San,,,,,,,doctors,-75.7428405,45.456444,POINT
+6594519033,nodes,,,,,,,,Familiprix,,Mo-Sa 09:00-17:00,,,,,pharmacy,-76.0529161,46.0915736,POINT
+895005843,nodes,,,,,,,,,,,,,,,doctors,-76.6906982,44.7678338,POINT
+7058842475,nodes,,,,,,,,Pharmasave,,,,,,,pharmacy,-76.6905516,44.7712203,POINT
+5921058729,nodes,,,,,,,,Chiropractic Centre,,,,,,,clinic,-76.6802801,44.7976622,POINT
+7343726947,nodes,,,,,,,,Pharma Well Drug Mart,,,,,,,pharmacy,-76.6941183,44.479473,POINT
+6391809287,nodes,,,,,,,,Kensington Pharmacy,,,,,,,pharmacy,-75.7132526,44.6081293,POINT
+6407739511,nodes,,,,,,,,Dr. Michael Ng,,,,,,,dentist,-75.6818739,44.5912892,POINT
+6759593378,nodes,,,,,,,,Dentistry @ 1000 Islands,,,,,,,dentist,-75.6889136,44.5924185,POINT
+6512285809,nodes,,,,,,,,Dr. Richard Ng Orthodontistry,,,,,,,dentist,-75.7063812,44.597913,POINT
+6758507427,nodes,,,,,,,,Brockville Dialysis Clinic,,,,,,,doctors,-75.691714,44.6128042,POINT
+13062852822,nodes,,,,,,,,Orchid Dental Centre,,,,,,,dentist,-76.4069304,44.6798986,POINT
+1750015715,nodes,,,,,,,,Remedy'sRx,,,,,,,pharmacy,-75.5209532,44.7247041,POINT
+4061344728,nodes,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.5154911,44.7089171,POINT
+6340465469,nodes,,,,,,,,Prescott Family Health Team,,,,,,,doctors,-75.520725,44.7052528,POINT
+6340754356,nodes,,,,,,,,Dr. Lance McIntosh,,,,,,,dentist,-75.5137592,44.7090266,POINT
+6340754355,nodes,,,,,,,,Dr. Kim Hansen,,,,,,,dentist,-75.5137838,44.709042,POINT
+6475957621,nodes,,,,,,,,Richmond Village Dental,,,,,,,dentist,-75.8416137,45.1929529,POINT
+6476526964,nodes,,,,,,,,I.D.A.,,,,,,,pharmacy,-75.8460568,45.1901733,POINT
+13046722988,nodes,,,,,,,,,,,,,,,clinic,-76.478777,44.3766041,POINT
+6080195110,nodes,,,,,,,,Liu Dental Centre,,,,,,,dentist,-75.7574948,45.2862692,POINT
+6186714771,nodes,,,,,,,,Dr. Kevin Ratray & Associates,,,,,,,dentist,-75.7566635,45.2851902,POINT
+5912940523,nodes,,,,,,,,Pro Care Physiotherapy,,,,,,,clinic,-75.72327,45.3348287,POINT
+5835480955,nodes,,,,,,,,Preston Dental Centre,,,,,,,dentist,-75.7094847,45.4021676,POINT
+6195902012,nodes,,,,,,,,Ottawa TMJ and Sleep Apnea Clinic,,,,,,,dentist,-75.7743057,45.3692874,POINT
+6018494626,nodes,,,,,,,,Pearlee Dental,,,,,,,dentist,-75.7994378,45.3348744,POINT
+5874665739,nodes,,,,,,,,Back on Track Physiotherapy,,,,,,,clinic,-75.756301,45.3904425,POINT
+5950393382,nodes,,,,,,,,South-West Counselling Centre,,,,,,,clinic,-75.7794119,45.3242336,POINT
+5897278872,nodes,,,,,,,,Centrepointe Dental,,,,,,,dentist,-75.7624973,45.3428137,POINT
+11148637499,nodes,,,,,,,,Seeley's Bay Family Medical Clinic,,,,,,,clinic,-76.2374357,44.474132,POINT
+6896019166,nodes,,,,,,,,Seeley's Bay Drug Mart,,,,,,,pharmacy,-76.2375669,44.4740902,POINT
+6468700195,nodes,,,,,,,,Pharmasave,,,,,,,pharmacy,-76.0185637,44.40145,POINT
+5804291874,nodes,,,,,,,,Aphasia Centre of Ottawa,,,,,,,clinic,-75.7136925,45.3182537,POINT
+6171385790,nodes,,,,,,,,Gateway Dentistry,,,,,,,dentist,-75.9061638,45.335697,POINT
+6759399372,nodes,,,,,,,,Brockville Family Dentistry,,,,,,,dentist,-75.7130042,44.6081198,POINT
+5487391450,nodes,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.894911,45.3043775,POINT
+7341573274,nodes,,,,,,,,Loblaw Pharmacy,,"Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-17:00",,,,,pharmacy,-75.7356329,45.3616393,POINT
+6515366696,nodes,,,,,,,,Clinique Medicale Vieux-Aylmer,,,,,,,doctors,-75.8336187,45.3953701,POINT
+6815493626,nodes,,,,,,,,Claridge Dental,,,,,,,dentist,-75.7331291,45.2761458,POINT
+5861177010,nodes,,,,,,,,Allegra Dental,,,,,,,dentist,-75.7345895,45.3511161,POINT
+6080239919,nodes,,,,,,,,Braces Haven,,,,,,,dentist,-75.7773386,45.2648507,POINT
+5085979921,nodes,,,,,,,,Ottawa Sports Medicine Centre,,,,,,,clinic,-75.7398046,45.3602787,POINT
+5699786526,nodes,,,,,,,,Clyde Dental Centre,,,,,,,dentist,-75.7391198,45.3594187,POINT
+7341573273,nodes,,,,,,,,Green Valley Pharmacy,,,,,,,pharmacy,-75.7046747,45.3763667,POINT
+5731368059,nodes,,,,,,,,Dr Gordon Fogel,,,,,,,dentist,-75.8300038,45.3238272,POINT
+6699440127,nodes,,,,,,,,Dr. Serene Yu Family & Cosmetic Dentistry,,,,,,,dentist,-75.7026565,45.368503,POINT
+7039284219,nodes,,,,,,,,Clinique McGill,,,,,,,doctors,-75.6887093,45.4933765,POINT
+7039284218,nodes,,,,,,,,Unité de médecine familiale,,,,,,,doctors,-75.6886983,45.4932669,POINT
+3103074407,nodes,,,,,,,,Lapointe,,,,,,,dentist,-75.688867,45.4940298,POINT
+7039271204,nodes,,,,,,,,Clinique de Chirurgie Gatineau,,,,,,,doctors,-75.6885885,45.4926623,POINT
+13573042182,nodes,,,,,,,,My Medical Centers,,"Mo-Fr 09:00-18:00; Sa 09:00-14:00",,,,,doctors,-75.7237354,45.390806,POINT
+6515184056,nodes,,,,,,,,Dentisterie Aylmer,,,,,,,dentist,-75.8228865,45.3961692,POINT
+13478609392,nodes,,,,,,,,Stittsville Kanata Veterinary Hospital,,"Wed-Fri 8am-7pm; Sat-Sun 8am-6pm",,,,,hospital,-75.8703818,45.273924,POINT
+6077260128,nodes,,,,,,,,Associated Endodontists,,,,,,,dentist,-75.7005731,45.4010956,POINT
+5755216151,nodes,,,,,,,,Evolution Chiropractic,,,,,,,clinic,-75.7333665,45.2688547,POINT
+3690756444,nodes,,,,,,,,Denturoligist,,,,,,,dentist,-75.849285,45.394456,POINT
+5931725085,nodes,,,,,,,,Voyageur Dental,,,,,,,dentist,-75.5481814,45.475686,POINT
+6117201972,nodes,,,,,,,,Dr. Julie Rodrigue,,,,,,,doctors,-75.5834498,45.4542051,POINT
+6597932573,nodes,,,,,,,,Dr. Denise Moison and Dr. Eric Lavergne Dentistry,,,,,,,dentist,-75.3032742,45.5388858,POINT
+6600290340,nodes,,,,,,,,Skins Derma Care,,,,,,,doctors,-75.3018406,45.5413834,POINT
+6600368480,nodes,,,,,,,,Dentistry @ Rockland,,,,,,,dentist,-75.3012519,45.5420625,POINT
+5589563587,nodes,,,,,,,,Convent Glen Dental Centre,,,,,,,dentist,-75.5355173,45.4755318,POINT
+7341745844,nodes,,,,,,,,Pharmasave,,,,,,,pharmacy,-74.9052511,45.3851292,POINT
+4701933353,nodes,,,,,,,,Brunet,,,,,,,pharmacy,-75.0568413,45.8865064,POINT
+6023614380,nodes,,,,,,,,Renfrew Family Chiropractic,,,,,,,clinic,-76.7002304,45.482401,POINT
+6023614381,nodes,,,,,,,,Dynacare,,,,,,,clinic,-76.7003739,45.4823202,POINT
+6028241160,nodes,,,,,,,,Alternative Health Care Clinic,,,,,,,clinic,-76.6828108,45.4707102,POINT
+6028210038,nodes,,,,,,,,Aikenhead's Drug Store,,,,,,,pharmacy,-76.6836838,45.4714033,POINT
+3350396841,nodes,,,,,Uniprix,,,Uniprix,,,,,,,pharmacy,-76.4911564,45.6033059,POINT
+6319109460,nodes,,,,,,,,Kanata Periodontics,,,,,,,dentist,-75.9007564,45.3389493,POINT
+6600802817,nodes,,,,,,,,Rockland Dental Hygiene,,,,,,,dentist,-75.2924019,45.5480032,POINT
+6600216741,nodes,,,,,,,,Prescott and Russell Community Mental Health Centre,,,,,,,doctors,-75.3010561,45.5446972,POINT
+8870271465,nodes,,,,,Tamara Awada,,,PharmaChoice,,,,,,,pharmacy,-76.0770318,45.4842671,POINT
+10005029486,nodes,,,,,,,,Clinique Dentaire Bédard & Villeneuve,,,,,,,dentist,-74.6171287,45.6102357,POINT
+5996279161,nodes,,,,,,,,Hampton Park Optometry,,,,,,,clinic,-75.7406983,45.3861318,POINT
+7343726949,nodes,,,,,,,,Pharmasave,,,,,,,pharmacy,-76.4787271,44.3768095,POINT
+5960587134,nodes,,,,,,,,Place D'orléans Dental Office,,,,,,,dentist,-75.5141468,45.4763246,POINT
+5960587137,nodes,,,,,,,,Dental Docs,,,,,,,dentist,-75.5143332,45.4763415,POINT
+3358563838,nodes,,,,,,,,OptoDent Centre,,,,,,,dentist,-75.7720152,45.3698927,POINT
+1037346214,nodes,,,,,,,,PharmaChoice,,,,,,,pharmacy,-76.3544203,45.4332432,POINT
+3978307272,nodes,,,,,,,,Dr. Sirwan Al Kadhi,,,,,,,dentist,-75.6703962,45.3805875,POINT
+7440274049,nodes,,,,,,,,Bridle Path Medical Clinic,,,,,,,clinic,-75.6457988,45.3483945,POINT
+5834617608,nodes,,,,,,,,Blue Heron Dental Group,,,,,,,dentist,-75.6703976,45.3806856,POINT
+5974055766,nodes,,,,,,,,Dr. L. Robinson,,,,,,,doctors,-75.7133625,45.3962935,POINT
+6392325464,nodes,,,,,Walmart,,,Walmart Pharmacy,,,,,,,pharmacy,-75.805601,45.3474186,POINT
+7343390957,nodes,,,,,,,,Walmart Pharmacy,,,,,,,pharmacy,-76.6559767,45.4796739,POINT
+9072207274,nodes,,,,,,,,Uniprix,,,,,,,pharmacy,-75.2442152,45.5994317,POINT
+6018494625,nodes,,,,,,,,Senses Physiotherapy,,,,,,,clinic,-75.7996412,45.3348625,POINT
+5866054523,nodes,,,,,,,,Get Physical Physiotherapy,,,,,,,clinic,-75.5906622,45.4557178,POINT
+4514625024,nodes,,,,,,,,Medview Optometry Clinic,,,,,,,clinic,-75.5895775,45.4533383,POINT
+5534088413,nodes,,,,,,,,Cooper Physiotherapy Clinic,,,,,,,clinic,-75.5521417,45.2622596,POINT
+7343390955,nodes,,,,,,,,I.D.A.,,,,,,,pharmacy,-76.8597804,45.7358289,POINT
+9247067111,nodes,,,,,,,,Blooming Smiles,,,,,,,dentist,-75.6358843,45.029891,POINT
+3646536175,nodes,,,,,,,,Clinique Dentaire Chiasson et associés,,,,,,,dentist,-75.7667248,45.460118,POINT
+12909358406,nodes,,,,,,,,The Balanced Practice,,,,,,,clinic,-75.6778411,45.3883191,POINT
+3667311990,nodes,,,,,,,,Steadfast Dental,,,,,,,dentist,-75.6416827,45.4430883,POINT
+12410415367,nodes,,,,,Pharmasave Wateridge Compounding Pharmacy,,,Pharmasave,,"Mo-Fr 09:00-19:00, Sa 10:00-17:00",,,,,pharmacy,-75.63388,45.45232,POINT
+12737519481,nodes,,,,,Dr. Youssef Mersal,,,Wateridge Dentist,,,,,,,dentist,-75.633723,45.4527773,POINT
+6580689206,nodes,,,,,,,,Altima Dental,,,,,,,dentist,-75.1810728,44.9013754,POINT
+7341652364,nodes,,,,,,,,Drugstore Pharmacy,,"Mo-Fr 08:00-19:00; Sa 09:00-17:00; Su 09:00-17:00",,,,,pharmacy,-75.6633189,45.3721187,POINT
+6284376559,nodes,,,,,,,,Groupe Dentis,,"Mo 08:00-20:00; Tu-Th 08:00-19:00; Fr 08:00-16:00",,,,,dentist,-75.6921027,45.4753903,POINT
+6284376563,nodes,,,,,,,,Centre De Spécialité Orthodontique De Gatineau,,"Mo-Th 08:00-12:00, 13:00-17:00",,,,,dentist,-75.6915361,45.4761233,POINT
+5576344368,nodes,,,,,,,,Kanata Allergy Clinic,,,,,,,doctors,-75.8812973,45.3098186,POINT
+5648501096,nodes,,,,,,,,Kanata Dental Hygiene,,,,,,,dentist,-75.8798821,45.303153,POINT
+1691666915,nodes,,,,,,,,Jean Coutu,,,,,,,pharmacy,-75.4121688,45.5793985,POINT
+5897661862,nodes,,,,,,,,"Dr. Guy Lacoste, orthodontiste",,,,,,,dentist,-75.4162838,45.5853607,POINT
+5881518161,nodes,,,,,,,,Terry Fox Dental,,,,,,,dentist,-75.9064709,45.3004288,POINT
+6515657039,nodes,,,,,,,,"Dubreuil & Levesque, Dentistes",,,,,,,dentist,-75.8524914,45.3941802,POINT
+12492670790,nodes,,,,,,,,Pharmacie Joëlle Jammal,,"Mo-Fr 10:00-18:00; Sa 10:00-17:00",,,,,pharmacy,-75.6800068,45.4858023,POINT
+5893510487,nodes,,,,,,,,Boardwalk Dental Care,,,,,,,dentist,-75.6822026,44.5879789,POINT
+9762194766,nodes,,,,,,,,CLSC de Gatineau,,,,,,,clinic,-75.7229202,45.4801462,POINT
+2685175326,nodes,,,,,,,,Appletree Medical Centre,,,,,,,doctors,-75.712214,45.4055015,POINT
+6470938079,nodes,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.6874376,44.5876736,POINT
+5676880040,nodes,,,,,,,,Bank Street Dentistry,,,,,,,dentist,-75.6812965,45.3920144,POINT
+5363534911,nodes,,,,,,,,CLSC de Val-des-Monts,,,,,,,clinic,-75.6192173,45.5850856,POINT
+13323932448,nodes,,,,,,,,Centre dentaire de Wakefield,,,,,,,dentist,-75.9338299,45.624801,POINT
+5692990024,nodes,,,,,Medical Pharmacies Group Limited,,,Medical Pharmacies,,"Mo-Fr 08:30-18:00; Sa-Su 08:30-17:00 ""emergency service; call +1-613-244-4683""",,,,,pharmacy,-75.6476656,45.4013655,POINT
+5940011733,nodes,,,,,,,,Ontario Centre of Excellence for Child and Youth Mental Health,,,,,,,clinic,-75.6384283,45.4104194,POINT
+13341720806,nodes,,,,,,,,ByWard Family Health Team,,,,,,,doctors,-75.6848529,45.4289659,POINT
+968139336,nodes,,,,,,,,Shoppers Drug Mart,,"Mo-Fr 08:00-22:00; Sa 09:00-18:00; Su 10:00-18:00",,,,,pharmacy,-75.6991059,45.4183444,POINT
+5849261806,nodes,,,,,,,,Kilborn Pharmacy,,,,,,,pharmacy,-75.6718473,45.3844689,POINT
+12889205351,nodes,,,,,,,,ottawa east endodontics,,,,,,,dentist,-75.6249806,45.4016633,POINT
+8855178313,nodes,,,,,ElevateRx Medical Aesthetics Inc.,,,ElevateRx Medical Aesthetics,,,business,,,,clinic,-75.7073653,45.4061878,POINT
+5836744305,nodes,,,,,,,,Somerset Dental Centre,,,,,,,dentist,-75.7072462,45.4106522,POINT
+5667458691,nodes,,,,,,,,Rideau Clinic Pharmacy,,,,,,,clinic,-75.6764634,45.4324845,POINT
+5834483715,nodes,,,,,,,,Proactive Pharmacy,,"Mo-Fr 09:00-18:00; Sa 10:00-16:00; Su 10:00-13:00",,,,,pharmacy,-75.6663488,45.3770979,POINT
+12992921068,nodes,,,,,,,,A2 Dental,,,,,,,dentist,-75.6884606,45.3730717,POINT
+7177395920,nodes,,,,,,,,WholeHealth Pharmacy,,"Mo,Th 09:00-18:00; Tu,We,Fr 09:00-17:00; Sa 10:00-15:00",,,,,pharmacy,-75.6212101,45.4307289,POINT
+13084867308,nodes,,,,,,,,Vital Medical Centre,,"Mo-Th 07:30-16:00; Fr 09:00-12:00; Sa 10:00-12:00",,,,,clinic,-75.6816821,45.3388526,POINT
+13131714454,nodes,,,,,Passport Health,,,Passport Health Downtown Ottawa Travel Clinic,,,private,,,,clinic,-75.6971056,45.4211777,POINT
+13441792074,nodes,,,,,,,,St. Mary Pharmacy & Family Clinic,,,,,,,pharmacy,-75.6897885,45.4268983,POINT
+6392325471,nodes,,,,,Walmart,,,Walmart Pharmacy,,,,,,,pharmacy,-75.6541608,45.3544665,POINT
+7341652366,nodes,,,,,,,,Loblaw Pharmacy,,"Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 09:00-18:00",,,,,pharmacy,-75.6571052,45.3577235,POINT
+795932273,nodes,,,,,,,,BlueSky Dental Holland Cross,,Mo-Fr 08:00-17:00,,,,,dentist,-75.7333846,45.4032246,POINT
+6549549886,nodes,,,,,,,,Dermapure,,,,,,,clinic,-75.734081,45.399032,POINT
+2381712495,nodes,,,,,,,,Clinique Dentaire Mont-Tremblant,,,,,,,dentist,-74.5917677,46.1244839,POINT
+4405710194,nodes,,,,,,,,Jean Coutu,,,,,,,pharmacy,-74.5978492,46.1180477,POINT
+8936763846,nodes,,,,,Passport Health,,,Passport Health Carlington Ottawa Travel Clinic,,,private,,,,clinic,-75.7235768,45.3909057,POINT
+5950393379,nodes,,,,,,,,Greenbank Counselling & Psychotherapy,,,,,,,clinic,-75.7792872,45.3242725,POINT
+5445740599,nodes,,,,,,,,Clinic Pharmacy An,,,,,,,pharmacy,-75.7116002,45.4092898,POINT
+4712752291,nodes,,,,,,,,Clinique Dentaire Docteurs Brault,,,,,,,dentist,-74.6019328,46.1185696,POINT
+6470960798,nodes,,,,,,,,George Street Dental,,,,,,,dentist,-75.6883898,44.5883951,POINT
+7343268946,nodes,,,,,,,,Drugstore Pharmacy,,,,,,,pharmacy,-75.6893633,44.6140134,POINT
+6369130406,nodes,,,,,,,,Leeds Pharmacy,,,,,,,pharmacy,-75.6839526,44.5985756,POINT
+6392120588,nodes,,,,,Walmart,,,Walmart Pharmacy,,,,,,,pharmacy,-75.6495226,45.413469,POINT
+9187423369,nodes,,,,,,,,Jean Coutu,,,,,,,pharmacy,-74.6115669,45.6092222,POINT
+7341745842,nodes,,,,,,,,Jean Coutu,,,,,,,pharmacy,-74.6087627,45.5987105,POINT
+5855364268,nodes,,,,,,,,Dr. Marcia Spooner,,,,,,,doctors,-76.1391257,45.133294,POINT
+5855364269,nodes,,,,,,,,Heritage Dental,,,,,,,dentist,-76.1392061,45.1333877,POINT
+5855364272,nodes,,,,,,,,Chiroactive Wellness Centre,,,,,,,clinic,-76.1390901,45.1336999,POINT
+6319258017,nodes,,,,,,,,La Vie Executive Health Centre,,,,,,,doctors,-75.9184094,45.3482914,POINT
+6515184062,nodes,,,,,,,,Clinique Podiatrique de Gatineau,,,,,,,doctors,-75.8235772,45.3961277,POINT
+6034342261,nodes,,,,,,,,Ottawa-Carleton Physio,,,,,,,clinic,-75.6892884,45.4299401,POINT
+6720217569,nodes,,,,,,,,Dr. Richard Labelle & Dr. Stephane Caron,,,,,,,dentist,-75.413637,45.5894998,POINT
+5727128315,nodes,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.6759229,45.0429253,POINT
+5893678279,nodes,,,,,,,,Taylor Creek Psychological Services,,,,,,,clinic,-75.4865751,45.4903196,POINT
+6682365650,nodes,,,,,,,,Best Care Pharmacy,,,,,,,pharmacy,-75.4954049,45.4589125,POINT
+7102131023,nodes,,,,,,,,Effortless IVF,,,,,,,clinic,-75.4957597,45.4588514,POINT
+5931651674,nodes,,,,,,,,Orthodontist - Dr. V.W. Kuzmicz,,,,,,,dentist,-75.5258024,45.4709133,POINT
+6468639895,nodes,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.9514998,44.6264312,POINT
+6760252705,nodes,,,,,,,,Brockville Family Health Team,,,,,,,doctors,-75.6845601,44.587064,POINT
+9674471791,nodes,,,,,,,,Pharma Land,,,,,,,pharmacy,-75.6097106,45.4455949,POINT
+5832443686,nodes,,,,,,,,Yazdani Family Dentistry,,,,,,,dentist,-75.646829,45.0179375,POINT
+7752634544,nodes,,,,,,,,Findlay Creek Pharmacy,,,,,,,pharmacy,-75.5916445,45.318755,POINT
+7343268945,nodes,,,,,,,,Brockville Medical Pharmacy,,,,,,,pharmacy,-75.7017784,44.5923725,POINT
+6759765969,nodes,,,,,,,,Dr. John Arnott Dentistry,,,,,,,dentist,-75.6832282,44.5905673,POINT
+6759519117,nodes,,,,,,,,Continuum Dental Care,,,,,,,dentist,-75.7059822,44.5985444,POINT
+6759519119,nodes,,,,,,,,Dr. J.W.H. Hynd,,,,,,,doctors,-75.7060084,44.5984347,POINT
+6484639506,nodes,,,,,,,,Glengarry Dental Centre,,,,,,,dentist,-74.636528,45.3108402,POINT
+6484639596,nodes,,,,,,,,Happy Feet Medical Foot Care,,,,,,,doctors,-74.6357086,45.3098659,POINT
+6484639598,nodes,,,,,,,,Optometristes,,,,,,,doctors,-74.6354941,45.3098947,POINT
+6427086073,nodes,,,,,,,,Urbaine Centre Dentaire,,,,,,,dentist,-75.7007387,45.4787046,POINT
+6481183083,nodes,,,,,,,,Ottawa Integrative Health Centre,,,,,,,doctors,-75.7423177,45.3781306,POINT
+6484639599,nodes,,,,,,,,Family Medicine Clinic,,,,,,,doctors,-74.6353472,45.3097612,POINT
+7341658234,nodes,,,,,,,,Drugstore Pharmacy,,,,,,,pharmacy,-76.0264479,44.8925828,POINT
+6340465467,nodes,,,,,,,,Community & Primary Health Care,,,,,,,doctors,-75.5206364,44.7054854,POINT
+9283130665,nodes,,,,,,,,stratusMD Dr. James Daniel,,,,,,,doctors,-75.7087725,45.3997706,POINT
+3690388324,nodes,,,,,Pharmacie Stéphanie La Buissonnière,,,Pharmacie Stéphanie La Buissonnière,,,,,,,pharmacy,-75.766508,45.435503,POINT
+2951395158,nodes,,,,,,,,Guardian,,,,,,,pharmacy,-76.2217617,44.6083445,POINT
+6960840873,nodes,,,,,,,,Remedy'sRx,,,,,,,pharmacy,-76.1817782,45.2339519,POINT
+7341658244,nodes,,,,,,,,Drugstore Pharmacy,,,,,,,pharmacy,-75.6651631,45.429185,POINT
+7341658231,nodes,,,,,,,,Walmart Pharmacy,,,,,,,pharmacy,-75.6286623,45.0290447,POINT
+5296719918,nodes,,,,,,,,Ottawa Art Therapy,,,,,,,clinic,-75.6184874,45.411716,POINT
+766189793,nodes,,,,,Medical Pharmacies,,,Medical Pharmacy,,"Mo-Th 09:00-17:00; Fr 09:00-16:00",,,,,pharmacy,-75.7550581,45.3775368,POINT
+8034252294,nodes,,,,,,,,Smiths Falls COVID-19 Assessment Centre,,,,,,,clinic,-76.0275448,44.9075633,POINT
+7341573276,nodes,,,,,,,,Loblaw Pharmacy,,"Mo-Fr 08:00-19:00; Sa 09:00-17:00; Su 10:00-18:00",,,,,pharmacy,-75.7307898,45.3510724,POINT
+12726831746,nodes,,,,,,,,Brockville Home Health Care,,,,,,,clinic,-75.6833825,44.5989018,POINT
+7341658235,nodes,,,,,,,,Walmart Pharmacy,,,,,,,pharmacy,-76.0330013,44.8925971,POINT
+7341658229,nodes,,,,,,,,I.D.A.,,,,,,,pharmacy,-75.214603,45.5075493,POINT
+7341658230,nodes,,,,,,,,Walmart Pharmacy,,,,,,,pharmacy,-75.3063853,45.5319661,POINT
+10091145012,nodes,,,,,,,,West Carleton Dental Group,,,,,,,dentist,-76.0318003,45.345518,POINT
+10091145011,nodes,,,,,,,,West Carleton Family Health Team,,,,,,,doctors,-76.0317191,45.3455586,POINT
+9948536824,nodes,,,,,,,,I.D.A.,,,,,,,pharmacy,-76.0203707,44.8995034,POINT
+2706204927,nodes,,,,,,,,Cornelia Court Medical Centre,,,,,,,clinic,-76.0295238,44.9057307,POINT
+7341658233,nodes,,,,,,,,Rexall,,,,,,,pharmacy,-76.0297539,44.9055595,POINT
+6154404896,nodes,,,,,,,,La Vie Health,,,,,,,clinic,-75.7017902,45.4186239,POINT
+6093977207,nodes,,,,,,,,Rexall,,,,,,,pharmacy,-75.6939648,45.419191,POINT
+5756769159,nodes,,,,,,,,OATC,,,,,,,clinic,-75.6977052,45.4149977,POINT
+5951860120,nodes,,,,,,,,Vitality Massage Therapy,,,,,,,clinic,-75.6895003,45.417498,POINT
+6067392239,nodes,,,,,,,,Omniclinique de l'Outaouais,,,,,,,clinic,-75.7451387,45.4627625,POINT
+6428368569,nodes,,,,,,,,Clinique Dentaire Touraine,,,,,,,dentist,-75.7180765,45.4709251,POINT
+4750969112,nodes,,,,,,,,Rideau Friel Medical Clinic,,,,,,,clinic,-75.6814591,45.4307262,POINT
+5931891871,nodes,,,,,,,,Ottawa Inner City Health,,,,,,,doctors,-75.6842244,45.4340185,POINT
+5931891872,nodes,,,,,,,,Centre Medical Ste-Anne,,,,,,,clinic,-75.6841265,45.4341183,POINT
+6015802202,nodes,,,,,,,,Vertefeuille Pavilion,,,,,,,clinic,-75.6552137,45.4320504,POINT
+2757424662,nodes,,,,,,,,Carrefour Vanier Vein Clinic,,,,,,,doctors,-75.6649321,45.4343236,POINT
+10092414784,nodes,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.6535124,45.4277294,POINT
+6015802208,nodes,,,,,,,,Parkway Pharmacy,,,,,,,pharmacy,-75.6554421,45.4318532,POINT
+6015802205,nodes,,,,,,,,CareMedics,,,,,,,clinic,-75.6552253,45.4318621,POINT
+5667366790,nodes,,,,,,,,Respect Rx,,,,,,,pharmacy,-75.6686005,45.4334948,POINT
+9296868309,nodes,,,,,,,,Recovery Care,,,,,,,clinic,-75.6852075,45.4287998,POINT
+9296868312,nodes,,,,,,,,I.D.A.,,,,,,,pharmacy,-75.6824965,45.4299434,POINT
+6652400124,nodes,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.6851619,45.4288261,POINT
+7014394888,nodes,,,,,,,,Dentistry @ Smiths Falls,,,,,,,dentist,-76.0154947,44.8825435,POINT
+3690440653,nodes,,,,,,,,Proxim,,,,,,,pharmacy,-75.720184,45.43045,POINT
+3690576587,nodes,,,,,,,,Clinique Medicale Lacroix,,,,,,,doctors,-75.7328782,45.4353666,POINT
+3690610359,nodes,,,,,,,,Oraltech,,,,,,,dentist,-75.732619,45.437935,POINT
+3690779432,nodes,,,,,,,,Centre d'Orthodontie Dr. Eric Fortier,,,,,,,dentist,-75.7360319,45.4503094,POINT
+6067433320,nodes,,,,,,,,Clinique Medicale Cite-des-Jeunes,,,,,,,clinic,-75.7554035,45.4495802,POINT
+6067433321,nodes,,,,,,,,Clinique Dentaire Dr. Cocaud & Associes,,,,,,,dentist,-75.7554477,45.4496724,POINT
+6465066916,nodes,,,,,,,,Polyclinique de l'Oreille,,,,,,,doctors,-75.7323177,45.438657,POINT
+6465066943,nodes,,,,,,,,Maxillo Outaouais,,,,,,,dentist,-75.7306024,45.4397975,POINT
+6465066944,nodes,,,,,,,,Médecine Familiale Montclair,,,,,,,doctors,-75.7308103,45.4400252,POINT
+6465066945,nodes,,,,,,,,Clinique de Médecine Familiale de Hull,,,,,,,doctors,-75.730817,45.439964,POINT
+6465108241,nodes,,,,,,,,Clinique Dentaire St-Joseph,,,,,,,dentist,-75.7332109,45.4363543,POINT
+6465280507,nodes,,,,,,,,IRM St-Joseph,,,,,,,doctors,-75.7327442,45.4351045,POINT
+6465280510,nodes,,,,,,,,Clinique de Radiologie de Hull,,,,,,,doctors,-75.733516,45.4351977,POINT
+6465280561,nodes,,,,,,,,Clinique d'Echographie de l'Outaouais,,,,,,,doctors,-75.7334322,45.4351977,POINT
+6511630905,nodes,,,,,,,,Dr. Tom Iwanowski,,,,,,,dentist,-75.7340437,45.4434955,POINT
+6511630907,nodes,,,,,,,,Clinique Podiatrique de Gatineau,,,,,,,doctors,-75.734328,45.4434917,POINT
+6504997172,nodes,,,,,,,,Proxim,,,,,,,pharmacy,-75.7321917,45.4451609,POINT
+5962107004,nodes,,,,,,,,I.D.A.,,,,,,,pharmacy,-75.4861245,45.4616225,POINT
+5868722851,nodes,,,,,,,,Jerry Ritt Psychology,,,,,,,clinic,-75.6904907,45.4176218,POINT
+5868722842,nodes,,,,,,,,Somerset Health & Wellness Centre,,,,,,,clinic,-75.6904263,45.4174538,POINT
+975865643,nodes,,,,,,,,Dr. John A. Izzard & Assoc.,,,,,,,dentist,-75.6973323,45.4209733,POINT
+6154412755,nodes,,,,,,,,L'Esplanade Dental Centre,,,,,,,dentist,-75.6973793,45.4186663,POINT
+6104060089,nodes,,,,,,,,Dr. Michael Iwanoff,,,,,,,dentist,-75.6960221,45.4195295,POINT
+5720726900,nodes,,,,,,,,Dr. Jordan Pettigrew,,,,,,,dentist,-75.7515357,45.3932865,POINT
+5833495289,nodes,,,,,,,,Shifa Dentistry,,,,,,,dentist,-75.6621816,45.3675985,POINT
+4687304205,nodes,,,,,,,,arc of life,,,,,,,clinic,-75.7371556,45.398475,POINT
+808803786,nodes,,,,,,,,Parkdale Dental Centre,,,,,,,dentist,-75.7291241,45.4013499,POINT
+5974055764,nodes,,,,,,,,Radiant Health Studio,,,,,,,clinic,-75.7132184,45.3962671,POINT
+5974055765,nodes,,,,,,,,Ray Robertson,,,,,,,clinic,-75.7132848,45.3962784,POINT
+5720792407,nodes,,,,,,,,Ottawa Performance Care,,,,,,,clinic,-75.7377002,45.3988153,POINT
+6110092015,nodes,,,,,,,,Pai Medical Group,,,,,,,clinic,-75.6927048,45.4123654,POINT
+6414973276,nodes,,,,,,,,Dignified Veteran Assistance Clinic,,,,,,,clinic,-75.6966921,45.4128535,POINT
+6050142323,nodes,,,,,,,,Seguin Dental,,,,,,,dentist,-75.6968298,45.4127847,POINT
+5825900104,nodes,,,,,,,,Holistic Roots Massage Therapy & Wellness,,,,,,,clinic,-75.7020161,45.4026912,POINT
+5874696204,nodes,,,,,,,,Realign and Flow,,,,,,,clinic,-75.75515,45.391725,POINT
+5903073862,nodes,,,,,,,,Les Ateliers de L'Élan,,,,,,,doctors,-75.6562725,45.4377802,POINT
+6591958132,nodes,,,,,,,,Wholehealth Pharmacy,,,,,,,pharmacy,-75.6703091,45.443375,POINT
+4310300214,nodes,,,,,,,,Rexall,,,,,,,pharmacy,-75.6098223,45.4328504,POINT
+6414973278,nodes,,,,,,,,Dr. JoAnne Rochon,,,,,,,dentist,-75.6966833,45.4127732,POINT
+3959866393,nodes,,,,,,,,Rexall,,,,,,,pharmacy,-75.7404453,45.3860992,POINT
+9611926165,nodes,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.6837064,45.2242478,POINT
+9333241802,nodes,,,,,,,,Urban Dental Centre,,"Mo-Th 08:00-16:30; Fr 09:00-15:00",,,,,dentist,-75.6994029,45.4191471,POINT
+12997429378,nodes,,,,,,,,Chinatown ideal pharmacy,,"Mo-Fr 09:00-18:00; Sa 09:00-14:00",,,,,pharmacy,-75.7091559,45.4099455,POINT
+13078318595,nodes,,,,,,,,Westboro Ideal Pharmacy,,,,,,,pharmacy,-75.750026,45.3968725,POINT
+6159124193,nodes,,,,,,,,Centretown Orthodontics,,,,,,,dentist,-75.6927411,45.4076721,POINT
+6159124192,nodes,,,,,,,,Prosthodontics on Chamberlain,,,,,,,dentist,-75.6928198,45.4076504,POINT
+5874696205,nodes,,,,,,,,The Massage Space,,,,,,,clinic,-75.755087,45.3917344,POINT
+5874665742,nodes,,,,,,,,Poised Massage Therapy,,,,,,,clinic,-75.7541415,45.3917514,POINT
+5874665738,nodes,,,,,,,,Solefit,,,,,,,clinic,-75.7564422,45.3904978,POINT
+13109526920,nodes,,,,,,,,The Smile Doctors,,,,,,,dentist,-75.7659199,45.3493732,POINT
+6080239925,nodes,,,,,,,,Pathways Psychological and Counselling Services,,,,,,,clinic,-75.776894,45.2653968,POINT
+795932428,nodes,,,,,,,,Rexall,,"Mo-Fr 08:00-18:00; Sa 10:00-15:00",,,,,pharmacy,-75.733624,45.4033541,POINT
+6256002316,nodes,,,,,,,,Clinique Dentaire Dr Alain Quinn,,"Mo-Tu 08:00-20:00, We 08:00-17:00, Th 08:00-20:00, Fr 08:00-13:00",,,,,dentist,-75.7437536,45.4872174,POINT
+6392275058,nodes,,,,,Walmart Canada,,,Walmart Pharmacy,,,,,,,pharmacy,-75.7194445,45.4646513,POINT
+3733591481,nodes,,,,,,,,Hog's Back Dental Centre,,,,,,,dentist,-75.7034764,45.3691549,POINT
+6135912214,nodes,,,,,,,,Livewell Family Health Centre,,,,,,,clinic,-75.7654201,45.34548,POINT
+1143314023,nodes,,,,,Rexall,,,I.D.A.,,"Mo-Fr 09:00-20:00; Sa-Su 10:00-18:00",,,,,pharmacy,-75.7057077,45.4071888,POINT
+6392308018,nodes,,,,,Walmart Canada,,,Walmart Pharmacy,,,,,,,pharmacy,-75.771364,45.4355704,POINT
+5861177008,nodes,,,,,,,,Cityview Family Dental Centre,,,,,,,dentist,-75.7344407,45.3511542,POINT
+5861177005,nodes,,,,,,,,Dr. Lal Medical Clinic,,,,,,,doctors,-75.7345057,45.3511368,POINT
+5700712711,nodes,,,,,,,,Lima Denture,,,,,,,dentist,-75.7344005,45.3512282,POINT
+11241104416,nodes,,,,,,,,Star Dental,,,,,,,dentist,-75.7503036,45.3967045,POINT
+9576489725,nodes,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.6189334,45.4013795,POINT
+7343390958,nodes,,,,,,,,Calabogie Pharmacy,,,,,,,pharmacy,-76.7306864,45.2998408,POINT
+2961981803,nodes,,,,,,,,,,,,,,,doctors,-76.730567,45.2999085,POINT
+5973776748,nodes,,,,,,,,Watersedge Dental Lab,,,,,,,clinic,-75.7492411,45.3714906,POINT
+5973776756,nodes,,,,,,,,Capital Athletic Therapy,,,,,,,clinic,-75.7499787,45.3730178,POINT
+7341658236,nodes,,,,,,,,Walmart Pharmacy,,,,,,,pharmacy,-76.1259543,45.1336424,POINT
+9278245722,nodes,,,,,,,,Costello Family Dentistry,,,,,,,dentist,-76.1275667,45.1439644,POINT
+6960840871,nodes,,,,,,,,Dentistry @ Almonte,,,,,,,dentist,-76.1813731,45.2350804,POINT
+6053054339,nodes,,,,,,,,Colonnade Dental,,,,,,,dentist,-75.7074241,45.34321,POINT
+5891378253,nodes,,,,,,,,Citiplace Dental,,,,,,,dentist,-75.7087861,45.3477018,POINT
+2792415410,nodes,,,,,,,,Liu Dental,,,,,,,dentist,-75.6907657,45.333908,POINT
+5815813974,nodes,,,,,,,,Orléans Naturopath,,,,,,,clinic,-75.5002101,45.4490655,POINT
+2508971652,nodes,,,,,,,,Seaway Valley Community Health Centre,,,,,,,clinic,-74.7299221,45.0210398,POINT
+5888798622,nodes,,,,,,,,Adio Chiropractic,,"We,Fr 07:30-12:00; Th 14:00-18:00; Tu 07:30-18:00",,,,,doctors,-75.2934614,45.2700401,POINT
+5912904163,nodes,,,,,,,,Gilmer Pharmacy Pharmachoice,,"Mo 09:00-17:30; Tu-Th 09:00-18:00; Fr 09:00-20:00; Sa 09:00-17:00",,,,,pharmacy,-75.316452,44.8490728,POINT
+6565089695,nodes,,,,,,,,Medical Imaging,,,,,,,doctors,-75.0825351,45.3054847,POINT
+3938123459,nodes,,,,,,,,Casselman Dental Clinic,,,,,,,dentist,-75.0838831,45.3099805,POINT
+4143839521,nodes,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.2296357,45.1029173,POINT
+7072570344,nodes,,,,,,,,Chesterville Medical Clinic,,,,,,,doctors,-75.2292171,45.1016997,POINT
+5808944159,nodes,,,,,,,,Winchester Optometry,,,,,,,clinic,-75.3539452,45.0931134,POINT
+7341745845,nodes,,,,,,,,Remedy'sRx,,,,,,,pharmacy,-74.9669704,45.1721579,POINT
+11382662119,nodes,,,,,,,,Dentistry at the Crossing,,,,,,,dentist,-75.7237212,45.331611,POINT
+12015063851,nodes,,,,,,,,Stittsville Medical Clinic,,,,,,,clinic,-75.9287654,45.2686707,POINT
+4712797089,nodes,,,,,,,,Centre de Santé Dentaire Mont-Tremblant,,,,,,,dentist,-74.5795728,46.1187437,POINT
+4426515789,nodes,,,,,,,,CLSC de Mont-Tremblant,,,,,,,clinic,-74.5954733,46.1153489,POINT
+8955513226,nodes,,,,,,,,Proxim,,,,,,,pharmacy,-76.0522424,46.0934607,POINT
+5855365094,nodes,,,,,,,,Family Physicians,,,,,,,doctors,-76.1407907,45.1355949,POINT
+6286413877,nodes,,,,,,,,Monique Lalonde,,,,,,,dentist,-75.6523235,45.4917138,POINT
+5777078827,nodes,,,,,,,,I.D.A.,,,,,,,pharmacy,-75.8073351,45.3546672,POINT
+5726053115,nodes,,,,,,,,Westgate Health Centre,,,,,,,clinic,-75.7344648,45.3856209,POINT
+5996279156,nodes,,,,,,,,Ontario Breast Screening Program,,,,,,,clinic,-75.7401095,45.3863,POINT
+3110030528,nodes,,,,,,,,Uniprix,,,,,,,pharmacy,-74.5956429,46.1188813,POINT
+10075311961,nodes,,,,,,,,Groove Dental,,,,,,,dentist,-75.9256711,45.3232427,POINT
+11143748357,nodes,,,,,,,,I.D.A.,,,,,,,pharmacy,-75.9263018,45.3234194,POINT
+5808171244,nodes,,,,,,,,Medical Clinic,,,,,,,clinic,-75.3731418,45.0871665,POINT
+5887974212,nodes,,,,,,,,Remedy'sRx,,,,,,,pharmacy,-75.3035733,45.2688745,POINT
+8408127712,nodes,,,,,,,,Clinique médicale du Grand Tremblant,,,,,,,clinic,-74.5922914,46.1221489,POINT
+4711415989,nodes,,,,,,,,GMF de Mont-Tremblant,,,,,,,clinic,-74.5958089,46.1189032,POINT
+11957650087,nodes,,,,,,,,Derma Jouvence,,,,,,,clinic,-74.6044178,46.1186598,POINT
+11944115236,nodes,,,,,,,,Familiprix,,,,,,,pharmacy,-74.597573,46.118598,POINT
+5724408342,nodes,,,,,,,,Health Treasure Medical Centre,,,,,,,doctors,-75.7574453,45.2862395,POINT
+6427109845,nodes,,,,,,,,Dentiste Rosita Agharazii,,,,,,,dentist,-75.7018894,45.4805514,POINT
+7341573278,nodes,,,,,,,,Costco Pharmacy,,,,,,,pharmacy,-75.7850852,45.2684913,POINT
+6564661177,nodes,,,,,,,,"Dr. M. Anderson, Optometrist",,,,,,,doctors,-75.0893272,45.3152483,POINT
+4333120197,nodes,,,,,,,,Ly Dentures,,Mo-Fr 13:30-17:00,,,,,dentist,-75.7287899,45.4010484,POINT
+5726053114,nodes,,,,,,,,White Teeth Dental,,,,,,,dentist,-75.7340585,45.3857669,POINT
+6080195116,nodes,,,,,,,,Dr. Boparai,,"Mo, Tu, Th, Fr 09:00-12:00, 13:00-16:00",,,,,doctors,-75.7579298,45.2866552,POINT
+6080195117,nodes,,,,,,,,Limelight Chiropractic,,,,,,,clinic,-75.7579464,45.2866886,POINT
+11172289004,nodes,,,,,,,,Pharmaprix,,,,,,,pharmacy,-74.6115051,45.5978694,POINT
+5835515525,nodes,,,,,,,,Guardian,,"Mo-Fr 09:00-18:00; Sa,Su 10:00-15:00",,,,,pharmacy,-75.7122058,45.4054496,POINT
+12351929040,nodes,,,,,,,,Little Lion Dental Client,,,,,,,dentist,-75.7431554,45.3965999,POINT
+747295198,nodes,,,,,,,,Pharmasave,,"Mo-Sa 09:00-17:00; Su 11:00-16:00",,,,,pharmacy,-75.7521864,45.3926158,POINT
+1683695246,nodes,,,,,,,,Shoppers Drug Mart,,Mo-Su 08:00-22:00,,,,,pharmacy,-75.7570065,45.390351,POINT
+2420116250,nodes,,,,,,,,,,,,,,,clinic,-75.2193953,45.3147005,POINT
+7341658243,nodes,,,,,,,,St. Laurent Medical Centre Pharmacy,,,,,,,pharmacy,-75.6409045,45.4298016,POINT
+6654004752,nodes,,,,,,,,Dr. L. Pincombe,,,,,,,dentist,-76.1449293,45.1398492,POINT
+6960899968,nodes,,,,,,,,Lanark Renfrew Lung Health Program,,,,,,,doctors,-76.1838555,45.232795,POINT
+6960899979,nodes,,,,,,,,Dr. Louis Family Dental,,,,,,,dentist,-76.183814,45.2333701,POINT
+5874394679,nodes,,,,,,,,Dr. H. Duong,,,,,,,dentist,-75.7590134,45.3535275,POINT
+5874394682,nodes,,,,,,,,Dr. Shelly Jordon Clinical Psychologist,,,,,,,doctors,-75.7591723,45.3534233,POINT
+5842916932,nodes,,,,,,,,Dr. Jessica Cantor,,,,,,,dentist,-75.7676813,45.3488286,POINT
+1806779203,nodes,,,,,,,,Your Independent Grocer Pharmacy,,,,,,,pharmacy,-75.6978621,45.2705579,POINT
+7341061349,nodes,,,,,,,,Costco Pharmacy,,,,,,,pharmacy,-75.9137572,45.3028876,POINT
+6666106318,nodes,,,,,,,,David F. Schooley Dentist,,,,,,,dentist,-75.8948071,45.3044216,POINT
+5857487903,nodes,,,,,,,,Carleton Place Dental Centre,,,,,,,dentist,-76.1443372,45.138257,POINT
+3281224244,nodes,,,,,,,,Almonte Dental Centre,,,,,,,dentist,-76.1946706,45.2247424,POINT
+9690934347,nodes,,,,,,,,Restore Medical Pharmacy,,,,,,,pharmacy,-75.6995256,45.4001134,POINT
+5886191812,nodes,,,,,,,,Imagine Orthodontics,,,,,,,dentist,-75.3111827,45.2689198,POINT
+6405169744,nodes,,,,,,,,Dentistry @ Embrun,,,,,,,dentist,-75.3082806,45.268311,POINT
+5874395885,nodes,,,,,,,,Dr. Selwyn X. De Souza,,,,,,,doctors,-75.7595137,45.3532572,POINT
+5874395886,nodes,,,,,,,,Dr. A Malik,,,,,,,doctors,-75.7595488,45.3532847,POINT
+5759118145,nodes,,,,,,,,Nepean Medical Pharmacy,,,,,,,pharmacy,-75.7817978,45.3309624,POINT
+11739136989,nodes,,,,,,,,Capital Cardiology,,,,,,,doctors,-75.9142471,45.3009692,POINT
+6666106322,nodes,,,,,,,,Kanata Skin Clinic,,,,,,,doctors,-75.8947568,45.3043244,POINT
+11461055306,nodes,,,,,,,,Remedy'sRx,,,,,,,pharmacy,-75.8236273,45.3250137,POINT
+7341658245,nodes,,,,,,,,Loblaw Pharmacy,,,,,,,pharmacy,-75.6839131,45.430494,POINT
+5947441347,nodes,,,,,,,,Gloucester Family Optometrists,,"Jan-Dec: Tu,Th,Fr 08:30-17:00, Jan-Dec: Mo,We 08:30-18:00; Jan-Dec: PH off, Jul-Aug: Fr 08:30-14:00",,,,,clinic,-75.620416,45.4312375,POINT
+806038904,nodes,,,,,,,,No Frills Pharmacy,,"Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-18:00",,,,,pharmacy,-75.5228399,45.4763246,POINT
+6318998476,nodes,,,,,,,,Canadian Vein Clinics,,,,,,,doctors,-75.8965239,45.3122388,POINT
+2141421763,nodes,,,,,,,,DRUG Store Pharmacy,,"Mo-Fr 08:00-20:00; Sa,Su 09:00-17:00",,,,,pharmacy,-75.747741,45.3943171,POINT
+4293681289,nodes,,,,,,,,Wellington Dental Care,,"Mo,Tu 09:00-16:00; We 12:00-19:00; Th 09:00-16:00; Fr 09:00-13:00; Sa 09:00-13:00",,,,,dentist,-75.7374878,45.3983854,POINT
+5668279499,nodes,,,,,,,,Rexall,,"Mo-Fr 08:00-19:00; Sa 09:00-17:00",,,,,pharmacy,-75.7030988,45.4177045,POINT
+6080195111,nodes,,,,,,,,Deb Fuchek Physiotherapy,,,,,,,doctors,-75.7575749,45.2863812,POINT
+11777080983,nodes,,,,,,,,Orléans Pediatric Therapies,,,,,,,doctors,-75.5090134,45.4800546,POINT
+9690934348,nodes,,,,,,,,Restore Medical Clinic,,,,,,,clinic,-75.6995699,45.4001743,POINT
+6484639585,nodes,,,,,,,,Centre de Sante Communitarie de l'Estrie,,,,,,,doctors,-74.6357401,45.3102559,POINT
+7341699818,nodes,,,,,,,,Cornwall Medical Pharmacy,,,,,,,pharmacy,-74.7315214,45.0250327,POINT
+11164128218,nodes,,,,,,,,Riverbank Dental,,,,,,,dentist,-75.6776878,45.4095172,POINT
+11164128216,nodes,,,,,,,,River Dental,,,,,,,dentist,-75.6779407,45.4100719,POINT
+7341699821,nodes,,,,,,,,Whole Health Pharmacy,,,,,,,pharmacy,-74.7312553,45.017014,POINT
+7341699822,nodes,,,,,,,,Medical Arts Pharmacy,,,,,,,pharmacy,-74.7133239,45.0183905,POINT
+7058977952,nodes,,,,,,,,Fullerton Drugs,,,,,,,pharmacy,-74.7287975,45.0180804,POINT
+7343285070,nodes,,,,,,,,Drugstore Pharmacy,,,,,,,pharmacy,-74.7344829,45.0306731,POINT
+6417046789,nodes,,,,,,,,Dr. R. Navaneelan,,,,,,,dentist,-74.7221254,45.0325653,POINT
+5862395146,nodes,,,,,,,,Phenix Imaging,,,,,,,clinic,-75.6433924,45.4427404,POINT
+12327862677,nodes,,,,,,,,Destination Sante Dentaire,,,,,,,dentist,-75.8086999,45.4180764,POINT
+12335908486,nodes,,,,,,,,Pharmagora,,,,,,,pharmacy,-75.7989134,45.4344518,POINT
+9354054182,nodes,,,,,,,,Familiprix,,,,,,,pharmacy,-75.8077346,45.4195809,POINT
+11112820184,nodes,,,,,,,,Heron Park Dental,,,,,,,dentist,-75.6623046,45.3690645,POINT
+6080313268,nodes,,,,,,,,WW Studio,,,,,,,clinic,-75.7688612,45.2602902,POINT
+13480025881,nodes,,,,,,,,MC Behavioural Services,,,,,,,hospital,-75.7566219,45.2850815,POINT
+12495945401,nodes,,,,,,,,EYEdocs,,,,,,,doctors,-75.7687112,45.2601596,POINT
+5809570446,nodes,,,,,,,,St. Lawrence Chiropractic,,,,,,,clinic,-75.3533149,45.0921051,POINT
+5809575836,nodes,,,,,,,,Seaway Valley CHC,,,,,,,clinic,-75.3513931,45.0903185,POINT
+4620668300,nodes,,,,,,,,Perth Dental Centre,,,,,,,dentist,-76.2540778,44.9020595,POINT
+6960769834,nodes,,,,,,,,Rexall,,,,,,,pharmacy,-76.253483,44.9064364,POINT
+7024442698,nodes,,,,,,,,Perth Medical Clinic,,,,,,,doctors,-76.2530512,44.9044816,POINT
+5106078064,nodes,,,,,,,,MédiSport Physio,,,,,,,doctors,-75.6996647,45.479097,POINT
+5825966449,nodes,,,,,,,,Capital Home Medical Equipment,,,,,,,pharmacy,-75.6933613,45.4153578,POINT
+7678221381,nodes,,,,,,,,Neupath,,,,,,,clinic,-75.7512152,45.3705447,POINT
+7341745839,nodes,,,,,,,,PharmaChoice,,,,,,,pharmacy,-74.6513668,45.5192565,POINT
+5764137990,nodes,,,,,,,,Ottawa Birth and Wellness Center,,,,,,,clinic,-75.6149174,45.3886838,POINT
+6074559979,nodes,,,,,,,,Serenity Renewal for Families,,,,,,,clinic,-75.6159243,45.3878404,POINT
+6071971195,nodes,,,,,,,,Turning Corners,,,,,,,doctors,-75.6204052,45.3795274,POINT
+5470270066,nodes,,,,,,,,Human 2.0,,,,,,,clinic,-75.6193927,45.3799711,POINT
+6080313264,nodes,,,,,,,,LMC Diabetes & Endocrinology,,,,,,,doctors,-75.7684251,45.2604414,POINT
+7341566267,nodes,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.9084205,45.3354712,POINT
+7039167452,nodes,,,,,,,,"Pharmacie Jean-François Graillon, Inc",,"Mo-Fr 08:30-16:30; Sa 08:30-12:30",,,,,pharmacy,-75.6877039,45.4911736,POINT
+4350030790,nodes,,,,,,,,Family Dental Care,,"Mo-Th 08:00-17:00; Fr 08:00-15:00",,,,,dentist,-75.6945269,45.4202324,POINT
+968139350,nodes,,,,,,,,Shoppers Drug Mart,,"Mo-Fr 09:00-17:00; Sa,Su off",,,,,pharmacy,-75.6980764,45.4210917,POINT
+6704010010,nodes,,,,,,,,Dr. Amine Mansouri,,,,,,,dentist,-75.7625127,45.4270992,POINT
+4833189638,nodes,,,,,,,,North Gower Pharmacy,,,,,,,pharmacy,-75.716249,45.1308092,POINT
+5912940525,nodes,,,,,,,,Nepean Family Dental,,,,,,,dentist,-75.723563,45.3346939,POINT
+5622429990,nodes,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.6938743,45.3844642,POINT
+5534088414,nodes,,,,,,,,Metcalfe Family Dentistry,,,,,,,dentist,-75.5522329,45.2621464,POINT
+365301713,nodes,,,,,,,,Kinney Drugs,,,,,,,pharmacy,-74.90028,44.943992,POINT
+11860317254,nodes,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.7281698,45.4013082,POINT
+13534731206,nodes,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.7351464,45.3862113,POINT
+5933221584,nodes,,,,,,,,Bariatric Medical Institute,,,,,,,clinic,-75.7282448,45.3335324,POINT
+6720217568,nodes,,,,,,,,Polyclinique Medicale de Buckingham,,,,,,,doctors,-75.4135579,45.5895252,POINT
+2092632404,nodes,,,,,,,,Kinney Drugs,,,,,,,pharmacy,-74.993355,44.666748,POINT
+11021263405,nodes,,,,,,,,,,,,,,,hospital,-75.4119744,45.5883122,POINT
+5857472179,nodes,,,,,,,,Carleton Place Denture Clinic,,,,,,,dentist,-76.1464267,45.1400545,POINT
+1334097714,nodes,,,,,,,,,,,,,,,doctors,-76.4910071,45.6036183,POINT
+9064939189,nodes,,,,,,,,Uniprix,,"Mo-Fr 09:00-18:00; Sa 09:00-17:00",,,,,pharmacy,-75.0533013,45.724435,POINT
+7967872610,nodes,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.1242999,45.5682176,POINT
+5930025957,nodes,,,,,,,,Remedy'sRx,,,,,,,pharmacy,-76.367497,45.4252544,POINT
+365301723,nodes,,,,,,,,Kinney Drugs,,,,,,,pharmacy,-75.4789852,44.6906113,POINT
+5855364273,nodes,,,,,,,,ProActive Athletic Therapy,,,,,,,clinic,-76.1390211,45.133742,POINT
+1648586101,nodes,,,,,,,,I.D.A.,,,,,,,pharmacy,-76.1401002,45.1355384,POINT
+365301728,nodes,,,,,,,,Kinney Drugs,,,,,,,pharmacy,-74.9846237,44.6856902,POINT
+6418699686,nodes,,,,,,,,St. Lawrence Medical Clinic,,,,,,,clinic,-75.1834881,44.8970967,POINT
+11112856753,nodes,,,,,,,,Dentistry at Lansdowne,,,,,,,dentist,-75.6846357,45.3996991,POINT
+10966040784,nodes,,,,,,,,Gumtree Dental Care,,,,,,,dentist,-75.9126369,45.282108,POINT
+7341061352,nodes,,,,,,,,Sobeys Pharmacy,,,,,,,pharmacy,-75.9338473,45.3580929,POINT
+5774046654,nodes,,,,,,,,Bayshore Pharmacy,,,,,,,pharmacy,-75.8059885,45.3550876,POINT
+7341652362,nodes,,,,,,,,Loblaw Pharmacy,,"Mo-Fr 08:00-20:00; Sa,Su 09:00-17:00",,,,,pharmacy,-75.6965169,45.4148829,POINT
+5880266274,nodes,,,,,,,,PharmaChoice,,"Mo-Fr 09:00-19:00; Sa 09:00-16:00",,,,,pharmacy,-75.3699017,45.2574594,POINT
+11963437240,nodes,,,,,St. Lawrence Health System,,,St. Lawrence Health Urgent Care,,,private_non_profit,,,,clinic,-74.973554,44.6744806,POINT
+1996292341,nodes,,,,,,,,Harris Medical,,,,,,,pharmacy,-74.9870937,44.6709324,POINT
+9984168908,nodes,,,,,,,,Remedy'sRx,,,,,,,pharmacy,-75.6777664,45.4322924,POINT
+9984168909,nodes,,,,,,,,Appletree,,,,,,,clinic,-75.6776714,45.4323354,POINT
+5739418230,nodes,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.6752222,45.3878489,POINT
+5739418233,nodes,,,,,,,,CHEO Centre for Healthy Active Living,,,,,,,doctors,-75.6753221,45.3881526,POINT
+5764268438,nodes,,,,,,,,Orthotherapy Centre,,,,,,,clinic,-75.6141472,45.3856615,POINT
+5764269665,nodes,,,,,,,,Steelworkers Dental,,,,,,,dentist,-75.6147382,45.3863595,POINT
+6072161667,nodes,,,,,,,,Conroy Dental Centre,,,,,,,dentist,-75.6171732,45.3858102,POINT
+5834617605,nodes,,,,,,,,Bioped,,,,,,,doctors,-75.6709783,45.3831361,POINT
+3936231949,nodes,,,,,,,,Dental Centre,,,,,,,dentist,-75.6710927,45.3832682,POINT
+5849261805,nodes,,,,,,,,Medicalcare Clinic,,,,,,,doctors,-75.6720334,45.3844534,POINT
+5849261801,nodes,,,,,,,,Girgis Dental Care,,,,,,,dentist,-75.6719003,45.384427,POINT
+5674062431,nodes,,,,,,,,Lansdowne Dental,,,,,,,dentist,-75.6851833,45.3982842,POINT
+5667458677,nodes,,,,,,,,Rideau River Dental,,,,,,,dentist,-75.6827136,45.4301903,POINT
+5667458689,nodes,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.6813223,45.4307844,POINT
+4779808526,nodes,,,,,,,,Bastien & Prizant Optometry,,,,,,,clinic,-75.68681,45.4273125,POINT
+5842291502,nodes,,,,,,,,Beechwood Village Chiropractic,,,,,,,clinic,-75.6753033,45.4403856,POINT
+5931838126,nodes,,,,,,,,Beechwood Dental Clinic,,,,,,,dentist,-75.6771299,45.43888,POINT
+5931809926,nodes,,,,,,,,Connexion Dental Care Group,,,,,,,dentist,-75.6607725,45.4366987,POINT
+5969615905,nodes,,,,,,,,Besserer Dental Centre,,,,,,,dentist,-75.6853529,45.4279237,POINT
+6015834728,nodes,,,,,,,,North River Dental,,,,,,,dentist,-75.668292,45.4314304,POINT
+9333138694,nodes,,,,,,,,Recovery Care,,,,,,,clinic,-75.6687576,45.4334491,POINT
+5667282241,nodes,,,,,,,,Sunrise Medical Center,,,,,,,doctors,-75.6678984,45.4337715,POINT
+9937462796,nodes,,,,,,,,Ideal Pharmacy,,,,,,,pharmacy,-75.6584504,45.4371472,POINT
+3645231361,nodes,,,,,,,,Vanier Medical Centre,,,,,,,doctors,-75.6584516,45.4371152,POINT
+5931809934,nodes,,,,,,,,Vitalis Family Medicine,,,,,,,doctors,-75.6583893,45.4370728,POINT
+4743706819,nodes,,,,,,,,Periodontal Associates in Sandy Hill,,,,,,,dentist,-75.6818922,45.4292025,POINT
+6077224810,nodes,,,,,,,,57North Prosthodontics,,,,,,,dentist,-75.6618279,45.4018362,POINT
+7341652363,nodes,,,,,,,,Riverside Drugstore,,,,,,,pharmacy,-75.6682844,45.3971373,POINT
+5862395149,nodes,,,,,,,,Canadian Cannabis Clinic,,,,,,,doctors,-75.6434823,45.4428147,POINT
+5996205182,nodes,,,,,,,,Bytown Orthodontics,,,,,,,dentist,-75.5937796,45.4470606,POINT
+4353944790,nodes,,,,,,,,Metro Dental,,,,,,,dentist,-75.6261101,45.4057433,POINT
+12718504627,nodes,,,,,,,,Costco Pharmacy,,,,,,,pharmacy,-75.603653,45.4354664,POINT
+3690159179,nodes,,,,,,,,Clinique d'Endodontie Cristian de Chevigny,,,,,,,dentist,-75.7335206,45.4302768,POINT
+6747817904,nodes,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.7249423,45.4036876,POINT
+2801239115,nodes,,,,,,,,Smiles on Sparks,,"Mo 09:00-20:00; Tu-Th 08:30-16:30; Fr 08:30-12:30",,,,,dentist,-75.6986656,45.4221821,POINT
+5842916929,nodes,,,,,,,,Centerpointe Medical Centre,,,,,,,doctors,-75.7674479,45.3488032,POINT
+5842916930,nodes,,,,,,,,Pharma City Drugstore,,,,,,,pharmacy,-75.76757,45.3489163,POINT
+4350068551,nodes,,,,,,,,Central Dental Centre,,Mo-Th 08:00-16:00,,,,,dentist,-75.6959775,45.4196685,POINT
+968789724,nodes,,,,,,,,Rexall,,Mo-Fr 07:30-17:00,,,,,pharmacy,-75.7026502,45.4202399,POINT
+286076555,nodes,,,,,,,,Jean Coutu,,,,,,,pharmacy,-75.2920096,45.2710514,POINT
+3690473477,nodes,,,,,Jean-François Chapdelaine,,,Familiprix,,Mo-Fr 09:00-18:00,,,,,pharmacy,-75.651036,45.492486,POINT
+11639382505,nodes,,,,,,,,Clinique Medicale Riel,,,,,,,doctors,-75.771782,45.4649125,POINT
+6281653428,nodes,,,,,,,,Dr. Mansouri,,,,,,,dentist,-75.7015756,45.4713864,POINT
+2894215233,nodes,,,,,,,,McCooey Chiropractic,,,,,,,doctors,-75.7533999,45.3779655,POINT
+4250426495,nodes,,,,,,,,Ian Murray Hearing Centre,,,,,,,clinic,-75.758163,45.3760241,POINT
+10922661357,nodes,,,,,,,,Dr. Lisa Frost,,,,,,,dentist,-75.7566761,45.3757732,POINT
+6475750181,nodes,,,,,,,,Richmond Village Pharmacy,,,,,,,pharmacy,-75.8394398,45.1936683,POINT
+6476526931,nodes,,,,,,,,Richmond Goulbourn Medical Center,,,,,,,doctors,-75.8423446,45.191712,POINT
+6476526949,nodes,,,,,,,,Richmond Medical Centre,,,,,,,doctors,-75.8461721,45.1902839,POINT
+5862395151,nodes,,,,,,,,Healthmed Pharmacy,,,,,,,pharmacy,-75.6433079,45.4427653,POINT
+5862395154,nodes,,,,,,,,Phenix Dental Clinic,,,,,,,dentist,-75.6436929,45.4427441,POINT
+11022962908,nodes,,,,,,,,Canadian Cannabis Clinics,,,,,,,doctors,-75.6433354,45.4427921,POINT
+3243533450,nodes,,,,,,,,LASIK MD,,,,,,,clinic,-75.7026867,45.4172331,POINT
+9674471792,nodes,,,,,,,,Waterridge Village Medical Clinic,,,,,,,doctors,-75.6097882,45.4456082,POINT
+6515184063,nodes,,,,,,,,Proxim,,,,,,,pharmacy,-75.8236751,45.3961541,POINT
+2443437121,nodes,,,,,,,,Anchor Psychological Services,,,,,,,clinic,-75.7386625,45.398079,POINT
+2156864665,nodes,,,,,,,,Watsons,,"Mo-Fr 09:00-18:00; Sa 09:00-17:00",,,,,pharmacy,-75.7364051,45.3986165,POINT
+4191481901,nodes,,,,,,,,Massage Addict,,"Mo-Fr 09:00-21:00; Sa,Su 09:00-17:00",,,,,clinic,-75.737045,45.398761,POINT
+7620329795,nodes,,,,,,,,Island Park Dental,,,,,,,dentist,-75.7401774,45.3982172,POINT
+11739043599,nodes,,,,,,,,O.A.T.C Ottawa West,,,,,,,clinic,-75.7349963,45.3854159,POINT
+5752354904,nodes,,,,,,,,Canadian Diagnostic Network,,,,,,,doctors,-75.538801,45.4651403,POINT
+11382662120,nodes,,,,,,,,De N’Gal Medicial Clinic,,"Mo 10:00-16:00; Tu-Fr 09:00-16:00",,,,,clinic,-75.7238706,45.3315547,POINT
+10942230290,nodes,,,,,Ascent Medical Centre Inc.,,,Ascent Medical Center,,"Mo-Th 08:00-16:00; Fr 09:00-15:00",,,,,doctors,-75.7232251,45.3347446,POINT
+11635930861,nodes,,,,,,,,,,,,,,,dentist,-75.7381484,45.4658742,POINT
+7341061350,nodes,,,,,,,,The Drug Store Pharmacy,,,,,,,pharmacy,-75.9284631,45.2689312,POINT
+9218173467,nodes,,,,,,,,Metro,,,,,,,pharmacy,-75.7854751,45.3655626,POINT
+5897281186,nodes,,,,,,,,Bayshore Home Health,,,,,,,clinic,-75.7625042,45.342923,POINT
+2104707492,nodes,,,,,,,,The Glebe Apothecary,,,,,,,pharmacy,-75.6886613,45.4032481,POINT
+10978031405,nodes,,,,,,,,Orleans Periodontics,,,,,,,dentist,-75.5201637,45.4764336,POINT
+670969104,nodes,,,,,,,,Loblaw Pharmacy,,,,,,,pharmacy,-75.8324198,45.3244671,POINT
+5811132035,nodes,,,,,,,,Ottawa Denture Implant Centre,,,,,,,dentist,-75.8238493,45.3249571,POINT
+5811132036,nodes,,,,,,,,Triadent Dental,,,,,,,dentist,-75.8237347,45.3250116,POINT
+6429455550,nodes,,,,,,,,Swift Clinic,,,,,,,doctors,-75.8217117,45.3261189,POINT
+11461055305,nodes,,,,,,,,Fortress Medical,,,,,,,doctors,-75.8235969,45.3250491,POINT
+11461055307,nodes,,,,,,,,Bells Corners Family Dentistry,,,,,,,dentist,-75.8239162,45.3249371,POINT
+6541334191,nodes,,,,,,,,Ottawa Fertility Centre,,Mo-Fr 08:00-16:00,,,,,clinic,-75.7044395,45.3765261,POINT
+11776552278,nodes,,,,,,,,Blackburn Medicine & Esthetics,,,,,,,doctors,-75.5673073,45.4309423,POINT
+3671177077,nodes,,,,,Loblaw Companies Limited,,,Shoppers Drug Mart,,"Su-Sa 09:00-22:00; PH off",,,,,pharmacy,-75.6932886,45.4120929,POINT
+6414973279,nodes,,,,,,,,The Medicine Shoppe,,,,,,,pharmacy,-75.6967804,45.4127224,POINT
+5726053117,nodes,,,,,,,,I.D.A.,,,,,,,pharmacy,-75.735128,45.3853468,POINT
+4333100646,nodes,,,,,,,,Centrum Pharmacy,,,,,,,pharmacy,-75.5118125,45.4791095,POINT
+4333100647,nodes,,,,,,,,Centrum Medical Centre,,,,,,,doctors,-75.511858,45.4790623,POINT
+6630164148,nodes,,,,,,,,Centre Dentaire Vadeboncoeur & Associés,,,,,,,dentist,-75.7846027,45.4379634,POINT
+3052771004,nodes,,,,,,,,Shoppers Drug Mart,,Mo-Su 09:00-22:00,,,,,pharmacy,-75.6845058,45.4290594,POINT
+5961900144,nodes,,,,,,,,Ottawa Medical Group,,Mo-Fr 08:00-16:00,,,,,clinic,-75.4956584,45.4589473,POINT
+9669423307,nodes,,,,,,,,Orleans Community Pharmacy,,Mo-Fr 09:00-18:00,,,,,pharmacy,-75.5216625,45.4724044,POINT
+2800119813,nodes,,,,,,,,South Keys Health Centre,,,,,,,doctors,-75.6493667,45.3547867,POINT
+11112732407,nodes,,,,,,,,Towngate Dental Centre,,,,,,,dentist,-75.6473143,45.3528706,POINT
+11112732408,nodes,,,,,,,,Sparrow Dental,,,,,,,dentist,-75.6475185,45.3526991,POINT
+6681672353,nodes,,,,,,,,Clinique Médico-Dentaire de la Gatineau,,"Mo-Th 08:00-21:00; Fr 08:00-14:00",,,,,dentist,-75.6748313,45.4908686,POINT
+6032576977,nodes,,,,,,,,Dr. Lucharme & Associates,,,,,,,dentist,-75.6702244,45.4437689,POINT
+6591958131,nodes,,,,,,,,Beechwood Medical Centre,,,,,,,doctors,-75.6702267,45.4433505,POINT
+6135912218,nodes,,,,,,,,Centrepointe Medical Consultants,,,,,,,clinic,-75.7652718,45.3452679,POINT
+560481385,nodes,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.6918059,45.4294593,POINT
+3782799887,nodes,,,,,,,,Appletree Medical Clinic,,,,,,,clinic,-75.805067,45.3554504,POINT
+10926955200,nodes,,,,,,,,Bayshore Neurology,,,,,,,doctors,-75.8058911,45.355118,POINT
+6337210753,nodes,,,,,,,,Healthmed Pharmacy,,,,,,,pharmacy,-75.7287706,45.2921035,POINT
+6080195108,nodes,,,,,,,,Dr. Eleanor M. DeSouza,,,,,,,doctors,-75.7575429,45.2863494,POINT
+809994310,nodes,,,,,,,,Queensway Medical centre,,,,,,,doctors,-75.5877909,45.4528838,POINT
+957246106,nodes,,,,,,,,Medicine Shoppe Pharmacy,,,,,,,pharmacy,-75.5879959,45.4529874,POINT
+6666106320,nodes,,,,,,,,Med-Team Clinic,,,,,,,doctors,-75.8947154,45.3041308,POINT
+5799962623,nodes,,,,,,,,Watsons,,"Mo-Fr 09:00-18:00; Sa 09:00-17:00",,,,,pharmacy,-75.6780414,45.4086969,POINT
+10040261012,nodes,,,,,,,,"Simon Chan, MD",,,,,,,clinic,-75.7322713,45.4007274,POINT
+5961900136,nodes,,,,,,,,Innes Medical Clinic,,,,,,,doctors,-75.4964308,45.4587638,POINT
+6080195114,nodes,,,,,,,,Dr. S. Nagpal,,,,,,,doctors,-75.7579133,45.2866204,POINT
+6186714770,nodes,,,,,,,,Dr. Roger Wray,,,,,,,doctors,-75.7566078,45.2852077,POINT
+5996279154,nodes,,,,,,,,Hampton Carling Family Medicine Associates,,,,,,,clinic,-75.7399171,45.386348,POINT
+5889507830,nodes,,,,,,,,Living Science Wellness Centre,,,,,,,clinic,-75.907314,45.2801057,POINT
+6630164146,nodes,,,,,,,,Clinique Médicale du Plateau,,,,,,,doctors,-75.7844666,45.438083,POINT
+5993425046,nodes,,,,,,,,Golden Care,,,,,,,dentist,-75.591029,45.4484987,POINT
+5866219385,nodes,,,,,,,,Connexion Family Health Team,,,,,,,doctors,-75.588552,45.4528349,POINT
+5833495167,nodes,,,,,,,,Chadha Medical,,,,,,,doctors,-75.6624717,45.3696609,POINT
+7058905910,nodes,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-74.7048724,45.0272737,POINT
+6117201982,nodes,,,,,,,,Canotek Clinic,,,,,,,clinic,-75.5834551,45.4549088,POINT
+5864740090,nodes,,,,,,,,Dr. Viet Tan Tran,,,,,,,doctors,-75.5847815,45.4536148,POINT
+6117201981,nodes,,,,,,,,Canotek Pharmacy,,,,,,,pharmacy,-75.5835141,45.4548533,POINT
+7341658232,nodes,,,,,,,,Loblaw Pharmacy,,,,,,,pharmacy,-75.6553449,45.0184081,POINT
+6404931136,nodes,,,,,,,,Dr. Lily Nahri,,,,,,,dentist,-75.3502639,45.2606662,POINT
+6405130218,nodes,,,,,,,,Altima Dental,,,,,,,dentist,-75.3579135,45.2570629,POINT
+9516639696,nodes,,,,,,,,Rite Aid,,,,,,,pharmacy,-74.8919234,44.9306234,POINT
+2963969588,nodes,,,,,,,,Shoppers Drug Mart,,Mo-Su 08:00-22:00,,,,,pharmacy,-75.6645973,45.4345229,POINT
+6630164152,nodes,,,,,,,,Côté Santé,,,,,,,doctors,-75.7845739,45.4380792,POINT
+2088038855,nodes,,,,,,,,Say Cheese Dentistry,,,,,,,dentist,-75.6461822,45.3767853,POINT
+5863779757,nodes,,,,,,,,Montfort Academic Health Care Team,,,,,,,doctors,-75.6372026,45.4447761,POINT
+6427086054,nodes,,,,,,,,Centre de Lasérothérapie 3001,,,,,,,doctors,-75.7007468,45.4805148,POINT
+8423554898,nodes,,,,,,,,Centre Dentaire Hawkesbury Dental Centre,,,,,,,dentist,-74.600242,45.5936468,POINT
+6666106326,nodes,,,,,,,,The Kanata Denture Clinic,,,,,,,dentist,-75.89485,45.304429,POINT
+5976659122,nodes,,,,,,,,Appletree Medical Centre,,,,,,,clinic,-75.8954805,45.312203,POINT
+6666106319,nodes,,,,,,,,Innomar Clinic,,,,,,,doctors,-75.8946211,45.3042499,POINT
+5731353228,nodes,,,,,,,,Appletree Medical Centre,,,,,,,clinic,-75.7996928,45.3349998,POINT
+833249019,nodes,,,,,,,,,,,,,,,doctors,-75.1605604,45.434859,POINT
+6141298791,nodes,,,,,,,,Rexall,,,,,,,pharmacy,-75.3797648,44.7879955,POINT
+11679595254,nodes,,,,,,,,Ottawa Plastic Surgery,,,,,,,doctors,-75.6654285,45.3736054,POINT
+11112820185,nodes,,,,,,,,Ottawa Smiles Family Dental,,,,,,,dentist,-75.6616622,45.3680217,POINT
+6591759341,nodes,,,,,,,,Good Doctors,,,,,,,doctors,-75.6534735,45.3736104,POINT
+5861176987,nodes,,,,,,,,Merivale Ideal Pharmacy,,,,,,,pharmacy,-75.7390648,45.3593244,POINT
+12183885436,nodes,,,,,,,,Dento Care,,,,,,,dentist,-75.7433888,45.3965139,POINT
+4810053524,nodes,,,,,,,,Dr Andrea Picard Orthodontist,,,,,,,dentist,-75.7306062,45.3980441,POINT
+11768267997,nodes,,,,,,,,Dr. Photis Loizides,,Mo-Fr 09:00-16:00,,,,,clinic,-75.7401726,45.3977225,POINT
+10061834792,nodes,,,,,,,,Walk-In Medical Clinic,,,,,,,clinic,-75.7350776,45.3853751,POINT
+12810393513,nodes,,,,,,,,Central Park Medical Clinic,,,,,,,doctors,-75.7332269,45.3683067,POINT
+5912940522,nodes,,,,,,,,Eshmun Medical Clinic,,,,,,,clinic,-75.7230601,45.3347797,POINT
+5912940519,nodes,,,,,,,,Zoemed Clinic,,,,,,,doctors,-75.7232934,45.3347165,POINT
+5912940520,nodes,,,,,,,,Baby Snuggles Ultrasound,,,,,,,clinic,-75.7233913,45.3346835,POINT
+5842916927,nodes,,,,,,,,LifeLabs,,,,,,,clinic,-75.7674775,45.3486863,POINT
+12469786201,nodes,,,,,,,,Dr. Halina Kubicka,,Mo-Th 07:00-16:30,,,,,dentist,-75.6750718,45.387742,POINT
+5811470619,nodes,,,,,,,,Palladium Medical Clinic,,,,,,,doctors,-75.909137,45.3006316,POINT
+11382662131,nodes,,,,,,,,Merivale Medical Centre,,,,,,,doctors,-75.7230585,45.3318671,POINT
+12639712243,nodes,,,,,PharmaChoice East Ottawa Compounding Pharmacy,,,PharmaChoice,,"Mo-Fr 09:00-19:00, Sa 09:00-16:00",,,,,pharmacy,-75.6327163,45.4528964,POINT
+11777065356,nodes,,,,,,,,La Dent Blanche,,,,,,,dentist,-75.5245031,45.4708397,POINT
+11197664025,nodes,,,,,,,,Healthmed,,,,,,,pharmacy,-75.7384761,45.271737,POINT
+11197664026,nodes,,,,,,,,Barrhaven Ideal Clinic,,,,,,,doctors,-75.7384096,45.2717657,POINT
+7343285067,nodes,,,,,,,,Pitt Street Pharmacy,,,,,,,pharmacy,-74.7413946,45.0360826,POINT
+7341658237,nodes,,,,,,,,Loblaw Pharmacy,,,,,,,pharmacy,-76.121188,45.1344829,POINT
+1568040020,nodes,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-76.1333716,45.1427432,POINT
+6651582683,nodes,,,,,,,,Pearl Dental Hygiene,,,,,,,dentist,-76.1462034,45.1401604,POINT
+4530894349,nodes,,,,,PharmaChoix,,,Pharmacie Alfred,,"Mo-We 09:00-17:30; Th,Fr 09:00-18:00; Sa 09:00-16:00",,,,,pharmacy,-74.887656,45.5567566,POINT
+7341699823,nodes,,,,,,,,Cotton Mill Pharmacy,,,,,,,pharmacy,-74.709876,45.0160319,POINT
+7341699824,nodes,,,,,,,,Fullerton Drugs,,,,,,,pharmacy,-74.7171304,45.0285397,POINT
+2578987467,nodes,,,,,,,,Proximed,,,,,,,pharmacy,-74.9407858,45.6502397,POINT
+7343285069,nodes,,,,,,,,Medical Arts Pharmacy,,,,,,,pharmacy,-74.7384705,45.0343218,POINT
+7058943580,nodes,,,,,,,,Pharmasave,,,,,,,pharmacy,-74.7313662,45.0281166,POINT
+1586466719,nodes,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.5671651,45.4309971,POINT
+5893484089,nodes,,,,,,,,Orleans Integrative Medicine,,,,,,,clinic,-75.5090662,45.4800892,POINT
+968275867,nodes,,,,,,,,Real Canadian Superstore,,"Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 08:00-17:00",,,,,pharmacy,-75.4942685,45.4570075,POINT
+7341652367,nodes,,,,,,,,Wellington Drug Store,,"Mo-Fr 08:00-18:00; Sa 10:00-15:00",,,,,pharmacy,-75.7314177,45.4000807,POINT
+10882195152,nodes,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.6783765,45.4101729,POINT
+5802745484,nodes,,,,,,,,Caven Nutrition Group,,,,,,,clinic,-75.7499237,45.3762293,POINT
+6080195115,nodes,,,,,,,,Dr.J. Gill & Dr. M. Hashimoto,,,,,,,doctors,-75.7578789,45.2866671,POINT
+5724408343,nodes,,,,,,,,Health Treasure Pharmacy,,,,,,,pharmacy,-75.7574902,45.2862244,POINT
+5759118144,nodes,,,,,,,,Greenbank Dentistry,,,,,,,dentist,-75.7816583,45.3309039,POINT
+6080313265,nodes,,,,,,,,Healthy Step Pedorthic Clinic,,,,,,,clinic,-75.7685202,45.2604049,POINT
+6665870095,nodes,,,,,,,,Osgoode Village Family Health,,,,,,,doctors,-75.603624,45.1491456,POINT
+6061073636,nodes,,,,,,,,Plantagenet Family Health Care Team,,,,,,,clinic,-74.9876587,45.5404375,POINT
+6665870118,nodes,,,,,,,,Osgoode Pharmacy,,Mo-Sa 09:00-18:30,,,,,pharmacy,-75.60351,45.1491333,POINT
+7341699819,nodes,,,,,,,,Arrowhead Pharmacy,,,,,,,pharmacy,-74.7416318,45.0023833,POINT
+5689366250,nodes,,,,,,,,Pharmacie St. Joseph,,,,,,,pharmacy,-75.5255301,45.4710958,POINT
+5931651690,nodes,,,,,,,,Ottawa Teeth Whitening,,,,,,,dentist,-75.5215538,45.4723253,POINT
+5931682457,nodes,,,,,,,,St. Joseph Dental Studio,,,,,,,dentist,-75.5258895,45.4699888,POINT
+6484639600,nodes,,,,,,,,Polished Tooth Dental Hygiene Care,,,,,,,dentist,-74.6356268,45.3097678,POINT
+6985147840,nodes,,,,,,,,Loblaw Pharmacy,,"Mo-Fr 09:00-21:00; Sa-Su 09:00-18:00",,,,,pharmacy,-75.7431624,45.268138,POINT
+3690660023,nodes,,,,,,,,Arrimage Santé,,,,,,,doctors,-75.70158,45.479528,POINT
+7006557390,nodes,,,,,,,,Loblaws Pharmacy,,"Mo-Fr 08:00-20:00; Sa,Su 09:00-18:00",,,,,pharmacy,-75.7593463,45.351751,POINT
+5835515531,nodes,,,,,,,,Floss Dental Collective,,Mo-Sa 08:30-16:00,,,,,dentist,-75.7114414,45.4035532,POINT
+2088038851,nodes,,,,,,,,Walkley Pharmacy,,,,,,,pharmacy,-75.646481,45.3766715,POINT
+5962107003,nodes,,,,,,,,Alpha Care Family Health Clinic,,,,,,,doctors,-75.4859381,45.4617232,POINT
+6682365635,nodes,,,,,,,,Appletree Telemedicine Clinic,,,,,,,doctors,-75.4839009,45.4615397,POINT
+10927013006,nodes,,,,,,,,Kanata North Pharmacy,,,,,,,pharmacy,-75.9343039,45.3125192,POINT
+6074559977,nodes,,,,,,,,Lifemark Physiotherapy,,,,,,,clinic,-75.6158343,45.3878839,POINT
+12591213701,nodes,,,,,,,,Good Doctors Ottawa-Rideau,,Mo-Fr 09:00-17:00,,,,,clinic,-75.6777429,45.432305,POINT
+12809849358,nodes,,,,,Dr. Bosky Singh,,,Dentistree,,,,,,,dentist,-75.632471,45.4528036,POINT
+2935673827,nodes,,,,,,,,Carleton University Sport Medicine Centre,,Mo-Fr 08:00-17:00,,,,,clinic,-75.6937072,45.3862972,POINT
+5739855492,nodes,,,,,,,,Total Foot Care,,,,,,,clinic,-75.7200171,45.3259191,POINT
+5912940527,nodes,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.7231244,45.3348589,POINT
+6719059068,nodes,,,,,,,,Centre Médical du Portage,,,,,,,doctors,-75.7146493,45.4264342,POINT
+6034342268,nodes,,,,,,,,ByWard Chiropractic Clinic,,,,,,,clinic,-75.6891979,45.4302804,POINT
+4492679758,nodes,,,,,,,,Sexual Health Centre Walk-in clinic,,,,,,,clinic,-75.6899885,45.4305198,POINT
+4494695332,nodes,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.6925128,45.430304,POINT
+4468068111,nodes,,,,,,,,Mersal Dental Formally Centre Dentaire Dalhousie Dental Centre,,,,,,,dentist,-75.6933605,45.4311702,POINT
+6515741494,nodes,,,,,,,,Aylmer Health Coop,,,,,,,doctors,-75.8464685,45.3974461,POINT
+6171412942,nodes,,,,,,,,Dentistry@Kanata,,,,,,,dentist,-75.9082197,45.335202,POINT
+6630164151,nodes,,,,,,,,Clinique de Psychologie du Plateau,,,,,,,doctors,-75.7846127,45.4380255,POINT
+5712134481,nodes,,,,,,,,Westboro Station Dental,,,,,,,dentist,-75.7580366,45.3895687,POINT
+9773935584,nodes,,,,,,,,,,,,,,,dentist,-75.8011838,45.402615,POINT
+5933580841,nodes,,,,,,,,Reform Body Clinic,,,,,,,clinic,-75.6943974,45.4291957,POINT
+6093977209,nodes,,,,,,,,Dr. George Wehbi,,,,,,,dentist,-75.6920886,45.4190955,POINT
+6067392233,nodes,,,,,,,,Centre de Relations Humaines,,,,,,,doctors,-75.7478195,45.4624023,POINT
+6103824319,nodes,,,,,,,,Downtown Dental Clinic,,,,,,,dentist,-75.6953743,45.4207311,POINT
+6034637693,nodes,,,,,,,,Ottawa Health Group,,,,,,,clinic,-75.6956479,45.4213829,POINT
+6034633379,nodes,,,,,,,,Natural Balance,,,,,,,clinic,-75.6972047,45.4209241,POINT
+6104060087,nodes,,,,,,,,Dr. France Chevalier,,,,,,,dentist,-75.6967543,45.419312,POINT
+6104058884,nodes,,,,,,,,Downtown Orthodontics,,,,,,,dentist,-75.6974879,45.4182299,POINT
+2733910708,nodes,,,,,,,,"Dr. Alex Wakter, Dentist",,,,,,,dentist,-75.6975469,45.4214493,POINT
+6103871475,nodes,,,,,,,,Avant Chiropractic,,,,,,,clinic,-75.6945163,45.4192642,POINT
+6754681492,nodes,,,,,,,,Algonquin Health Services,,,,,,,clinic,-75.7570852,45.3479738,POINT
+5756769188,nodes,,,,,,,,Booth Neurology,,,,,,,doctors,-75.7093962,45.4080063,POINT
+3373366145,nodes,,,,,,,,Clinique Médicale D'Urgence De L'Outaouais,,,,,,,clinic,-75.7049507,45.4751033,POINT
+6256112730,nodes,,,,,,,,Centre Dentaire Limbour,,Mo-Th 09:00-16:00,,,,,dentist,-75.7486013,45.4891919,POINT
+6034633361,nodes,,,,,,,,Constitution Dental,,,,,,,dentist,-75.7036114,45.4178736,POINT
+3088019353,nodes,,,,,,,,Trillium Dental,,,,,,,dentist,-75.7033716,45.4175657,POINT
+6761573569,nodes,,,,,,,,Place de Ville Dental,,,,,,,dentist,-75.7036262,45.4190411,POINT
+2088038890,nodes,,,,,,,,Shas Pharmacy,,,,,,,pharmacy,-75.6535342,45.3735866,POINT
+5849261803,nodes,,,,,,,,Bank Respiratory Services,,,,,,,doctors,-75.6719586,45.384491,POINT
+6281701244,nodes,,,,,,,,Clinique Radiologique de Gatineau,,,,,,,clinic,-75.7007441,45.4727293,POINT
+6287263346,nodes,,,,,,,,Ferland & Giroux,,,,,,,dentist,-75.640147,45.4842943,POINT
+5674009492,nodes,,,,,,,,Whole Health Pharmacy,,,,,,,pharmacy,-75.687321,45.4014492,POINT
+5866219405,nodes,,,,,,,,Physio First,,,,,,,clinic,-75.5876447,45.4529595,POINT
+957246105,nodes,,,,,,,,Roy Dental,,,,,,,dentist,-75.5877558,45.4529656,POINT
+6405169696,nodes,,,,,,,,Foot Care Matters,,,,,,,doctors,-75.2935083,45.2694417,POINT
+3661048506,nodes,,,,,,,,Dr. Sara Syed,,,,,,,dentist,-75.589678,45.4490162,POINT
+5888903566,nodes,,,,,,,,Gentle Beginnings Midwifery,,,,,,,doctors,-75.2769309,45.2736407,POINT
+7341658240,nodes,,,,,,,,Drug Store Pharmacy,,,,,,,pharmacy,-75.5236877,45.459446,POINT
+6289466455,nodes,,,,,,,,Clinique Dentaire,,,,,,,dentist,-75.6087671,45.4849999,POINT
+5589563585,nodes,,,,,,,,Orleans Convent Glen Massage Therapy,,,,,,,clinic,-75.5356139,45.4755055,POINT
+6250096434,nodes,,,,,,,,Beausejour Clinic Pharmacy,,,,,,,pharmacy,-75.5205715,45.4767918,POINT
+5487597497,nodes,,,,,,,,Orleans Town Centre Dental,,,,,,,dentist,-75.5117643,45.4792649,POINT
+5487597496,nodes,,,,,,,,Orleans Family Health Clinic,,,,,,,doctors,-75.5117511,45.4791697,POINT
+974591944,nodes,,,,,,,,Sharleen F. Tan,,,,,,,dentist,-75.5112095,45.4794103,POINT
+5931682456,nodes,,,,,,,,Dr. E. Cattan,,,,,,,doctors,-75.5259526,45.4699531,POINT
+5931651673,nodes,,,,,,,,Orleans Wellness & Massage Centre,,,,,,,doctors,-75.5258882,45.4709143,POINT
+5931651666,nodes,,,,,,,,Dr. Daniel Moreau,,,,,,,doctors,-75.5256937,45.471124,POINT
+5931651663,nodes,,,,,,,,Paul Martin Periodontics,,,,,,,dentist,-75.5256522,45.4711715,POINT
+5931651665,nodes,,,,,,,,Clinic of Orthopaedic Medicine,,,,,,,clinic,-75.5255945,45.4711592,POINT
+5931651664,nodes,,,,,,,,Orleans Dental Clinic,,,,,,,dentist,-75.5255784,45.4711075,POINT
+6266683781,nodes,,,,,,,,"Sharon Grainger, MD",,,,,,,doctors,-75.5479373,45.4619635,POINT
+6266683764,nodes,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.5445698,45.4638301,POINT
+6266683765,nodes,,,,,,,,Jeanne d'Arc Medical Centre,,,,,,,clinic,-75.5444813,45.4638489,POINT
+5961954869,nodes,,,,,,,,Vantage Dental Centre,,,,,,,dentist,-75.4901344,45.4590489,POINT
+5961900142,nodes,,,,,,,,Innes Dental Clinic,,,,,,,dentist,-75.4963973,45.4589247,POINT
+5961900141,nodes,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.4963571,45.4588363,POINT
+4779873543,nodes,,,,,,,,Houle Dentistry,,,,,,,dentist,-75.5272953,45.4821209,POINT
+4473726477,nodes,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.6450784,45.3880576,POINT
+2014628784,nodes,,,,,,,,Kilborn Dental Centre,,,,,,,dentist,-75.6448477,45.3880844,POINT
+2014628783,nodes,,,,,,,,Healing Touch,,,,,,,clinic,-75.6450015,45.3880589,POINT
+9333158042,nodes,,,,,,,,Blue Haven Dental,,,,,,,dentist,-75.5019333,45.4561866,POINT
+6564734755,nodes,,,,,,,,Casselman Clinique Medicale,,,,,,,doctors,-75.0870895,45.3135979,POINT
+6564734756,nodes,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.087166,45.3135677,POINT
+5487655880,nodes,,,,,,,,Crown Pointe Pharmacy,,,,,,,pharmacy,-75.4738051,45.4817729,POINT
+5893678280,nodes,,,,,,,,Massage & Ortho Clinic,,,,,,,clinic,-75.4864115,45.4903318,POINT
+4913992320,nodes,,,,,,,,Asclepios Walk-In Clinic,,"Mo-Th 09:00-20:00; Fr 09:00-17:00; Sa 09:00-12:00",,,,,clinic,-75.4852688,45.4888303,POINT
+5896600067,nodes,,,,,,,,Taylor Creek Pharmacy,,,,,,,pharmacy,-75.4852366,45.4886498,POINT
+6621451564,nodes,,,,,,,,Trainyards Pharmacy,,,,,,,pharmacy,-75.6457033,45.4146563,POINT
+3690870352,nodes,,,,,,,,Clinique Dentaire Montcalm,,,,,,,dentist,-75.7241911,45.4270779,POINT
+5950065911,nodes,,,,,,,,Bearbrook Dental Centre,,,,,,,dentist,-75.5678178,45.4308526,POINT
+5950064167,nodes,,,,,,,,Dr. E.R. Skaff & Dr. K. McFarland,,,,,,,doctors,-75.5656225,45.4319622,POINT
+5947588534,nodes,,,,,,,,Gloucester Dental,,,,,,,dentist,-75.6093384,45.432014,POINT
+5994231119,nodes,,,,,,,,Dr. Loan Vo,,,,,,,dentist,-75.6501684,45.4318149,POINT
+3429368704,nodes,,,,,,,,Pharmacie La Paix,,,,,,,pharmacy,-75.6503229,45.4318478,POINT
+5994231118,nodes,,,,,,,,Mcarthur Physiotherapy,,,,,,,clinic,-75.6502656,45.4318008,POINT
+30516878,nodes,,,,,,,,Ottawa Rehabilitation Centre,,,,,,,clinic,-75.6491803,45.4032062,POINT
+6015802206,nodes,,,,,,,,McArthur Dental Centre,,,,,,,dentist,-75.6553905,45.4318746,POINT
+5808171243,nodes,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.3729674,45.0872498,POINT
+6394572576,nodes,,,,,,,,Ottawa Performance Care,,,,,,,doctors,-75.6350662,45.4074245,POINT
+5947588507,nodes,,,,,,,,LL Orthotics,,,,,,,dentist,-75.6101029,45.4318398,POINT
+5833495159,nodes,,,,,,,,Walkley Medical Centre,,,,,,,clinic,-75.6635194,45.3699832,POINT
+6591722041,nodes,,,,,,,,Guardian,,,,,,,pharmacy,-75.6624462,45.3695832,POINT
+5833729289,nodes,,,,,,,,Swanson & Associates,,,,,,,clinic,-75.6644538,45.374202,POINT
+5607256222,nodes,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.7577957,45.2866437,POINT
+5606923864,nodes,,,,,,,,Greenstreet Medical Centre,,Mo-Fr 09:00-16:30,,,,,clinic,-75.7577506,45.2865655,POINT
+5724408345,nodes,,,,,,,,Green Street Dental,,,,,,,dentist,-75.7573642,45.2864334,POINT
+6781174049,nodes,,,,,,,,Canada House Clinics,,,,,,,doctors,-75.6811246,45.3388778,POINT
+3842967963,nodes,,,,,,,,Kids & Teens Dentistry,,,,,,,dentist,-75.8138991,45.3291599,POINT
+6018530137,nodes,,,,,,,,Geriatric Day Hospital,,,,,,,doctors,-75.830268,45.3238456,POINT
+5657025549,nodes,,,,,,,,Westend Dental,,,,,,,dentist,-75.8217908,45.3261651,POINT
+5811132038,nodes,,,,,,,,MicroDental,,,,,,,dentist,-75.823435,45.325128,POINT
+9936259664,nodes,,,,,,,,ABC Clinique Sante,,,,,,,doctors,-75.7480525,45.4809539,POINT
+9936209213,nodes,,,,,,,,,,,,,,,dentist,-75.7383321,45.4737286,POINT
+7039284222,nodes,,,,,,,,Clinique Medicale de Touraine,,,,,,,doctors,-75.6887431,45.4940008,POINT
+7039155074,nodes,,,,,,,,Hema-Santé,,,,,,,doctors,-75.6884242,45.490612,POINT
+7039167451,nodes,,,,,,,,Clinique Médicale 819,,,,,,,doctors,-75.6875197,45.4911311,POINT
+6196830193,nodes,,,,,,,,Woodroffe Pharmacy,,,,,,,pharmacy,-75.7501186,45.3313315,POINT
+10098614567,nodes,,,,,,,,Focus Eye Centre,,,,,,,clinic,-75.7251804,45.3901502,POINT
+5950393377,nodes,,,,,,,,Dr. D. Nahon,,,,,,,clinic,-75.7791943,45.324309,POINT
+5950393375,nodes,,,,,,,,C. Alan Shoemaker,,,,,,,doctors,-75.7791015,45.3243435,POINT
+5950393380,nodes,,,,,,,,Dr. M. Deutsch,,,,,,,doctors,-75.7793207,45.3242654,POINT
+5897278883,nodes,,,,,,,,Filosofi Laser & Massage Clinic,,,,,,,clinic,-75.7624336,45.3428641,POINT
+5897281203,nodes,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.7626524,45.3429812,POINT
+6515775614,nodes,,,,,,,,Concept Medical,,,,,,,doctors,-75.7334872,45.4030264,POINT
+2141421769,nodes,,,,,,,,Westboro Medical Clinic,,,,,,,clinic,-75.7482581,45.3941704,POINT
+5553596546,nodes,,,,,,,,Ottawa Chiropractic and Sports Injury Clinic,,,,,,,clinic,-75.7379807,45.3985622,POINT
+10045162185,nodes,,,,,,,,Dr Garrerr DE Jong,,,,,,,doctors,-75.7308259,45.4013686,POINT
+5538177524,nodes,,,,,,,,Hampton Park Dental Centre,,,,,,,dentist,-75.7398223,45.3862769,POINT
+6028681098,nodes,,,,,,,,Bowen Therapy,,,,,,,clinic,-75.7547249,45.3927789,POINT
+6028681099,nodes,,,,,,,,Dr. Larry Cebulski & Dr. A. Moustgaard,,,,,,,clinic,-75.7546538,45.3928043,POINT
+6028681093,nodes,,,,,,,,Hayles Foot & Ankle Clinic,,,,,,,clinic,-75.755119,45.3939406,POINT
+10713384725,nodes,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.6080366,45.418274,POINT
+7341652359,nodes,,,,,,,,Smyth Medical Pharmacy,,,,,,,pharmacy,-75.6249306,45.4015388,POINT
+5731353227,nodes,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.7996157,45.3350191,POINT
+6018494622,nodes,,,,,,,,,,,,,,,doctors,-75.7994682,45.3347321,POINT
+7341652360,nodes,,,,,,,,Medical Pharmacy,,,,,,,pharmacy,-75.6246334,45.4174323,POINT
+5774045551,nodes,,,,,,,,Bayshore Dental Centre,,,,,,,dentist,-75.805939,45.3551027,POINT
+6816042892,nodes,,,,,,,,March Dental,,,,,,,dentist,-75.9485619,45.3685185,POINT
+5720669288,nodes,,,,,,,,Back in Balance,,,,,,,clinic,-75.7577826,45.389678,POINT
+5874665732,nodes,,,,,,,,Dr. Rick McCendie/Dr. Francine Chappus,,,,,,,doctors,-75.7564217,45.3905482,POINT
+5874665736,nodes,,,,,,,,Ottawa Institute of Cognitive Behaviour Therapy,,,,,,,clinic,-75.7564931,45.3905383,POINT
+6135930948,nodes,,,,,,,,Craig Henry Dental,,,,,,,dentist,-75.7701248,45.3320334,POINT
+5959563719,nodes,,,,,,,,CSC Estrie,,,,,,,clinic,-75.2491111,45.326234,POINT
+5959563721,nodes,,,,,,,,Nation Health Centre,,,,,,,doctors,-75.2491647,45.3263688,POINT
+5959563723,nodes,,,,,,,,Limoges Dentist,,,,,,,dentist,-75.2493444,45.3263349,POINT
+5959563722,nodes,,,,,,,,Guardian,,,,,,,pharmacy,-75.2492841,45.3262434,POINT
+5799951479,nodes,,,,,,,,Counselling and Psychotherapy Centre,,,,,,,clinic,-75.6752618,45.4074555,POINT
+5731473482,nodes,,,,,,,,Hazeldean Medical Clinic,,,,,,,doctors,-75.8830002,45.3005523,POINT
+5910789890,nodes,,,,,,,,Laserderm,,,,,,,clinic,-75.7458674,45.379973,POINT
+5802745468,nodes,,,,,,,,Ottawa West Orthodontics,,,,,,,dentist,-75.7544956,45.3768473,POINT
+5802745476,nodes,,,,,,,,Dr. Frank Lee,,,,,,,dentist,-75.7529305,45.3781591,POINT
+5842916928,nodes,,,,,,,,CBI Health Centre,,,,,,,clinic,-75.7673487,45.348757,POINT
+5526711398,nodes,,,,,,,,Appletree Medical Clinic,,,,,,,doctors,-75.7331402,45.3538024,POINT
+6181547523,nodes,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.6902357,45.3719322,POINT
+6052821134,nodes,,,,,,,,Stradwick Psychology & Neurofeedback Clinic,,,,,,,clinic,-75.7086392,45.3441597,POINT
+6052821135,nodes,,,,,,,,Woelke Occupational Therapy and Neurofeedback,,,,,,,clinic,-75.7088752,45.3442898,POINT
+6147801849,nodes,,,,,,,,The Whitestone Clinic,,,,,,,clinic,-75.7053629,45.3315398,POINT
+6135912201,nodes,,,,,,,,Dr. Peter Derham,,,,,,,dentist,-75.7658457,45.3460602,POINT
+6135912197,nodes,,,,,,,,Centrepointe Orthodontics,,,,,,,dentist,-75.7659255,45.3461285,POINT
+6135912196,nodes,,,,,,,,Dr. Tarta Mihaela,,,,,,,dentist,-75.7660676,45.3461907,POINT
+6152364106,nodes,,,,,,,,Dr. Allan Murray & Dr. Peter Edmison,,,,,,,dentist,-75.7682392,45.3697382,POINT
+5820645502,nodes,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.7711738,45.3705224,POINT
+5820645501,nodes,,,,,,,,Appletree Medical Clinic,,,,,,,doctors,-75.771244,45.3705089,POINT
+5912940528,nodes,,,,,,,,The Dental Health Practice,,,,,,,dentist,-75.7333866,45.3490318,POINT
+5912940529,nodes,,,,,,,,Crestview Family Chiropractic,,,,,,,doctors,-75.7333001,45.3490393,POINT
+6032500285,nodes,,,,,,,,Kanata North Medical Centre,,,,,,,doctors,-75.9334981,45.3565723,POINT
+5807496516,nodes,,,,,,,,Legget Drive Dental,,Mo-Th 08:00-17:00,,,,,dentist,-75.9199602,45.349088,POINT
+5672984192,nodes,,,,,,,,Whitehaven Pharmacy,,,,,,,pharmacy,-75.7745551,45.368812,POINT
+6195902013,nodes,,,,,,,,Argyle Associates,,,,,,,dentist,-75.7747624,45.3689338,POINT
+6591656114,nodes,,,,,,,,Nutrichem,,,,,,,pharmacy,-75.7880934,45.362801,POINT
+6147949547,nodes,,,,,,,,Ottawa South Dental Clinic,,,,,,,dentist,-75.7019994,45.330449,POINT
+6053123288,nodes,,,,,,,,Superclinique Médigo,,Mo-Su 08:00-20:00,,,,,clinic,-75.7505617,45.4460005,POINT
+6067433317,nodes,,,,,,,,Centre d'ophtalmologie,,,,,,,clinic,-75.7555872,45.4497345,POINT
+5298589078,nodes,,,,,,,,Uniprix,,,,,,,pharmacy,-75.7553116,45.4497599,POINT
+6067433319,nodes,,,,,,,,Dr. Louis Vachon,,,,,,,doctors,-75.7553203,45.4496338,POINT
+6200081789,nodes,,,,,,,,Monarch Centre,,,,,,,clinic,-75.7274439,45.3294417,POINT
+5835480944,nodes,,,,,,,,The Ottawa Clinic,,,,,,,clinic,-75.7094157,45.4023305,POINT
+5724495148,nodes,,,,,,,,HealthMed Pharmacy,,,,,,,pharmacy,-75.7333195,45.3684974,POINT
+7341566265,nodes,,,,,,,,Drugstore Pharmacy,,,,,,,pharmacy,-75.866882,45.2824788,POINT
+5741697427,nodes,,,,,,,,Crossroads Children's Centre,,,,,,,clinic,-75.7499036,45.3712626,POINT
+6319258015,nodes,,,,,,,,My Smile Dental,,,,,,,dentist,-75.9182444,45.348397,POINT
+5861176998,nodes,,,,,,,,Dr. Valerie Archibald Family Dentistry,,,,,,,dentist,-75.7389455,45.358318,POINT
+5846881051,nodes,,,,,,,,Dr. Kersta Peterson,,,,,,,dentist,-75.9011614,45.328726,POINT
+6392265066,nodes,,,,,,,,Smile Shapers Ottawa,,,,,,,dentist,-75.7390004,45.363398,POINT
+6392265068,nodes,,,,,,,,The Clinic at Walmart,,,,,,,clinic,-75.7386303,45.3633292,POINT
+5085980321,nodes,,,,,,,,Merivale Cardiovascular Consultants,,,,,,,clinic,-75.7398262,45.3601022,POINT
+5699786532,nodes,,,,,,,,Merivale Medical Imaging,,,,,,,clinic,-75.7396871,45.3599068,POINT
+5861177011,nodes,,,,,,,,The Teal Umbrella,,,,,,,dentist,-75.7345359,45.3510459,POINT
+5861177009,nodes,,,,,,,,Dr. Kevin Ratray Dentistry,,,,,,,dentist,-75.7343951,45.351076,POINT
+2037688840,nodes,,,,,,,,Family Dental Care,,,,,,,dentist,-75.6207239,45.3697737,POINT
+5804291870,nodes,,,,,,,,Rahal Hair Transplant,,,,,,,clinic,-75.7131681,45.3182104,POINT
+5804291871,nodes,,,,,,,,Robertson Therapy & Counselling,,,,,,,clinic,-75.7133143,45.3183848,POINT
+5764321685,nodes,,,,,,,,Conroy Optometric Clinic,,,,,,,clinic,-75.6193364,45.3854372,POINT
+5764321688,nodes,,,,,,,,Apollo Physical Therapy Centre,,,,,,,clinic,-75.6188603,45.3848871,POINT
+5732694677,nodes,,,,,,,,Dr M. Brunet,,,,,,,dentist,-75.6489439,45.3531885,POINT
+3130555239,nodes,,,,,,,,Towngate Medical Centre,,,,,,,doctors,-75.6474152,45.3528977,POINT
+5739855501,nodes,,,,,,,,Nepean Sports Medicine & Physiotherapy Centre,,,,,,,clinic,-75.7461416,45.3266522,POINT
+6141609768,nodes,,,,,,,,Ottawa South Midwives,,,,,,,doctors,-75.6221835,45.3167817,POINT
+6591731276,nodes,,,,,,,,Dr. Grace Lee,,,,,,,dentist,-75.6465472,45.3640243,POINT
+6114249004,nodes,,,,,,,,Sound Care Medical Centre,,,,,,,clinic,-75.6525475,45.3518201,POINT
+6152753718,nodes,,,,,,,,O’Connor Dental,,,,,,,dentist,-75.7003029,45.4205517,POINT
+5941722850,nodes,,,,,,,,Morgentaler Clinic,,,,,,,clinic,-75.7009557,45.4209974,POINT
+6761587394,nodes,,,,,,,,Sparks Dental Clinic,,,,,,,dentist,-75.7016477,45.4206858,POINT
+778695500,nodes,,,,,,,,Kent Dental Clinic,,,,,,,dentist,-75.7016708,45.4173163,POINT
+775320067,nodes,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.6904022,45.4177036,POINT
+5868793711,nodes,,,,,,,,Heart of Ottawa Health Centre,,,,,,,doctors,-75.6903109,45.417576,POINT
+5868722846,nodes,,,,,,,,Donna Anderson Osteopathy,,,,,,,clinic,-75.6904799,45.4175305,POINT
+6719063213,nodes,,,,,,,,Permasmile Dentistry @ Slater,,,,,,,dentist,-75.7012577,45.4185345,POINT
+5825966865,nodes,,,,,,,,Centretown Pharmacy,,,,,,,pharmacy,-75.6955909,45.414221,POINT
+7747294182,nodes,,,,,,,,Sedation Dental Group,,,,,,,dentist,-75.6977593,45.4142399,POINT
+6094106080,nodes,,,,,,,,Advanced Hearing Institute,,,,,,,clinic,-75.6911076,45.4151761,POINT
+9725477975,nodes,,,,,,,,Flora Medical Pharmacy,,,,,,,pharmacy,-75.6928557,45.4105273,POINT
+5866608703,nodes,,,,,,,,GumDocs,,,,,,,dentist,-75.6927907,45.4088848,POINT
+5866608690,nodes,,,,,,,,Back to Health Wellness Centre,,,,,,,clinic,-75.6925392,45.4091432,POINT
+10927007504,nodes,,,,,,,,Villanova Dental Centre,,,,,,,dentist,-75.9336773,45.3122746,POINT
+5853895311,nodes,,,,,,,,West Dental,,,,,,,dentist,-75.9212995,45.3093283,POINT
+7610877945,nodes,,,,,,,,CHEO Clinic,,,,,,,clinic,-75.6134261,45.4468517,POINT
+6093976575,nodes,,,,,,,,Dr Hicks J Allen,,,,,,,dentist,-75.693142,45.4159937,POINT
+6094106081,nodes,,,,,,,,Dr. David Jordan,,,,,,,doctors,-75.6925996,45.4144827,POINT
+5903073863,nodes,,,,,,,,McArthur Family Medical Centre,,,,,,,doctors,-75.6557554,45.4387291,POINT
+5667233874,nodes,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.6556776,45.4386221,POINT
+5951913567,nodes,,,,,,,,Florence Dentistry,,,,,,,dentist,-75.6943236,45.4125594,POINT
+6094106078,nodes,,,,,,,,Ottawa Vein Centre,,,,,,,clinic,-75.6920745,45.4139094,POINT
+5836744314,nodes,,,,,,,,HealthMed,,,,,,,pharmacy,-75.7080098,45.4103544,POINT
+6414931389,nodes,,,,,,,,University of Ottawa Health Services Family Health Team,,,,,,,clinic,-75.6802963,45.42175,POINT
+6414931415,nodes,,,,,,,,ODent,,,,,,,dentist,-75.6804559,45.4216653,POINT
+6040709214,nodes,,,,,,,,The Kingsway Health Centre,,,,,,,doctors,-75.6850619,45.224632,POINT
+6040709213,nodes,,,,,,,,Chiromax of Manotick,,,,,,,clinic,-75.685133,45.2246731,POINT
+5830786022,nodes,,,,,,,,The Bowen Approach Pain Clinic,,,,,,,clinic,-75.6477772,45.0164937,POINT
+5727128314,nodes,,,,,,,,Rideau Crossing FHC,,,,,,,doctors,-75.6757137,45.0427595,POINT
+6758507412,nodes,,,,,,,,California Medical Clinic,,,,,,,doctors,-75.6919495,44.6119728,POINT
+6759519121,nodes,,,,,,,,Dr. D. Brooks & Dr. S. Riyaz,,,,,,,doctors,-75.7064506,44.5978077,POINT
+6759583530,nodes,,,,,,,,Dr. Dong Li,,,,,,,dentist,-75.6895,44.6014272,POINT
+6759583521,nodes,,,,,,,,Parkedale Pharmacy,,,,,,,pharmacy,-75.6929481,44.6074262,POINT
+6759583520,nodes,,,,,,,,Leeds & Grenville Family Health Team,,,,,,,doctors,-75.693124,44.6073937,POINT
+5809685945,nodes,,,,,,,,Kemptville Denture Clinic,,,,,,,dentist,-75.6373152,45.0156423,POINT
+354760260,nodes,,,,,,,,North Country Medical,,,,,,,doctors,-75.0636889,44.6424811,POINT
+5891377792,nodes,,,,,,,,Stittsville Integrative Medicine Centre,,,,,,,clinic,-75.9198846,45.257231,POINT
+5891377794,nodes,,,,,,,,Stittsville Wellness,,,,,,,doctors,-75.9202832,45.2576971,POINT
+6501419986,nodes,,,,,,,,Jockvale Clinic,,,,,,,doctors,-75.777643,45.275716,POINT
+4344327773,nodes,,,,,,,,dentistry @ Prescott,,,,,,,dentist,-75.520273,44.7054301,POINT
+5755216152,nodes,,,,,,,,Jian Z Physio,,,,,,,clinic,-75.7335234,45.2687971,POINT
+5691211918,nodes,,,,,,,,Longfields Pharmacy,,,,,,,pharmacy,-75.7449415,45.2842287,POINT
+5691211915,nodes,,,,,,,,Active Health Institute,,,,,,,doctors,-75.7451206,45.2840027,POINT
+5691211914,nodes,,,,,,,,Longfields Dental,,,,,,,dentist,-75.7451595,45.2839287,POINT
+5691211916,nodes,,,,,,,,Precision Medical Centre,,,,,,,doctors,-75.7450629,45.284066,POINT
+6036866487,nodes,,,,,,,,Stittsville Medical Centre,,,,,,,doctors,-75.9272137,45.2644571,POINT
+6036866505,nodes,,,,,,,,Warmstone Family Dentistry,,,,,,,dentist,-75.930372,45.2660589,POINT
+6128608035,nodes,,,,,,,,Haven Pychological Association,,,,,,,doctors,-75.9160041,45.2775463,POINT
+6128608030,nodes,,,,,,,,Kanata Counselling Services,,,,,,,doctors,-75.9158841,45.2774005,POINT
+6128608036,nodes,,,,,,,,Carole Martin,,,,,,,doctors,-75.9160611,45.2775402,POINT
+6128608028,nodes,,,,,,,,Dr. Nancy Sinclair,,,,,,,doctors,-75.9158559,45.2773033,POINT
+6128608027,nodes,,,,,,,,Spark Therapy,,,,,,,doctors,-75.9159092,45.2772644,POINT
+3304216880,nodes,,,,,,,,Rockcliffe Dental Clinic,,,,,,,dentist,-75.6399998,45.4437653,POINT
+5654076512,nodes,,,,,,,,Pharmacie La Colombe Pharmacy,,,,,,,pharmacy,-75.637427,45.4448816,POINT
+4416285695,nodes,,,,,,,,Barrhaven Bright Smile Dental,,Mo-Fr 08:00-16:00,,,,,dentist,-75.7772677,45.2648711,POINT
+5891250672,nodes,,,,,,,,Saterra,,,,,,,clinic,-75.9051848,45.2768884,POINT
+6392347244,nodes,,,,,,,,The Clinic at Walmart,,,,,,,clinic,-75.8715981,45.2751469,POINT
+5834617619,nodes,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.6691571,45.3802753,POINT
+6103824314,nodes,,,,,,,,Motion Matters,,,,,,,clinic,-75.6944738,45.420259,POINT
+7341745840,nodes,,,,,,,,Lise St-Denis Pharmacy,,,,,,,pharmacy,-74.6090383,45.6097051,POINT
+6403076449,nodes,,,,,,,,Dentistry on Bank,,,,,,,dentist,-75.6680359,45.3787926,POINT
+5849340766,nodes,,,,,,,,Ottawa Orthotic Lab,,,,,,,clinic,-75.670651,45.3751789,POINT
+6719002788,nodes,,,,,,,,Uniprix,,,,,,,pharmacy,-75.7141841,45.4264617,POINT
+6580689209,nodes,,,,,,,,Remedy'sRx,,,,,,,pharmacy,-75.1806269,44.9015568,POINT
+5874696206,nodes,,,,,,,,Core Connections Physiotherapy,,,,,,,clinic,-75.7551393,45.3917551,POINT
+5827553147,nodes,,,,,,,,Hygiene Now,,,,,,,dentist,-75.6515752,45.0218304,POINT
+6080195112,nodes,,,,,,,,Advanced Massage Therapy Clinic,,,,,,,clinic,-75.7575171,45.2864019,POINT
+6015801778,nodes,,,,,,,,Akausivik Inuit Family Health Team,,,,,,,clinic,-75.6630316,45.4328835,POINT
+6665870098,nodes,,,,,,,,Osgoode Family Dental,,,,,,,dentist,-75.6035931,45.149225,POINT
+6579207887,nodes,,,,,,,,Manotick Counselling,,,,,,,doctors,-75.6843172,45.2259733,POINT
+6704010006,nodes,,,,,,,,Dre. Denise Oeullet,,,,,,,doctors,-75.762978,45.4270455,POINT
+6704010008,nodes,,,,,,,,Elite Group Dentaire,,,,,,,dentist,-75.7630786,45.4272262,POINT
+6462980372,nodes,,,,,,,,Dr. Jack Charbonneau,,,,,,,doctors,-75.7307661,45.4312488,POINT
+7341573275,nodes,,,,,,,,Costco Pharmacy,,,,,,,pharmacy,-75.7224606,45.3374245,POINT
+5665009021,nodes,,,,,,,,Royal Crown Dental Clinic,,,,,,,dentist,-75.7251301,45.3376616,POINT
+6719002792,nodes,,,,,,,,Clinique dentaire Place du Centre,,,,,,,dentist,-75.7141413,45.4267415,POINT
+6149859138,nodes,,,,,,,,CLSC,,,,,,,clinic,-75.9496368,45.8092249,POINT
+6678055874,nodes,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-74.7253305,45.0162973,POINT
+12335844729,nodes,,,,,,,,Pharmacie Plateau,,,,,,,pharmacy,-75.7670253,45.4366411,POINT
+6630164149,nodes,,,,,,,,Clinique Santé Sexualité du Plateau,,,,,,,doctors,-75.7845544,45.4380001,POINT
+6630164150,nodes,,,,,,,,Somnocor,,,,,,,doctors,-75.7846583,45.4379945,POINT
+7039216386,nodes,,,,,,,,Clinique Santé-Plus de l'Outaouais,,,,,,,doctors,-75.6883502,45.4905492,POINT
+7039218582,nodes,,,,,,,,"Jean Hébert, d.d.",,,,,,,dentist,-75.6872889,45.4901657,POINT
+5947441353,nodes,,,,,,,,Pro Physio,,,,,,,clinic,-75.6207486,45.4311058,POINT
+5799646292,nodes,,,,,,,,VitalAire,,,,,,,clinic,-75.6325952,45.4080958,POINT
+5874367886,nodes,,,,,,,,National Orthotics Lab,,,,,,,clinic,-75.6427681,45.4143076,POINT
+591866032,ways_poly,,,,,,,,Orleans Orthodontics,,,,,,,dentist,-75.48732795,45.4591991,POLYGON
+591869358,ways_poly,,,,,,,,Healing Hands Massage Therapy,,,,,,,clinic,-75.4875226667046,45.4574967999762,POLYGON
+709287229,ways_poly,,,,,,,,Familiprix,,,,,,,pharmacy,-75.6407877236341,45.5016945472902,POLYGON
+672562806,ways_poly,,,,,,,,Clinique Dentaire Lorraine,,,,,,,dentist,-75.6107497958913,45.5051154779101,POLYGON
+671959566,ways_poly,,,,,Martin Beaucage,,,Uniprix,,"Mo-Fr 09:00-21:00; Sa-Su 09:00-18:00",,,,,pharmacy,-75.5964614038847,45.4894797435953,POLYGON
+478555839,ways_poly,,,,,,,,Cedarview Physiotherapy & Wellness,,Mo-Fr 07:00-20:00,,,,,clinic,-75.7682546694308,45.2604434499275,POLYGON
+593971607,ways_poly,,,,,,,,Riverside South Dental & Medical Centre,,,,,,,dentist,-75.6963125999506,45.2702788539826,POLYGON
+566753802,ways_poly,,,,,,,,Lotus Dental Clinic,,,,,,,dentist,-75.890730595122,45.2961881756345,POLYGON
+690434651,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-74.6303968986109,45.302018052139,POLYGON
+537538736,ways_poly,,,,,,,,I.D.A.,,"Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-17:00; Dec 25 off",,,,,pharmacy,-75.9319415106205,45.2683368360329,POLYGON
+591917940,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.9299260777732,45.2652304735475,POLYGON
+690429758,ways_poly,,,,,,,,Jean Coutu,,,,,,,pharmacy,-74.6267411104426,45.2999177471032,POLYGON
+664536855,ways_poly,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.8571553249062,45.2917509758112,POLYGON
+233809748,ways_poly,,,,,,,,Avenue Dental,,,,,,,dentist,-75.9418506133097,45.2681544559977,POLYGON
+538372408,ways_poly,,,,,,,,Trillium Medical Clinic,,,,,,,clinic,-74.6086696793505,45.5986749953274,POLYGON
+578678054,ways_poly,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.60814,45.41832225,POLYGON
+528156934,ways_poly,,,,,,,,Orleans Family Dentistry,,,,,,,dentist,-75.5180735,45.4743838,POLYGON
+601870505,ways_poly,,,,,,,,Jean Coutu,,,,,,,pharmacy,-74.7353859316916,45.0298840328486,POLYGON
+447780102,ways_poly,,,,,,,,Trailsedge Family Dental,,,,,,,dentist,-75.5147274790307,45.4304757522289,POLYGON
+503661841,ways_poly,,,,,,,,"Dr. Nick Karaiskos, Orthodontist",,,,,,,dentist,-75.6865051316375,45.2829421481557,POLYGON
+1002490111,ways_poly,,,,,,,,I.D.A.,,,,,,,pharmacy,-75.6735294813022,45.2875890177288,POLYGON
+503661838,ways_poly,,,,,,,,Dr. Stephen Whittaker,,,,,,,doctors,-75.6863617849703,45.2831078016382,POLYGON
+481456198,ways_poly,,,,,,,,Rexall,,09:00-22:00,,,,,pharmacy,-75.756626564557,45.284902492927,POLYGON
+576409168,ways_poly,,,,,,,,Merivale Dental Centre,,,,,,,dentist,-75.7346701006655,45.3619410779052,POLYGON
+578287130,ways_poly,,,,,,,,Viewmount Dental Centre,,,,,,,dentist,-75.7148731519592,45.3489036420758,POLYGON
+479399889,ways_poly,,,,,,,,Active Care Physio Ottawa,,,,,,,clinic,-75.7421615687927,45.2930743665826,POLYGON
+478374539,ways_poly,,,,,,,,I.D.A.,,,,,,,pharmacy,-75.7474893,45.2751718,POLYGON
+478956207,ways_poly,,,,,,,,PhysioVive,,,,,,,clinic,-75.7289684342282,45.29229360001,POLYGON
+583053806,ways_poly,,,,,,,,Greenboro Physiotherapy&Massage,,,,,,,clinic,-75.6466718278455,45.3640289751256,POLYGON
+598435537,ways_poly,,,,,,,,,,,,,,,doctors,-74.716895741131,45.0237083391168,POLYGON
+610253343,ways_poly,,,,,,,,Highbury Park Dental,,,,,,,dentist,-75.749481113143,45.2767092464363,POLYGON
+478521079,ways_poly,,,,,,,,Southpointe Dental,,,,,,,dentist,-75.7209665870703,45.2742524667606,POLYGON
+478750903,ways_poly,,,,,,,,Queensbury Dental,,"Mo-Tu,Th 09:00-19:00; We 09:00-18:00; Fr 09:00-17:00; Sa 08:00-14:00",,,,,dentist,-75.7239648983423,45.2846595294777,POLYGON
+473224058,ways_poly,,,,,,,,Smile Care Dental Centre,,,,,,,dentist,-75.7303605472797,45.3461890201358,POLYGON
+474837184,ways_poly,,,,,,,,ProMotion Orthotics,,,,,,,clinic,-75.7540696676954,45.368764885076,POLYGON
+422900006,ways_poly,,,,,,,,Capital Orthodontics,,"Tu 07:30-17:00; We 12:00-18:30; Th 13:00-16:30; Fr 07:30-16:00",,,,,dentist,-75.7435336403836,45.2700270829039,POLYGON
+573225433,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.7311134107006,45.3447409030466,POLYGON
+599071839,ways_poly,,,,,,,,Marina Pharmacy,,"Su closed; Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 10:00-16:00",,,,,pharmacy,-75.7346065923483,45.3513488898666,POLYGON
+604084507,ways_poly,,,,,,,,Aspire Pharmacy,,,,,,,pharmacy,-75.6687054,45.3426783,POLYGON
+270214297,ways_poly,,,,,,,,Skyline Dental Associates,,,,,,,dentist,-75.7337902922261,45.3635359279798,POLYGON
+561138180,ways_poly,,,,,,,,Riverside Family Dentistry,,"Mo,Tu 10:00-18:00; We,Th 08:00-16:00; Fr 08:00-13:00",,,,,dentist,-75.6904101,45.343618,POLYGON
+663543728,ways_poly,,,,,,,,Rideau Family Health Team,,,,,,,clinic,-75.6925166607519,45.3457007477102,POLYGON
+663543725,ways_poly,,,,,,,,Remedy'sRx,,,,,,,pharmacy,-75.6920973116044,45.3448757627862,POLYGON
+166691883,ways_poly,,,,,,,,Yazdani Family Dentistry,,,,,,,dentist,-75.9105895376635,45.3100764352272,POLYGON
+577634742,ways_poly,,,,,,,,Palladium Orthodontics,,,,,,,dentist,-75.9441761519233,45.2995688690798,POLYGON
+478978384,ways_poly,,,,,,,,Advanced Physiotherapy,,"Mo-Th 08:00-20:00; Fr 08:00-16:00",,,,,clinic,-75.7578377876052,45.2870467130832,POLYGON
+635853256,ways_poly,,,,,,,,Pharmasave,,,,,,,pharmacy,-74.9884797954856,44.9970213312758,POLYGON
+591633984,ways_poly,,,,,St. Lawrence Health System,,,Massena Memorial Hospital,,24/7,private_non_profit,,,,hospital,-74.9088307665451,44.9360892969305,POLYGON
+614057186,ways_poly,,,,,,,,Gentle Beginnings Midwifery,,,,,,,clinic,-75.3514190109557,45.0941029182542,POLYGON
+614071627,ways_poly,,,,,,,,Seniors Support Centre,,,,,,,clinic,-75.3506660414911,45.0933835508606,POLYGON
+630832803,ways_poly,,,,,,,,Limoges Acupuncture Clinic,,,,,,,clinic,-75.18091095,45.33560595,POLYGON
+593903170,ways_poly,,,,,,,,Ogilvie Dental,,,,,,,dentist,-75.59572315,45.44591585,POLYGON
+483045373,ways_poly,,,,,,,,Blackburn Dental Care,,,,,,,dentist,-75.5690296872365,45.4294255542068,POLYGON
+587602377,ways_poly,,,,,,,,Swift Clinics,,,,,,,clinic,-75.5649935,45.43104775,POLYGON
+193249290,ways_poly,,,,,,,,Conroy Medical Centre,,,,,,,doctors,-75.6206902615231,45.3696361090525,POLYGON
+485194401,ways_poly,,,,,,,,Care Medics,,,,,,,doctors,-75.6248755201164,45.3993793056653,POLYGON
+700607871,ways_poly,,,,,,,,Finch Medical Centre,,,,,,,doctors,-75.0873651210816,45.1437462475528,POLYGON
+342382730,ways_poly,,,,,,,,Diabetes Clinic,,,,,,,clinic,-75.1489430176582,45.2159069289358,POLYGON
+1000909528,ways_poly,,,,,,,,I.D.A.,,"Mo-Fr 09:00-19:00; Sa 10:00-16:00",,,,,pharmacy,-75.3596352573377,45.258531666699,POLYGON
+762479343,ways_poly,,,,,,,,Sunset Dental,,,,,,,dentist,-75.5552129875079,45.2645615333333,POLYGON
+762479344,ways_poly,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.5551445122085,45.2644815667335,POLYGON
+469951580,ways_poly,,,,,,,,Metcalfe Pharmacy,,,,,,,pharmacy,-75.4736573212246,45.2352654501837,POLYGON
+614051973,ways_poly,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.3545086827705,45.0924726580149,POLYGON
+517010886,ways_poly,,,,,,,,Centre Dentaire Hawkesbury Dental Centre,,,,,,,dentist,-74.6003601976549,45.593687058317,POLYGON
+623581020,ways_poly,,,,,,,,I.D.A.,,"Mo-Fr 09:30-18:30; Sa 10:00-16:00",,,,,pharmacy,-75.2846573065867,45.2715440263342,POLYGON
+700609448,ways_poly,,,,,,,,St. Lawrence Medical Clinic,,,,,,,doctors,-74.9878434575735,44.9964409343195,POLYGON
+672562807,ways_poly,,,,,,,,Familiprix,,,,,,,pharmacy,-75.6109966112367,45.5051129829047,POLYGON
+709287222,ways_poly,,,,,,,,Centre Dentaire De La Vérendrye,,,,,,,dentist,-75.6415927092108,45.5020080072387,POLYGON
+54382017,ways_poly,,,,,,,,Dr. John Carville,,,,,,,dentist,-74.9787249950858,44.6689347023054,POLYGON
+510535384,ways_poly,,,,,,,,McAllister Dentistry,,,,,,,dentist,-75.6034348322328,45.4371422634736,POLYGON
+465395775,ways_poly,,,,,,,,Orthophonie Réadaptation Outaouais,,,,,,,clinic,-75.412700213077,45.5811210881853,POLYGON
+714957758,ways_poly,,,,,,,,Hôpital de Papineau,,,,,,,hospital,-75.4119502050039,45.5886181342154,POLYGON
+471203991,ways_poly,,,,,,,,Yates Naturopathic Clinic,,,,,,,clinic,-75.9422880409648,45.2704008373533,POLYGON
+465035660,ways_poly,,,,,,,,Uniprix,,,,,,,pharmacy,-75.4135811040749,45.5835450669453,POLYGON
+465395776,ways_poly,,,,,,,,Clinique de Denturologie P.M. Lavallée,,,,,,,dentist,-75.4121125677843,45.5809981458189,POLYGON
+465395792,ways_poly,,,,,,,,Studio Les Mains d'Anges,,,,,,,clinic,-75.4126727587206,45.5803689453471,POLYGON
+465395753,ways_poly,,,,,,,,Centre Chiropractique,,,,,,,clinic,-75.4129811283397,45.5826201452919,POLYGON
+587955604,ways_poly,,,,,,,,Baseline Pharmacy,,,,,,,pharmacy,-75.78748525,45.3416529,POLYGON
+567230328,ways_poly,,,,,,,,Kanata Lakes Dental Centre,,,,,,,dentist,-75.919521501216,45.3111349838818,POLYGON
+68609313,ways_poly,,,,,,,,Active Care Medical Centre,,,,,,,doctors,-75.9011577109839,45.322587121528,POLYGON
+606521917,ways_poly,,,,,,,,Kanata North Dental,,,,,,,dentist,-75.9243946432209,45.350224526844,POLYGON
+478555834,ways_poly,,,,,,,,Guardian,,"Mo-Fr 09:00-20:00; Sa 10:00-16:00; Su 10:00-14:00",,,,,pharmacy,-75.7681699192459,45.260493319378,POLYGON
+218748899,ways_poly,,,,,,,,Rideau Valley Health Centre,,,,,,,clinic,-75.747319126488,45.2748881251361,POLYGON
+603914588,ways_poly,,,,,,,,Click Pharmacy,,,,,,,pharmacy,-75.8849166287763,45.2996875519274,POLYGON
+509296621,ways_poly,,,,,,,,Nepean Family Health Organization,,,,,,,clinic,-75.7566217610058,45.2850816568105,POLYGON
+471811678,ways_poly,,,,,,,,Dr. Jessica Tan - Orthodontist,,,,,,,dentist,-75.9216220672402,45.2775879541115,POLYGON
+471811675,ways_poly,,,,,,,,Dr. Do Dental,,,,,,,dentist,-75.921204,45.277722,POLYGON
+292836726,ways_poly,,,,,,,,Jean Coutu,,,,,,,pharmacy,-75.6602470032077,45.4362860340453,POLYGON
+364192530,ways_poly,,,,,,,,Centre professionnel Lacoste & Landry,,,,,,,dentist,-75.6896423305038,45.4812955962568,POLYGON
+473162310,ways_poly,,,,,,,,Ottawa Environmental Health Clinic,,,,,,,doctors,-75.8305683394858,45.3509295112241,POLYGON
+562117351,ways_poly,,,,,,,,Britannia Village Dental,,,,,,,dentist,-75.790999591267,45.363157780901,POLYGON
+479507202,ways_poly,,,,,,,,Acupuncture Clinic,,,,,,,clinic,-75.7008051818904,45.4060512243498,POLYGON
+460109073,ways_poly,,,,,,,,Gilmour Dental Centre,,,,,,,dentist,-75.6966121066761,45.4137600083098,POLYGON
+68657451,ways_poly,,,,,,,,Anthomy Physiotherapy Clinic,,"Mo-Th 07:00-19:30; Fr 07:30-16:00",,,,,clinic,-75.7486753155556,45.3948641604621,POLYGON
+155986812,ways_poly,,,,,,,,Le Cabinet Dental Care,,,,,,,dentist,-75.7485230966669,45.3947618143014,POLYGON
+240807379,ways_poly,,,,,,,,Dr. Corazon Cosico-De-Jesus,,,,,,,doctors,-75.7455783392125,45.3955209812057,POLYGON
+576881309,ways_poly,,,,,,,,Kontour Dental Care,,,,,,,dentist,-75.9233581932093,45.3054133186036,POLYGON
+201467083,ways_poly,,,,,Royal Ottawa Health Care Group,,,The Royal Ottawa Mental Health Centre,,,,,,,hospital,-75.7308063300061,45.3890798490956,POLYGON
+690239261,ways_poly,,,,,,,,Perth Street Dental,,,,,,,dentist,-75.8297834,45.20189685,POLYGON
+314343988,ways_poly,,,,,,,,Carlington Community Health Centre,,,,,,,doctors,-75.7334256148635,45.3833154377087,POLYGON
+570367964,ways_poly,,,,,,,,T&J Nguyen Dental Centre,,,,,,,dentist,-75.8187373279576,45.3291028979886,POLYGON
+710693627,ways_poly,,,,,,,,Dr. Jean-Serge Lalonde,,,,,,,doctors,-75.677204,45.49294545,POLYGON
+364377775,ways_poly,,,,,,,,Hôpital de jour gériatrique,,,,,,,doctors,-75.6771119200762,45.4933131814128,POLYGON
+111609279,ways_poly,,,,,,,,Guardian,,,,,,,pharmacy,-75.6778544531555,45.4388175456059,POLYGON
+714476744,ways_poly,,,,,,,,Jean Coutu,,,,,,,pharmacy,-75.4347908347679,45.5547767862736,POLYGON
+472222713,ways_poly,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.5584364631931,45.2638465685474,POLYGON
+762479345,ways_poly,,,,,,,,Greely Family Medicine Centre,,,,,,,clinic,-75.5550776366866,45.2644035335346,POLYGON
+560871086,ways_poly,,,,,,,,Care Medics,,,,,,,doctors,-75.68223415,45.22305175,POLYGON
+593943466,ways_poly,,,,,,,,Dental Centre,,,,,,,dentist,-75.6715907994094,45.2870121770373,POLYGON
+470053608,ways_poly,,,,,,,,Manotick Dental Centre,,,,,,,dentist,-75.6762965839962,45.2333779929523,POLYGON
+641594853,ways_poly,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.6772356449434,45.233891396963,POLYGON
+641425377,ways_poly,,,,,,,,"Dr. Nick Karaiskos, Orthodontist",,,,,,,dentist,-75.6856885355274,45.2259223256002,POLYGON
+560871132,ways_poly,,,,,,,,Dr. Robert Segal Family Dentistry,,"Tu,Fr,Sa 09:00-17:00; We 09:00-19:00",,,,,dentist,-75.68457905,45.2233666,POLYGON
+320128435,ways_poly,,,,,,,,Rockland Medical Centre,,,,,,,clinic,-75.3012044857193,45.5445782285738,POLYGON
+255988614,ways_poly,,,,,,,,Fernbank Dental Centre,,,,,,,dentist,-75.87095275,45.2735815,POLYGON
+641594844,ways_poly,,,,,,,,Dentistry@Manotick,,,,,,,dentist,-75.6775915391276,45.2340357555118,POLYGON
+702835887,ways_poly,,,,,,,,Rockland Optometry,,,,,,,doctors,-75.2918265701985,45.5488451702455,POLYGON
+367700137,ways_poly,,,,,,,,Jean Coutu,,,,,,,pharmacy,-75.294544424677,45.5467194089586,POLYGON
+591675214,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.8798099916498,45.3017662899405,POLYGON
+233174487,ways_poly,,,,,Royal Ottawa Health Care Group,,,Brockville Mental Health Centre,,,,,,,hospital,-75.666738271928,44.6052705336543,POLYGON
+709271113,ways_poly,,,,,,,,Towngate Pharmacy,,,,,,,pharmacy,-75.6469717558103,45.352796652415,POLYGON
+578263656,ways_poly,,,,,,,,Shoppers Drug Mart,,Mo-Su 08:00-22:00,,,,,pharmacy,-75.5368884116083,45.4799455405123,POLYGON
+528170411,ways_poly,,,,,,,,Place Dental,,,,,,,dentist,-75.5179755127887,45.4779367399177,POLYGON
+484718700,ways_poly,,,,,,,,Orleans Denture Clinic,,,,,,,dentist,-75.5183517869819,45.4740727183806,POLYGON
+584807283,ways_poly,,,,,,,,Queenswood Dental,,,,,,,dentist,-75.5217030240392,45.4765457207653,POLYGON
+689534217,ways_poly,,,,,,,,St. Lawrence District Medical Centre,,,,,,,doctors,-76.0185916242754,44.4013964895272,POLYGON
+616352393,ways_poly,,,,,,,,Family Chiropractic Centre,,,,,,,clinic,-75.65440245,45.02008145,POLYGON
+616352392,ways_poly,,,,,,,,Kemptville Medical Centre,,,,,,,doctors,-75.65455435,45.0199966,POLYGON
+264671535,ways_poly,,,,,,,,Westboro Psychology,,,,,,,clinic,-75.7556562218308,45.3906058442409,POLYGON
+558621324,ways_poly,,,,,,,,Kemptville Smiles Dentistry,,,,,,,dentist,-75.6302574938967,45.0297998452991,POLYGON
+558621260,ways_poly,,,,,,,,Capital Orthodontics,,,,,,,dentist,-75.6317024834217,45.0293619511,POLYGON
+616825321,ways_poly,,,,,,,,Ebb&Flow Massage Therapy,,,,,,,clinic,-75.6515355902346,45.0178250147209,POLYGON
+251616093,ways_poly,,,,,,,,Claxton-Hepburn Medical Center,,24/7,,,,,hospital,-75.4991828280993,44.6914147561939,POLYGON
+485194398,ways_poly,,,,,,,,Ottawa Gastrointestinal Institute,,,,,,,doctors,-75.625040562865,45.400154526541,POLYGON
+478766620,ways_poly,,,,,,,,Shoppers Drug Mart,,08:00-22:00,,,,,pharmacy,-75.5941401446224,45.3199110869391,POLYGON
+620180741,ways_poly,,,,,,,,South Ottawa Medical Centre,,,,,,,doctors,-75.6266717984743,45.3465021676994,POLYGON
+620180742,ways_poly,,,,,,,,Remedy'sRx,,,,,,,pharmacy,-75.6267910940757,45.3464382279524,POLYGON
+578263655,ways_poly,,,,,,,,Medical Centre,,,,,,,clinic,-75.5367026381717,45.4800249813363,POLYGON
+608433320,ways_poly,,,,,,,,Herongate Dental Clinic,,,,,,,dentist,-75.6447840728617,45.378291363393,POLYGON
+503661840,ways_poly,,,,,,,,Pharmasave,,"Mo-Fr 09:00-19:00; Sa 10:00-16:00",,,,,pharmacy,-75.6864106150297,45.2830507983618,POLYGON
+620180738,ways_poly,,,,,,,,7Dental,,,,,,,dentist,-75.6261688494902,45.3463607374343,POLYGON
+583075395,ways_poly,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.6436189,45.354296,POLYGON
+583075393,ways_poly,,,,,,,,Smiles on Bank Dentist,,,,,,,dentist,-75.643690064381,45.3542760511211,POLYGON
+652004792,ways_poly,,,,,,,,Upper Hunt Club Dental Centre,,,,,,,dentist,-75.6379464388224,45.3569407901082,POLYGON
+483090141,ways_poly,,,,,,,,Hunt Club Dental Centre,,,,,,,dentist,-75.6514241700138,45.3519482798665,POLYGON
+604059114,ways_poly,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.6490760875154,45.3533160327002,POLYGON
+543613106,ways_poly,,,,,,,,Rockland Dental Centre,,,,,,,dentist,-75.3023053,45.5446616,POLYGON
+484351600,ways_poly,,,,,,,,Jeanne D'Arc Dental Centre,,,,,,,dentist,-75.542213646927,45.4654468569396,POLYGON
+584815457,ways_poly,,,,,,,,iCare Medical Clinic,,,,,,,doctors,-75.5425242265814,45.4652976313661,POLYGON
+583053809,ways_poly,,,,,,,,Greenboro Pharmacy,,,,,,,pharmacy,-75.6465959348876,45.3639373982314,POLYGON
+604061483,ways_poly,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.6457935138069,45.348346281216,POLYGON
+68607667,ways_poly,,,,,,,,Rexall,,,,,,,pharmacy,-75.5254644281477,45.4613484774374,POLYGON
+484645974,ways_poly,,,,,,,,Fairlawn Dental,,,,,,,dentist,-75.7709297900565,45.3696672140685,POLYGON
+187061632,ways_poly,,,,,Francis Chatain & Benoit Gagnon,,,Jean Coutu,,Mo-Su 09:00-21:00,,,,,pharmacy,-75.6880943778932,45.4891307559263,POLYGON
+217560315,ways_poly,,,,,,,,Centre de cancérologie,,,,,,,clinic,-75.6908672074166,45.4942848378927,POLYGON
+651630083,ways_poly,,,,,,,,Rideau Dental Centre,,,,,,,dentist,-75.6928662237708,45.4252090496079,POLYGON
+305636705,ways_poly,,,,,,,,Oaktree Ottawa,,,,,,,clinic,-75.6943643622308,45.4182452887057,POLYGON
+171701683,ways_poly,,,,,,,,Advanced Wellness Centre,,,,,,,clinic,-75.6934874901873,45.417950057376,POLYGON
+257615992,ways_poly,,,,,,,,Hébert & Associates,,,,,,,clinic,-75.6904187635966,45.4171836790847,POLYGON
+605371383,ways_poly,,,,,,,,Rexall,,,,,,,pharmacy,-75.6770061112683,45.3856277169055,POLYGON
+483246778,ways_poly,,,,,,,,Alta Vista Dental Clinic,,,,,,,dentist,-75.6676874489003,45.3804356664898,POLYGON
+576873983,ways_poly,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.6703336262595,45.3805596705329,POLYGON
+578296238,ways_poly,,,,,,,,Fisher Dental,,,,,,,dentist,-75.7049471,45.3537453,POLYGON
+578296244,ways_poly,,,,,,,,Energy Weight Loss Centre,,,,,,,doctors,-75.7048844,45.3537706,POLYGON
+484638741,ways_poly,,,,,,,,Coliseum Dental Centre,,,,,,,dentist,-75.8061836,45.35429965,POLYGON
+68588367,ways_poly,,,,,,,,CLSC de Gatineau - Saint-Rédempteur,,,,,,,clinic,-75.7219639760935,45.4270518496553,POLYGON
+270214298,ways_poly,,,,,,,,UC Baby,,,,,,,doctors,-75.7336312515475,45.363727034061,POLYGON
+206190103,ways_poly,,,,,,,,7Dental,,,,,,,dentist,-75.733317151606,45.3705759162207,POLYGON
+576412272,ways_poly,,,,,,,,Baseline Family Dental Care,,"Mo-Tu 08:30-16:30; We-Th 08:30-20:00; Fr-Sa 09:00-16:00",,,,,doctors,-75.7370964483649,45.3628940077479,POLYGON
+286940495,ways_poly,,,,,,,,U Dental,,,,,,,dentist,-75.7358810925688,45.3559513518619,POLYGON
+679914095,ways_poly,,,,,,,,Ottawa Anxiety & Trauma Clinic,,,,,,,clinic,-75.6779387993723,45.3855003099577,POLYGON
+460440203,ways_poly,,,,,,,,Confident Smiles,,,,,,,dentist,-75.6942715071016,45.412085656029,POLYGON
+481786821,ways_poly,,,,,,,,Holistic Wellness Centre,,,,,,,clinic,-75.695058293611,45.4147769054043,POLYGON
+172232251,ways_poly,,,,,Loblaw Companies Limited,,,Shoppers Drug Mart,,Su-Sa 8:00-22:00,,,,,pharmacy,-75.6897440496065,45.4048312308804,POLYGON
+481782885,ways_poly,,,,,,,,Integrate Healthcare Collective,,,,,,,clinic,-75.6870589323191,45.4168022192677,POLYGON
+634367874,ways_poly,,,,,Bruyère Continuing Care,,,Élisabeth Bruyère Hospital,,,,,,,hospital,-75.6969335798284,45.4322106563384,POLYGON
+300546828,ways_poly,,,,,,,,Montreal Rd. Medical Centre,,Mo-Fr 10:30-16:00,,,,,doctors,-75.6530756963626,45.438747234973,POLYGON
+338409559,ways_poly,,,,,,,,Riverview Medical Centre,,,,,,,doctors,-75.6901711831997,45.3719657761026,POLYGON
+1342129075,ways_poly,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.6901461905161,45.3709703685678,POLYGON
+561087170,ways_poly,,,,,,,,,,,,,,,dentist,-75.7024391736812,45.3670542647359,POLYGON
+230610467,ways_poly,,,,,Loblaw Companies Limited,,,Shoppers Drug Mart,,Mo-Su 08:00-22:00,,,,,pharmacy,-75.6838874423715,45.3943047029341,POLYGON
+671093866,ways_poly,,,,,,,,CERSO,,,,,,,clinic,-75.6611061282501,45.4845521510409,POLYGON
+345641569,ways_poly,,,,,,,,Mindfulness at Centrepointe,,,,,,,clinic,-75.7713771732624,45.3387168192683,POLYGON
+238876071,ways_poly,,,,,,,,Appletree Medical Clinic,,,,,,,doctors,-75.78761625,45.34159975,POLYGON
+485194427,ways_poly,,,,,,,,Elmvale Dental Clinic,,,,,,,dentist,-75.6236011312252,45.3984811042012,POLYGON
+605069156,ways_poly,,,,,,,,I.D.A.,,,,,,,pharmacy,-75.62209675,45.395264,POLYGON
+192963672,ways_poly,,,,,,,,Revisagé,,,,,,,clinic,-75.6516179816799,45.387711381805,POLYGON
+483246590,ways_poly,,,,,,,,Right Direction Medical Centre,,,,,,,doctors,-75.6663064395152,45.3770928747088,POLYGON
+483246302,ways_poly,,,,,,,,Dr. John I. Kershman,,,,,,,dentist,-75.6675323640704,45.3795690955304,POLYGON
+683614559,ways_poly,,,,,,,,Heron Park Dental,,,,,,,dentist,-75.6709837412994,45.3822989707694,POLYGON
+562762394,ways_poly,,,,,,,,Appletree Medical Clinic,,,,,,,clinic,-75.6688062275048,45.3789930214455,POLYGON
+483731601,ways_poly,,,,,,,,Smile Dental Centre,,,,,,,dentist,-75.6876931285551,45.4119866253907,POLYGON
+482248223,ways_poly,,,,,,,,Balanced Life Osteopathy,,,,,,,clinic,-75.6910838287911,45.4108128513431,POLYGON
+589529615,ways_poly,,,,,,,,Dr. Salloum Dental Centre,,,,,,,dentist,-75.7082351250206,45.3741934451483,POLYGON
+482238192,ways_poly,,,,,,,,Denture Specialty Clinic,,,,,,,dentist,-75.7001549851717,45.4139754257792,POLYGON
+575408923,ways_poly,,,,,,,,Dr. Raouf Alshahwany,,,,,,,dentist,-75.7326905382435,45.3796018011906,POLYGON
+479886021,ways_poly,,,,,,,,Somerset West Community Health Centre,,,,,,,clinic,-75.7262257484213,45.4013716511977,POLYGON
+484822875,ways_poly,,,,,,,,Ottawa-Carleton Dialysis Clinic,,,,,,,clinic,-75.7178182353252,45.3703261559173,POLYGON
+484822874,ways_poly,,,,,,,,Sedation Dentistry,,"Tu 11:00-20:00; We-Fr 09:00-17:00; Sa 09:00-14:00",,,,,dentist,-75.7176664096828,45.3703821036908,POLYGON
+549191472,ways_poly,,,,,,,,Hintonburg Dental Hygiene,,,,,,,dentist,-75.719581873362,45.4069343138948,POLYGON
+237120173,ways_poly,,,,,,,,Chinese Ditda Healing Centre,,,,,,,clinic,-75.7199486,45.4068308,POLYGON
+413956335,ways_poly,,,,,,,,Clinique Dentaire de Hull,,,,,,,dentist,-75.7362669,45.4506568,POLYGON
+477884654,ways_poly,,,,,,,,Centre Dentaire Dufresne Nguyen,,,,,,,dentist,-75.7394709110733,45.452619779137,POLYGON
+430083234,ways_poly,,,,,,,,Clinique de Denturologie André Philion,,,,,,,dentist,-75.736802339035,45.4434510806841,POLYGON
+575408925,ways_poly,,,,,,,,Guardian,,,,,,,pharmacy,-75.7327293741399,45.3796471993801,POLYGON
+313342431,ways_poly,,,,,,,,Clinique Dentaire Yves Barette,,,,,,,dentist,-75.7400768,45.44329085,POLYGON
+386971729,ways_poly,,,,,,,,Familiprix,,,,,,,pharmacy,-75.7229806557372,45.489700880021,POLYGON
+478963167,ways_poly,,,,,The Ottawa Hospital,,,The Ottawa Hospital - Civic Campus,,,,,,,hospital,-75.7216356133597,45.3929858581689,POLYGON
+477906987,ways_poly,,,,,,,,Clinique Dentaire Promenades,,,,,,,dentist,-75.6992324498992,45.475215383285,POLYGON
+479511142,ways_poly,,,,,,,,Dr. Voros & Associates,,,,,,,dentist,-75.6696713373337,45.3859514583658,POLYGON
+68853793,ways_poly,,,,,,,,Jean Coutu,,Mo-Su 09:00-21:00,,,,,pharmacy,-75.7009050797261,45.4625465312665,POLYGON
+479739670,ways_poly,,,,,,,,Lima Kilrea Denture Clinic,,,,,,,dentist,-75.6616433403871,45.4370180793807,POLYGON
+578272905,ways_poly,,,,,,,,Promed Pharmacy,,,,,,,pharmacy,-75.6642962483895,45.3734297992304,POLYGON
+68577560,ways_poly,,,,,,,,Jean Coutu,,,,,,,pharmacy,-75.5238295139148,45.4721526043556,POLYGON
+244593679,ways_poly,,,,,,,,Shoppers Drug Mart,,08:00-22:00,,,,,pharmacy,-75.5164520381169,45.4751250040351,POLYGON
+671384733,ways_poly,,,,,,,,Jean Coutu,,Mo-Su 09:00-21:00,,,,,pharmacy,-75.6419085076036,45.4854750495556,POLYGON
+671384737,ways_poly,,,,,,,,Clinique Dentaire de Gatineau,,,,,,,dentist,-75.642737480734,45.4853515563957,POLYGON
+306792587,ways_poly,,,,,,,,Rexall,,,,,,,pharmacy,-75.933470677655,45.3567727532101,POLYGON
+308485674,ways_poly,,,,,,,,Jean Coutu,,,,,,,pharmacy,-75.5986482117635,45.4883371399535,POLYGON
+479191271,ways_poly,,,,,,,,South Nepean Family Chiropractic,,,,,,,clinic,-75.7540303278582,45.2698625229798,POLYGON
+68851276,ways_poly,,,,,Dre Pierre Rondeau,,,Clinique dentaire Prodent Outaouais,,Mo-Fr 09:00-17:00,,,,,dentist,-75.699123464209,45.4782802651088,POLYGON
+68851675,ways_poly,,,,,,,,,,,,,,,clinic,-75.7003661641867,45.4782240595047,POLYGON
+117384381,ways_poly,,,,,,,,Jean Coutu,,,,,,,pharmacy,-75.7452493339886,45.4626011864876,POLYGON
+192000680,ways_poly,,,,,,,,Pharmaprix,,,,,,,pharmacy,-75.739329265526,45.4740357990201,POLYGON
+116643596,ways_poly,,,,,,,,UnionMD,,,,,,,doctors,-75.7178127824427,45.4250204904154,POLYGON
+264546085,ways_poly,,,,,,,,Somerset West Community Health Centre,,,,,,,clinic,-75.7099168837087,45.409057086768,POLYGON
+537152652,ways_poly,,,,,,,,Centre Hospitalier Pierre-Janet,,,,,,,hospital,-75.7403238942035,45.4257546889826,POLYGON
+661301376,ways_poly,,,,,"Banville Jonathan, Haddad Steven et Lamarche Patrick",,,Proxim,,"Mo-Fr 08:30-19:00; Sa-Su 09:00-17:00",,,,,pharmacy,-75.7049245255528,45.4749919162504,POLYGON
+671001685,ways_poly,,,,,,,,Uniprix,,,,,,,pharmacy,-75.70060885,45.47820565,POLYGON
+460215292,ways_poly,,,,,,,,Ottawa River Psychology,,,,,,,clinic,-75.680911,45.412255,POLYGON
+460215302,ways_poly,,,,,,,,Pretoria Bridge Dental,,Mo-Fr 07:30-16:30,,,,,dentist,-75.6824457526952,45.4117004185742,POLYGON
+481375241,ways_poly,,,,,,,,Dr. Pham Dung,,,,,,,dentist,-75.6677664843169,45.4305884680552,POLYGON
+485224218,ways_poly,,,,,,,,Capital Dental Centre,,,,,,,dentist,-75.6708776261647,45.3507631400107,POLYGON
+481260274,ways_poly,,,,,,,,Lebreton Wellness,,,,,,,clinic,-75.7073663721983,45.406187756924,POLYGON
+39560779,ways_poly,,,,,,,,Jean Coutu,,,,,,,pharmacy,-75.7305980438429,45.4399240335405,POLYGON
+319341265,ways_poly,,,,,,,,New Edinburgh Dental,,,,,,,dentist,-75.6708603,45.4424305,POLYGON
+481354360,ways_poly,,,,,,,,Vanier Chiropractic Clinic,,,,,,,clinic,-75.6535044544973,45.4391712873392,POLYGON
+481899066,ways_poly,,,,,,,,Bells Corners Dental Centre,,,,,,,dentist,-75.83185685,45.3221083,POLYGON
+126463995,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.7795497756059,45.3282137656828,POLYGON
+239254004,ways_poly,,,,,,,,The Westend Family Care Clinic,,,,,,,doctors,-75.8691736068812,45.2870375167597,POLYGON
+470443717,ways_poly,,,,,,,,Shoppers Drug Mart,,08:00-00:00,,,,,pharmacy,-75.7511555020496,45.2682075530168,POLYGON
+510520378,ways_poly,,,,,,,,Citigate Dental,,"Mo-We 08:00-20:00; Th 12:00-18:00; Fr,Sa 09:00-16:00",,,,,dentist,-75.7826750889374,45.2697940104497,POLYGON
+483734913,ways_poly,,,,,,,,Bank Medical Centre,,,,,,,doctors,-75.6615036143206,45.3680151599306,POLYGON
+484351699,ways_poly,,,,,,,,Eastern Ottawa Community Family Health Team,,,,,,,clinic,-75.5469466286283,45.4620949854854,POLYGON
+1014117765,ways_poly,,,,,,,,Rexall,,,,,,,pharmacy,-75.7853804216569,45.3641547007698,POLYGON
+710675457,ways_poly,,,,,,,,Familiprix,,"Mo-Fr 09:00-21:00; Sa-Su 09:00-17:00",,,,,pharmacy,-75.6759968,45.50340425,POLYGON
+710675466,ways_poly,,,,,,,,Clinique dentaire du Versant,,"Mo 07:30-16:00; Tu-We 08:00-17:00; Th 08:00-13:00; Fr 08:00-16:00",,,,,dentist,-75.6752607637226,45.5047465227514,POLYGON
+640344337,ways_poly,,,,,,,,Ottawa Lifestyle Medicine,,,,,,,doctors,-75.923968,45.3473251,POLYGON
+754346683,ways_poly,,,,,,,,Toothpark Pediatric Dentistry,,,,,,,dentist,-75.4876515680639,45.4597597050231,POLYGON
+591866074,ways_poly,,,,,,,,Massage Addict,,,,,,,clinic,-75.48857045,45.45945405,POLYGON
+545573656,ways_poly,,,,,,,,Greenbank Hunt Club Dental,,"Mo,We,Th 08:00-16:00; Tu 08:00-19:00; Fr 08:00-13:00",,,,,dentist,-75.7807098795165,45.3244040974946,POLYGON
+545573750,ways_poly,,,,,,,,Cruzado Dentures,,,,,,,dentist,-75.7795302807043,45.3242851275803,POLYGON
+545573667,ways_poly,,,,,,,,Relax Massage Therapy,,,,,,,clinic,-75.7807961812894,45.3245874964529,POLYGON
+590820287,ways_poly,,,,,Queensway Carleton Hospital,,,Queensway Carleton Hospital,,,,,,,hospital,-75.8077477364412,45.335161657732,POLYGON
+484644585,ways_poly,,,,,,,,I.D.A.,,"Mo-Fr 09:00-18:00; Sa 10:00-15:00",,,,,pharmacy,-75.6383241517918,45.4303082060566,POLYGON
+483767355,ways_poly,,,,,,,,Vista Dental Clinic,,,,,,,dentist,-75.6608790931006,45.3792712315046,POLYGON
+483459644,ways_poly,,,,,,,,Serenity Dental,,,,,,,dentist,-75.6091707400464,45.4463401216895,POLYGON
+647958833,ways_poly,,,,,,,,Trainyards Medical Centre,,,,,,,clinic,-75.6455770920239,45.4147106145545,POLYGON
+457623274,ways_poly,,,,,,,,Pro Physio Sport Medicine,,,,,,,clinic,-75.7674914194976,45.3731255607995,POLYGON
+457623249,ways_poly,,,,,,,,Rexall,,,,,,,pharmacy,-75.7699437091025,45.3731482767198,POLYGON
+322146977,ways_poly,,,,,,,,Vranjes Denture Clinic,,,,,,,dentist,-75.771597896878,45.3711214160451,POLYGON
+389993991,ways_poly,,,,,,,,Westboro Dental Centre,,,,,,,dentist,-75.7565529739245,45.3896503614942,POLYGON
+481693147,ways_poly,,,,,,,,Rexall,,"Mo-Sa 08:00-22:00; Su 09:00-22:00",,,,,pharmacy,-75.7584804706038,45.3510262662157,POLYGON
+842221295,ways_poly,,,,,,,,College Square Dental,,,,,,,dentist,-75.761769170576,45.3503816342534,POLYGON
+167141603,ways_poly,,,,,,,,Jean Coutu,,,,,,,pharmacy,-75.780273750045,45.4345771201479,POLYGON
+607739748,ways_poly,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.639987615292,45.4278946982178,POLYGON
+660813448,ways_poly,,,,,,,,Dental Haven,,,,,,,dentist,-75.743998145416,45.269208130997,POLYGON
+634491968,ways_poly,,,,,,,,Forest Valley Pharmacy,,,,,,,pharmacy,-75.5359557095798,45.4488734733939,POLYGON
+584815451,ways_poly,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.5421248285122,45.4650579036572,POLYGON
+484290660,ways_poly,,,,,,,,Chapel Hill Dental,,,,,,,dentist,-75.5274585921768,45.4462526822233,POLYGON
+578599194,ways_poly,,,,,,,,Nova Denture and Implant Centre,,,,,,,dentist,-75.6184629322194,45.4319293034611,POLYGON
+604731794,ways_poly,,,,,,,,Lancaster Medical Centre,,,,,,,doctors,-75.6197195564556,45.4016149019482,POLYGON
+616359849,ways_poly,,,,,,,,Remedy'sRx,,,,,,,pharmacy,-75.6569089019036,45.0178943672363,POLYGON
+68710118,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.6571704815806,45.4087508922087,POLYGON
+319402010,ways_poly,,,,,,,,Riverview Dentist,,,,,,,dentist,-75.65830925,45.4089112,POLYGON
+479048073,ways_poly,,,,,,,,Donald Medical Clinic,,,,,,,doctors,-75.6534838325251,45.4277034807329,POLYGON
+587769300,ways_poly,,,,,,,,Blackburn Shoppes Dental Centre,,,,,,,dentist,-75.5626609914404,45.4318292224755,POLYGON
+313657342,ways_poly,,,,,The Perley and Rideau Veteran's Health Centre,,,The Perley and Rideau Veteran's Health Centre,,,,,,,hospital,-75.6362354087406,45.4039776705827,POLYGON
+233903205,ways_poly,,,,,,,,Britannia Dental Centre,,,,,,,dentist,-75.801929,45.3560206,POLYGON
+437092775,ways_poly,,,,,,,,Trillium Dental,,,,,,,dentist,-75.8069242089941,45.3474883180286,POLYGON
+223407055,ways_poly,,,,,,,,Barrhaven Medical Centre,,,,,,,doctors,-75.7288570223877,45.2920672322964,POLYGON
+690762763,ways_poly,,,,,,,,Kanata Highlands Dental Care,,,,,,,dentist,-75.9308801663212,45.3446107510425,POLYGON
+478740490,ways_poly,,,,,,,,Guardian,,"Mo-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-16:00; Su 10:00-14:00",,,,,pharmacy,-75.7167446785842,45.2757338328068,POLYGON
+604059109,ways_poly,,,,,,,,Southbank Medical Centre,,,,,,,clinic,-75.6493701,45.3534122,POLYGON
+659154457,ways_poly,,,,,,,,Rexall,,Mo-Su 09:00-22:00,,,,,pharmacy,-75.9068568555527,45.3365726436713,POLYGON
+474627015,ways_poly,,,,,,,,Lima Denture and Implant Solutions,,,,,,,dentist,-75.7712275,45.3816335,POLYGON
+693945796,ways_poly,,,,,,,,Orthodontie Outaouais,,,,,,,dentist,-75.8315941453335,45.3949332453363,POLYGON
+463779777,ways_poly,,,,,,,,Clinique Podiatrique,,,,,,,clinic,-75.8502534213402,45.3983665904083,POLYGON
+257158778,ways_poly,,,,,,,,Carling Dental Care,,,,,,,dentist,-75.75067895,45.37856295,POLYGON
+473653860,ways_poly,,,,,,,,"Clinique Dentaire, Dr. Guy LaFrance",,,,,,,dentist,-75.8458941800898,45.3946973449597,POLYGON
+457623239,ways_poly,,,,,,,,Carlingwood Dental Centre,,,,,,,dentist,-75.770220058935,45.3728808190792,POLYGON
+484619028,ways_poly,,,,,,,,Shoppers Drug Mart,,Mo-Su 08:00-22:00,,,,,pharmacy,-75.6046563537215,45.436586603468,POLYGON
+583792601,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.6303600260939,45.4456976923834,POLYGON
+293507761,ways_poly,,,,,,,,Carson Medical Clinic,,,,,,,doctors,-75.630091409435,45.4457819824354,POLYGON
+306190255,ways_poly,,,,,,,,General Dentist Solutions,,,,,,,dentist,-75.6452636386245,45.4419950962218,POLYGON
+305802674,ways_poly,,,,,,,,Rexall,,,,,,,pharmacy,-75.6365326454797,45.4449348930184,POLYGON
+657084214,ways_poly,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.7865518856296,45.3477434840573,POLYGON
+484828734,ways_poly,,,,,,,,Dr.Caroline Brisson Dental,,,,,,,dentist,-75.5111625802334,45.4519444583112,POLYGON
+579318766,ways_poly,,,,,,,,Ottawa West Dental & Physiotherapy,,,,,,,clinic,-75.7788929924147,45.3672389806909,POLYGON
+656819184,ways_poly,,,,,,,,Dr. Andrea J. McKay,,,,,,,dentist,-75.7744000610066,45.3681754830575,POLYGON
+416980104,ways_poly,,,,,,,,Jean Coutu,,Mo-Su 09:00-21:00,,,,,pharmacy,-75.8067054865094,45.4174500352047,POLYGON
+654078823,ways_poly,,,,,,,,Family Physio,,,,,,,clinic,-75.5115014306851,45.4537933260279,POLYGON
+477849080,ways_poly,,,,,,,,Centre de Medicine de Wakefield,,,,,,,doctors,-75.9304174133599,45.6378833600244,POLYGON
+477487990,ways_poly,,,,,,,,Brunet,,,,,,,pharmacy,-75.9286389820952,45.646917280544,POLYGON
+653448973,ways_poly,,,,,,,,Hôpital Mémorial de Wakefield,,,,,,,hospital,-75.9324635141521,45.6489349474568,POLYGON
+330063477,ways_poly,,,,,,,,Jean Coutu,,,,,,,pharmacy,-75.7456379287,45.4873500562247,POLYGON
+463458616,ways_poly,,,,,,,,Prestige Dental,,,,,,,dentist,-75.8496601334723,45.3943689940463,POLYGON
+475306466,ways_poly,,,,,,,,Silver Dental Centre,,,,,,,dentist,-75.7770255,45.3678385,POLYGON
+567230326,ways_poly,,,,,,,,Shoppers Drug Mart,,Mo-Su 09:00-22:00,,,,,pharmacy,-75.9187875499466,45.3113737984571,POLYGON
+355151993,ways_poly,,,,,,,,Hôpital de Hull,,,,,,,hospital,-75.7459834489919,45.4448058096755,POLYGON
+573312285,ways_poly,,,,,,,,Elysian Wellness Centre,,,,,,,clinic,-75.711101722254,45.3384204239949,POLYGON
+1002490112,ways_poly,,,,,,,,Novel Health,,,,,,,doctors,-75.6735708213485,45.2876165479757,POLYGON
+768964055,ways_poly,,,,,,,,7Dental,,,,,,,dentist,-75.8645007619036,45.2808495688843,POLYGON
+485229717,ways_poly,,,,,,,,Villanova,,,,,,,dentist,-75.9064951810646,45.2871335727724,POLYGON
+566237520,ways_poly,,,,,,,,Fairwinds Dental,,,,,,,dentist,-75.9112571815687,45.2845765073138,POLYGON
+545573666,ways_poly,,,,,,,,I.D.A.,,"Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-17:00",,,,,pharmacy,-75.780743906477,45.3247439362242,POLYGON
+671932738,ways_poly,,,,,Rexall,,,I.D.A.,,,,,,,pharmacy,-75.8209308263315,45.3277472982565,POLYGON
+671933057,ways_poly,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.8270378734269,45.3235309933805,POLYGON
+647434539,ways_poly,,,,,,,,Seaway Valley Pharmacy,,"Mo-Fr 09:00-18:00; Sa 09:00-15:00",,,,,pharmacy,-75.7776580811181,45.2756909451938,POLYGON
+671165718,ways_poly,,,,,,,,Millenium Park Dental Clinic,,,,,,,dentist,-75.4550493922878,45.4684295232627,POLYGON
+323715053,ways_poly,,,,,Hôpital Montfort,,,Hôpital Montfort,,,,,,,hospital,-75.6392261616533,45.4460260980959,POLYGON
+471616599,ways_poly,,,,,,,,Dr. Jack Newton,,,,,,,dentist,-75.924608,45.261245,POLYGON
+478956206,ways_poly,,,,,,,,Barrhaven Dental Studio,,,,,,,dentist,-75.728927932798,45.292211339256,POLYGON
+475085157,ways_poly,,,,,,,,Broadview Spine & Health Centre,,,,,,,clinic,-75.7546807330051,45.3779786694414,POLYGON
+653004805,ways_poly,,,,,Leblanc,,,Centre de Santé Dentaire Mont-Tremblant,,,private,,,,clinic,-74.5796121789903,46.118643036738,POLYGON
+668488629,ways_poly,,,,,,,,Beacon Hill Dental Centre,,,,,,,dentist,-75.5867633613159,45.4496930851538,POLYGON
+668488630,ways_poly,,,,,,,,Michael Pharmacy,,,,,,,pharmacy,-75.5867813671736,45.4497974946246,POLYGON
+642786747,ways_poly,,,,,Brockville General Hospital,,,Brockville General Hospital,,,,,,,hospital,-75.6814072298975,44.5977568878043,POLYGON
+484009451,ways_poly,,,,,,,,Docbraces,,,,,,,dentist,-75.5899474213785,45.4484234703492,POLYGON
+653438005,ways_poly,,,,,The Ottawa Hospital,,,The Ottawa Hospital - General Campus,,,,,,,hospital,-75.6472958025228,45.4019781025381,POLYGON
+593903174,ways_poly,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.5957540680805,45.4459731344965,POLYGON
+621838614,ways_poly,,,,,,,,Train Yards Dental Centre,,,,,,,dentist,-75.646242898787,45.4119599833021,POLYGON
+477536436,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.6392353681352,45.4229500988557,POLYGON
+485194415,ways_poly,,,,,,,,Optimal Health,,,,,,,doctors,-75.6246005717617,45.3986675690834,POLYGON
+485194400,ways_poly,,,,,,,,Rexall,,Mo-Su 08:00-22:00,,,,,pharmacy,-75.6249353809407,45.3995661195015,POLYGON
+484551249,ways_poly,,,,,,,,Dr Altshuller Orthodontist,,,,,,,dentist,-75.5209427122721,45.4727887968368,POLYGON
+614916106,ways_poly,,,,,,,,Affinity Dental,,,,,,,dentist,-75.5062804970122,45.4558897566322,POLYGON
+614916098,ways_poly,,,,,,,,Inspiration Medic,,,,,,,clinic,-75.5059491199439,45.4560225259022,POLYGON
+470293861,ways_poly,,,,,,,,Réflexe Santé,,,,,,,clinic,-75.4454321222037,45.4904473908374,POLYGON
+591034761,ways_poly,,,,,,,,CU Smile Dental,,,,,,,dentist,-75.8879641372684,45.2971566581123,POLYGON
+558418654,ways_poly,,,,,,,,ActiveCare Medical Clinic,,Mo-Fr 08:00-16:00,,,,,doctors,-75.932532866892,45.3535342607326,POLYGON
+239366064,ways_poly,,,,,,,,Anata Dental Clinic,,,,,,,dentist,-75.9332820184858,45.3540863385404,POLYGON
+593971608,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.6981748671189,45.2693905996216,POLYGON
+614485960,ways_poly,,,,,,,,Silver 7 Dental,,,,,,,dentist,-75.9133549689151,45.3014427041803,POLYGON
+576918524,ways_poly,,,,,,,,Kanata Dental Centre,,,,,,,dentist,-75.8683665618818,45.2861938067264,POLYGON
+321396258,ways_poly,,,,,Almonte General Hospital,,,Almonte General Hospital,,,,,,,hospital,-76.1879352928303,45.2295146958835,POLYGON
+255067742,ways_poly,,,,,Winchester District Memorial Hospital,,,Winchester District Memorial Hospital,,,,,,,hospital,-75.3543116576107,45.0881854437055,POLYGON
+616342843,ways_poly,,,,,,,,Saltastic,,,,,,,clinic,-75.6524427136454,45.0228530909876,POLYGON
+262403196,ways_poly,,,,,,,,Jean Coutu,,,,,,,pharmacy,-75.0827616100456,45.305713505375,POLYGON
+91011312,ways_poly,,,,,,,,Pharmaprix,,"Mo-Sa 08:00-22:00; Su 09:00-21:00",,,,,pharmacy,-75.8361810475422,45.3947137916737,POLYGON
+682707485,ways_poly,,,,,,,,Kinney Drugs,,,,,,,pharmacy,-74.8910613216265,44.9223473318184,POLYGON
+474371473,ways_poly,,,,,,,,Manor Park Dental,,"Mo-Tu 8:00-16:00; We-Th 8:00-16:30",,,,,dentist,-75.6521405171925,45.4510492997627,POLYGON
+485239235,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.6574935498052,45.3588401948156,POLYGON
+630053625,ways_poly,,,,,,,,Diamond Dental,,,,,,,dentist,-75.5653487041196,45.4316463873562,POLYGON
+587332712,ways_poly,,,,,,,,Gloucester Family Dentistry,,"Mo 10:00-18:00; Tu-Th 08:00-16:00",,,,,dentist,-75.5958329469795,45.4180705053114,POLYGON
+562762397,ways_poly,,,,,,,,Shoppers Drug Mart,,Mo-Su 08:00-22:00,,,,,pharmacy,-75.6688867276554,45.3792700058361,POLYGON
+700000729,ways_poly,,,,,,,,Clyde Medical Centre & Walking Clinic,,,,,,,doctors,-75.7407059422786,45.3619875721086,POLYGON
+503254110,ways_poly,,,,,,,,Shoppers Drug Mart,,Mo-Su 09:00-22:00,,,,,pharmacy,-74.6108769666921,45.5976641533324,POLYGON
+288954004,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.7683608688121,45.3695973755108,POLYGON
+584505156,ways_poly,,,,,,,,Jean Coutu,,,,,,,pharmacy,-75.8353933462217,45.3967386053445,POLYGON
+693945787,ways_poly,,,,,,,,Aylmer Dentaire,,,,,,,dentist,-75.8323933351261,45.3948748925643,POLYGON
+412293229,ways_poly,,,,,,,,Centre Dentaire Ricard & Tran,,,,,,,dentist,-75.7330861742916,45.4415988554738,POLYGON
+548034198,ways_poly,,,,,,,,Maitland Massage Therapy,,,,,,,clinic,-75.7564565171893,45.3731584550685,POLYGON
+700000727,ways_poly,,,,,,,,Pharmasave,,"Mo-Fr 09:00-19:00; Sa 09:00-17:00",,,,,pharmacy,-75.7407507530911,45.362062448661,POLYGON
+68851661,ways_poly,,,,,,,,Centre de Dons Héma-Québec,,"Mo-Th 07:00-21:45; Fr 07:00-20:30; Sa 08:00-15:15",,,,,clinic,-75.6917827946221,45.4795663115548,POLYGON
+427845538,ways_poly,,,,,,,,Clinique de Sante Dentaire St-Joseph,,,,,,,dentist,-75.7336024576988,45.4312179933141,POLYGON
+231265164,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-76.1855819985284,45.2348612819347,POLYGON
+471616705,ways_poly,,,,,,,,Stittsville Optometry,,,,,,,clinic,-75.9227468597862,45.2599371184587,POLYGON
+693643424,ways_poly,,,,,,,,Rite Aid,,,,,,,pharmacy,-75.48611100733,44.6904801786958,POLYGON
+616370282,ways_poly,,,,,,,,Kemptville Health and Wellness Centre,,,,,,,doctors,-75.662456218577,45.015425956363,POLYGON
+649792319,ways_poly,,,,,,,,Rexall,,,,,,,pharmacy,-75.6877198459274,44.5926835439957,POLYGON
+605371376,ways_poly,,,,,,,,Associated Dental Care,,"Mo-Fr 07:30-21:00; Sa 09:00-17:30",,,,,dentist,-75.6759185841889,45.3862911883293,POLYGON
+573225442,ways_poly,,,,,,,,Merivale Dental Clinic,,,,,,,dentist,-75.7321704109908,45.3455386736597,POLYGON
+664536853,ways_poly,,,,,,,,Bridlewood Dental,,,,,,,dentist,-75.85765125,45.292266,POLYGON
+659143698,ways_poly,,,,,,,,Village Green Dental Care,,,,,,,dentist,-75.889480202197,45.3210121334657,POLYGON
+591675173,ways_poly,,,,,,,,Dr. Freeman Bill,,,,,,,dentist,-75.8811802193281,45.3011641838629,POLYGON
+592866898,ways_poly,,,,,,,,Hazeldean Family Dental Centre,,,,,,,dentist,-75.8877629768229,45.2999860636655,POLYGON
+655271000,ways_poly,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.5471095366643,44.8459605600606,POLYGON
+421154322,ways_poly,,,,,,,,Hawkesbury & District General Hospital,,,,,,,hospital,-74.6072056121568,45.5995488184704,POLYGON
+264797714,ways_poly,,,,,,,,Rexall,,,,,,,pharmacy,-76.3668414661968,45.4239992070455,POLYGON
+640355004,ways_poly,,,,,,,,Brookside Dental Centre,,,,,,,dentist,-75.9350173,45.35856115,POLYGON
+640901927,ways_poly,,,,,,,,Hope Dental Care Centre,,,,,,,dentist,-75.9255494656569,45.2616363963127,POLYGON
+471837540,ways_poly,,,,,,,,Marchwood Dental,,,,,,,dentist,-75.9373373416563,45.3583235349932,POLYGON
+1005627792,ways_poly,,,,,,,,Carleton Place Family Dentistry,,,,,,,dentist,-76.1289633528997,45.1399676066573,POLYGON
+1005627793,ways_poly,,,,,,,,PharmaChoice,,,,,,,pharmacy,-76.1288939123276,45.1400070875787,POLYGON
+92167618,ways_poly,,,,,,,,,,,,,,,doctors,-74.7172125110111,45.0284365568209,POLYGON
+700000731,ways_poly,,,,,,,,Clyde Prosthodontics,,,,,,,dentist,-75.7405778714511,45.3617958978992,POLYGON
+700000733,ways_poly,,,,,,,,Allen Orthodontics,,,,,,,dentist,-75.7405216435058,45.3617194048028,POLYGON
+427998713,ways_poly,,,,,,,,Centre Dentaire Nadia Bergham,,,,,,,dentist,-75.7335469962213,45.4310623875871,POLYGON
+471811677,ways_poly,,,,,,,,Moore Chiropractic,,,,,,,clinic,-75.9209119311658,45.2769438991105,POLYGON
+567226641,ways_poly,,,,,,,,Centrum Dental,,,,,,,dentist,-75.9159709905088,45.3114093147856,POLYGON
+605393487,ways_poly,,,,,,,,Rexall,,,,,,,pharmacy,-75.8777282519209,45.3018033895366,POLYGON
+685886141,ways_poly,,,,,,,,Hazeldean Dental,,,,,,,dentist,-75.8783523102651,45.3016207027852,POLYGON
+68609110,ways_poly,,,,,,,,CLSC LeGuerrier,,Mo-Fr 08:30-16:30,,,,,clinic,-75.8360142374195,45.3994709066118,POLYGON
+571175213,ways_poly,,,,,,,,Country Roads Community Health Centre,,,,,,,clinic,-76.406892902269,44.6795589754186,POLYGON
+567230327,ways_poly,,,,,,,,Argyle Associates,,,,,,,dentist,-75.9194328144809,45.3111636189815,POLYGON
+124652746,ways_poly,,,,,,,,Akwesane Department of Health,,,,,,,doctors,-74.6545796781216,44.9997658706098,POLYGON
+195441393,ways_poly,,,,,,,,Spur Line Dental,,,,,,,dentist,-76.1366005249901,45.1358316027326,POLYGON
+578268887,ways_poly,,,,,,,,Trillium Dental,,,,,,,dentist,-75.6620567475272,45.3730941880745,POLYGON
+477679837,ways_poly,,,,,,,,St. Laurent Dental Centre,,"Mo 08:00-16:00; Tu-We 08:00-17:00; Th 08:00-20:00; Fr 08:00-16:00",,,,,dentist,-75.6385238087858,45.4209510889404,POLYGON
+628136989,ways_poly,,,,,,,,Arnprior Chiropractic Health Centre,,,,,,,clinic,-76.36329565,45.4259694,POLYGON
+228972712,ways_poly,,,,,,,,Uniprix Clinique Pavlina Zhivkov,,,,,,,pharmacy,-76.7263306324985,45.8498160472523,POLYGON
+287068604,ways_poly,,,,,,,,Clinique médicale Le Lotus,,,,,,,doctors,-76.4874220993323,45.6083492210014,POLYGON
+693930835,ways_poly,,,,,,,,Familiprix,,"Mo-Fr 09:00-20:00; Sa-Su 09:00-17:00",,,,,pharmacy,-75.8226371647825,45.3969272153845,POLYGON
+326305282,ways_poly,,,,,,,,CLSC de Quyon,,,,,,,clinic,-76.2305903,45.5202745,POLYGON
+233810789,ways_poly,,,,,,,,Rexall,,,,,,,pharmacy,-75.8357884847423,45.3207194851491,POLYGON
+471171458,ways_poly,,,,,,,,Stittsville Main Street Dental,,,,,,,dentist,-75.918753042395,45.2570086275263,POLYGON
+271325626,ways_poly,,,,,,,,Brunet,,,,,,,pharmacy,-75.84009931152,45.4109470233318,POLYGON
+163132440,ways_poly,,,,,,,,Centre de santé et de services sociaux de Gatineau,,"Mo-Fr 08:00-21:00; Sa-Su 08:30-16:30",,,,,clinic,-75.6857505520557,45.4832973662936,POLYGON
+229121748,ways_poly,,,,,Loblaw Companies Limited,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.6520026051625,45.0231361735083,POLYGON
+1001879393,ways_poly,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.6622159371419,45.0157176583436,POLYGON
+584712586,ways_poly,,,,,,,,Clinique Dentaire Dr.Mansouri,,,,,,,dentist,-75.8367883247039,45.3986813987236,POLYGON
+257107203,ways_poly,,,,,Carleton Place & District Memorial Hospital,,,Carleton Place & District Memorial Hospital,,,,,,,hospital,-76.1367493134737,45.1413072737784,POLYGON
+605276183,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.3067365617511,45.2682804466958,POLYGON
+443307251,ways_poly,,,,,St. Lawrence Health System,,,Canton-Potsdam Hospital,,,private_non_profit,,,,hospital,-74.9827796608666,44.677110451065,POLYGON
+581659413,ways_poly,,,,,Appletree Medical Group,,,Appletree,,,,,,,clinic,-75.8370965163553,45.3197479648159,POLYGON
+813751122,ways_poly,,,,,Planned Parenthood,,,Planned Parenthood,,,ngo,,,,clinic,-75.1710625,44.594883,POLYGON
+471792919,ways_poly,,,,,,,,Kanata Plastic & Cosmetic Surgery,,,,,,,doctors,-75.9376708656532,45.3587324030589,POLYGON
+314352098,ways_poly,,,,,,,,Proxim,,,,,,,pharmacy,-75.6411134712776,45.4841656210803,POLYGON
+237125270,ways_poly,,,,,Bruyère Continuing Care,,,Saint-Vincent Hospital,,,,,,,hospital,-75.7088687015091,45.4132343786963,POLYGON
+1442801839,ways_poly,,,,,,,,,,,,,,,pharmacy,-75.624739767488,46.0897312650949,POLYGON
+639850954,ways_poly,,,,,,,,Dr. Janice King,,,,,,,dentist,-76.68805975,45.47427075,POLYGON
+228987064,ways_poly,,,,,,,,CLSC Fort-Coulonge,,,,,,,hospital,-76.7297404298197,45.8476610583781,POLYGON
+651855637,ways_poly,,,,,,,,Remedy'sRx,,,,,,,pharmacy,-76.3652524840018,45.0178817487156,POLYGON
+657090165,ways_poly,,,,,,,,Kirk Orthodontics,,,,,,,dentist,-76.1288019592234,45.1400486112175,POLYGON
+257120881,ways_poly,,,,,,,,Carleton Place Chiropractic,,,,,,,clinic,-76.1451233482953,45.1382915632115,POLYGON
+176794517,ways_poly,,,,,,,,Centennial Medical Center,,,,,,,doctors,-76.1334984136516,45.1427060842689,POLYGON
+707861478,ways_poly,,,,,,,,Dentistry @ Carleton Place,,,,,,,dentist,-76.1232723116544,45.1347212798846,POLYGON
+167908121,ways_poly,,,,,,,,Smilez Dentistry,,,,,,,dentist,-76.118307955276,45.1323124108094,POLYGON
+619516716,ways_poly,,,,,,,,Back on Track Physio,,,,,,,clinic,-76.1189141643986,45.1317227538816,POLYGON
+256238014,ways_poly,,,,,,,,North Lanark Community Health Centre,,,,,,,clinic,-76.3788102719763,45.0231374174634,POLYGON
+738303209,ways_poly,,,,,,,,Remedy'sRx,,,,,,,pharmacy,-76.2907516,45.3326693,POLYGON
+768807771,ways_poly,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.1605874901217,45.4348251309211,POLYGON
+497963139,ways_poly,,,,,,,,Remedy'sRx,,,,,,,pharmacy,-75.4844487064085,45.4511585722123,POLYGON
+576883852,ways_poly,,,,,,,,7Dental,,,,,,,dentist,-75.484513853726,45.4513508936681,POLYGON
+620501506,ways_poly,,,,,,,,Dentistry @ Montreal Square,,,,,,,dentist,-75.6440311042044,45.4409916608418,POLYGON
+561374119,ways_poly,,,,,,,,Merrickville Drug Mart,,,,,,,pharmacy,-75.83560425,44.9153414,POLYGON
+395595069,ways_poly,,,,,,,,Argyle Associates,,,,,,,dentist,-75.4860382675143,45.4886632836886,POLYGON
+655137247,ways_poly,,,,,,,,Denture Clinic,,,,,,,dentist,-75.44049195,44.76187885,POLYGON
+477524118,ways_poly,,,,,,,,Dr J. S. Nagra & Associates,,,,,,,doctors,-75.6385929081996,45.4211327737486,POLYGON
+673129220,ways_poly,,,,,,,,NutriChem,,,,,,,pharmacy,-75.6358675001192,45.4230125119141,POLYGON
+198703351,ways_poly,,,,,,,,Rexall,,"Mo-Sa 09:00-18:00; Su 09:00-18:00",,,,,pharmacy,-75.6459532467568,45.3778907767121,POLYGON
+1276634427,ways_poly,,,,,,,,,,,,,,,clinic,-74.592310974372,46.1221508739061,POLYGON
+618622094,ways_poly,,,,,,,,Crystal Beach Dental,,,,,,,dentist,-75.8407073209275,45.3519686450575,POLYGON
+550514260,ways_poly,,,,,Kemptville District Hospital,,,Kemptville District Hospital,,,,,,,hospital,-75.6424508635619,45.0098162940364,POLYGON
+233113642,ways_poly,,,,,,,,Saint Lawrence Psychiatric Center,,,,,,,hospital,-75.4430506773652,44.7275159478506,POLYGON
+1040235344,ways_poly,,,,,,,,Community Health Center of the North Country,,,,,,,clinic,-75.4947443532131,44.6971539927277,POLYGON
+1040235346,ways_poly,,,,,,,,,,,,,,,dentist,-75.493700761509,44.6978028670642,POLYGON
+69592273,ways_poly,,,,,,,,Creekside Dental Centre,,,,,,,dentist,-75.6522913,45.02114845,POLYGON
+636532001,ways_poly,,,,,,,,Shoppers Drug Mart,,Mo-Su 09:00-21:00,,,,,pharmacy,-75.5148752242423,44.7087983617862,POLYGON
+570820752,ways_poly,,,,,,,,Cumberland Medical Clinic,,,,,,,doctors,-75.4737369906523,45.4817285074709,POLYGON
+570820753,ways_poly,,,,,,,,Crown Dental,,,,,,,dentist,-75.4736819620158,45.4817749445061,POLYGON
+167197601,ways_poly,,,,,,,,CLSC de Shawville,,,,,,,clinic,-76.4864972791975,45.605884849166,POLYGON
+754355296,ways_poly,,,,,,,,Community Addiction and Mental Health Services,,,,,,,clinic,-74.7199189077893,45.0312156931024,POLYGON
+54582652,ways_poly,,,,,,,,"James P. Ferriter, DDS",,,,,,,dentist,-74.9812925257727,44.6669067068467,POLYGON
+155285169,ways_poly,,,,,,,,Westboro Plastic Surgery & Medical Spa,,,,,,,clinic,-75.7401423882924,45.3977868174643,POLYGON
+479399933,ways_poly,,,,,,,,Barrhaven Crossing Dental Centre,,"Mo 09:00-17:00; Tu 08:00-16:00; We 13:00-20:00; Th 08:00-20:00; Fr 09:00-16:00",,,,,dentist,-75.7414893193817,45.2937740542728,POLYGON
+292975937,ways_poly,,,,,,,,Alta Vista Chiropractic & Massage Client,,,,,,,clinic,-75.6662669806136,45.3754100074122,POLYGON
+601845348,ways_poly,,,,,,,,Cornwall Dentistry,,,,,,,dentist,-74.7533723887518,45.0273992749396,POLYGON
+450841758,ways_poly,,,,,,,,Navan Medical Clinic,,,,,,,doctors,-75.4266103593914,45.4212742695968,POLYGON
+768807774,ways_poly,,,,,,,,Centre De Sante Communautaire De L'Estrie,,,,,,,doctors,-75.1655425,45.4334207,POLYGON
+92210423,ways_poly,,,,,,,,Pharmasave,,,,,,,pharmacy,-74.8944698182241,45.0292237294854,POLYGON
+321501765,ways_poly,,,,,,,,Dr. Ella Ross,,,,,,,doctors,-75.6705694549777,45.442743404271,POLYGON
+591915532,ways_poly,,,,,,,,ActiveCARE Physio,,,,,,,clinic,-75.6442857929062,45.4428753939841,POLYGON
+377373473,ways_poly,,,,,,,,Community Primary Health Care,,,,,,,clinic,-75.6930090574246,44.6072229933609,POLYGON
+668386465,ways_poly,,,,,,,,Pharmasave,,,,,,,pharmacy,-76.0380773650881,45.3447391826423,POLYGON
+242719593,ways_poly,,,,,,,,Carp Family Dentistry,,,,,,,dentist,-76.037423576408,45.345556466718,POLYGON
+519816587,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-76.0219192269888,44.9015621325255,POLYGON
+605095935,ways_poly,,,,,,,,Rideau Orthodontic Mfg. Ltd,,,,,,,dentist,-76.0210752994157,44.9016611583926,POLYGON
+603728263,ways_poly,,,,,,,,Maple Dental,,,,,,,dentist,-76.022614723295,44.8996859962114,POLYGON
+266743827,ways_poly,,,,,,,,CLSC de Bryson,,,,,,,clinic,-76.6197681715664,45.6679122354199,POLYGON
+781642507,ways_poly,,,,,,,,Smiles On Seventh,,"Mo,We,Fr 08:00-17:00; Tu,Th 08:00-19:00",,,,,dentist,-74.7499016830639,45.0193847003979,POLYGON
+591685234,ways_poly,,,,,,,,Liu Dental,,,,,,,dentist,-75.8709686374113,45.2904967023287,POLYGON
+403998557,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-74.7540872327231,45.0284057232715,POLYGON
+471810609,ways_poly,,,,,,,,Chiroactive,,,,,,,clinic,-75.9201317619469,45.277488181046,POLYGON
+471203978,ways_poly,,,,,,,,Trinity Chiropractic & Stittsville Massage Therapy,,,,,,,doctors,-75.9432933952402,45.2710875516471,POLYGON
+422903532,ways_poly,,,,,,,,Greenbank Chiropractic Centre,,,,,,,clinic,-75.7569063635563,45.2871561988793,POLYGON
+671933058,ways_poly,,,,,,,,Bells Corners Medical Group,,,,,,,doctors,-75.8270101224235,45.3234517569141,POLYGON
+481677916,ways_poly,,,,,,,,Main Chiropractic Clinic,,,,,,,clinic,-75.6781970143082,45.4088588977114,POLYGON
+162115447,ways_poly,,,,,,,,Pavillon Marcel-d'Amour,,,,,,,clinic,-75.7408542792019,45.4249258742152,POLYGON
+616359843,ways_poly,,,,,,,,Dentistry @ Kemptville,,,,,,,dentist,-75.6577647167628,45.0180438997708,POLYGON
+570815668,ways_poly,,,,,,,,7Dental,,,,,,,dentist,-75.47715075,45.4894711,POLYGON
+485140486,ways_poly,,,,,,,,Dr. Paskal Valentine,,,,,,,dentist,-75.4900498452425,45.4684099593733,POLYGON
+664937976,ways_poly,,,,,,,,Charlemagne Dental Centre,,,,,,,dentist,-75.4985668902575,45.4773748388012,POLYGON
+671164981,ways_poly,,,,,,,,Montfort Health,,,,,,,clinic,-75.4669614719264,45.4663557435061,POLYGON
+528170405,ways_poly,,,,,,,,Rexall,,,,,,,pharmacy,-75.517120751472,45.4782549373524,POLYGON
+289310019,ways_poly,,,,,,,,Rexall,,,,,,,pharmacy,-76.6812337043124,45.4699837929704,POLYGON
+292980908,ways_poly,,,,,Renfrew Victoria Hospital,,,Renfrew Victoria Hospital,,,,,,,hospital,-76.6973644419153,45.4821059015545,POLYGON
+581659410,ways_poly,,,,,,,,Family Dentist Bells Corners,,,,,,,dentist,-75.8369054482523,45.3194725824527,POLYGON
+153886834,ways_poly,,,,,,,,Shoppers Drug Mart,,24/7,,,,,pharmacy,-75.4658659175647,45.4680576264209,POLYGON
+671165715,ways_poly,,,,,,,,St. Mary Pharmacy,,,,,,,pharmacy,-75.4546831584796,45.4685223075009,POLYGON
+653447600,ways_poly,,,,,Perth and Smiths Falls District Hospital,,,Perth and Smiths Falls District Hospital - Smiths Falls Site,,,,,,,hospital,-76.0270746153745,44.9072081128162,POLYGON
+853278185,ways_poly,,,,,,,,Carrefour santé Aline-Chrétien Health Hub,,,,,,,clinic,-75.4975155998034,45.446671222465,POLYGON
+254686675,ways_poly,,,,,Perth and Smiths Falls District Hospital,,,Great War Memorial Hospital,,,,,,,hospital,-76.252887144588,44.9062674109027,POLYGON
+603728273,ways_poly,,,,,,,,Rexall,,,,,,,pharmacy,-76.0214625065131,44.8998987612245,POLYGON
+570300177,ways_poly,,,,,,,,Dentistry on Centrepointe,,Mo-Fr 08:00-17:00,,,,,dentist,-75.7717001658127,45.3391641776309,POLYGON
+570300169,ways_poly,,,,,,,,Nirvana Physiotherapy,,08:00-19:00,,,,,clinic,-75.7716954201207,45.3388085914283,POLYGON
+712550339,ways_poly,,,,,,,,River Road Dental Centre,,,,,,,dentist,-75.6978322715836,45.2710047153187,POLYGON
+472686305,ways_poly,,,,,,,,Kanata Orthodontics,,,,,,,dentist,-75.8979913852817,45.2966586170464,POLYGON
+591869360,ways_poly,,,,,,,,Morningstar Dental,,,,,,,dentist,-75.4874871,45.4574312,POLYGON
+591866064,ways_poly,,,,,,,,New Freedom Chiropractor,,,,,,,clinic,-75.4885819933479,45.4596301879507,POLYGON
+654080793,ways_poly,,,,,,,,10th line Dental,,,,,,,dentist,-75.486988455406,45.4603107731425,POLYGON
+631327663,ways_poly,,,,,,,,Mer Bleue Dental Centre,,,,,,,dentist,-75.4927594168482,45.4582652685927,POLYGON
+591866038,ways_poly,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.4880006072238,45.4585388370995,POLYGON
+578269814,ways_poly,,,,,,,,Simply Chiropractic,,,,,,,clinic,-75.6573694404191,45.4084881030101,POLYGON
+479511092,ways_poly,,,,,,,,Smile Dental Lab,,,,,,,dentist,-75.6713912606793,45.3843647347184,POLYGON
+617206857,ways_poly,,,,,,,,PharmaChoice,,,,,,,pharmacy,-75.6710706862986,45.3835825440827,POLYGON
+617206860,ways_poly,,,,,,,,Innova Dental,,,,,,,dentist,-75.6710848250064,45.3835138834471,POLYGON
+386102573,ways_poly,,,,,,,,Westboro Family Dentistry,,,,,,,dentist,-75.7310871446334,45.3988173194565,POLYGON
+478970269,ways_poly,,,,,,,,Ottawa Physiotherapy,,,,,,,clinic,-75.7545425784626,45.3939458766913,POLYGON
+620501507,ways_poly,,,,,,,,Guardian,,,,,,,pharmacy,-75.6449338888031,45.4410217469207,POLYGON
+483033150,ways_poly,,,,,,,,Eastboro Dental,,,,,,,dentist,-75.5164076926941,45.4507656067349,POLYGON
+167214812,ways_poly,,,,,,,,Groupe santé dentaire,,,,,,,dentist,-76.4909352422906,45.6032724764788,POLYGON
+634491967,ways_poly,,,,,,,,Dr. Beverley McKeown,,,,,,,dentist,-75.53610165,45.4489183,POLYGON
+58781978,ways_poly,,,,,,,,Medispa,,,,,,,doctors,-74.9865158073796,44.6720761978162,POLYGON
+778988909,ways_poly,,,,,,,,,,,,,,,doctors,-74.9664397168728,45.2569164501712,POLYGON
+846937947,ways_poly,,,,,,,,,,,,,,,doctors,-76.3169045,44.65320555,POLYGON
+630053621,ways_poly,,,,,,,,Queen's Pharmacy,,,,,,,pharmacy,-75.56550985,45.43192215,POLYGON
+668488640,ways_poly,,,,,,,,Beacon Hill Chiropratic,,,,,,,clinic,-75.5870604794812,45.4494606141337,POLYGON
+1084715401,ways_poly,,,,,,,,Half Moon Bay Pharmacy,,,,,,,pharmacy,-75.7304117167948,45.2431004175605,POLYGON
+233809746,ways_poly,,,,,,,,Deschênes-Poitras Dental Centre,,,,,,,dentist,-75.9387474966484,45.2687730093407,POLYGON
+470705180,ways_poly,,,,,,,,Shoppers Drug Mart,,08:00-22:00,,,,,pharmacy,-75.4814955642424,45.4513634330601,POLYGON
+472403372,ways_poly,,,,,,,,Shoppers Drug Mart,,08:00-00:00,,,,,pharmacy,-75.5078675142047,45.4539086341159,POLYGON
+68657707,ways_poly,,,,,Ottawa Hospital,,,Parkdale Clinic (The Ottawa Hospital Civic Campus ),,,,,,,clinic,-75.7233159819006,45.3923686480509,POLYGON
+452342555,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-76.3550555435048,45.4340718623288,POLYGON
+485219145,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.6714333411371,45.3501425241239,POLYGON
+480073485,ways_poly,,,,,,,,Hunt Club Medical Center,,,,,,,clinic,-75.6706838118671,45.3503636787486,POLYGON
+68577228,ways_poly,,,,,,,,Shoppers Drug Mart,,"Mo,Su 09:00-22:00; Tu-Sa 08:00-22:00",,,,,pharmacy,-75.4904014235635,45.4690079513129,POLYGON
+537538729,ways_poly,,,,,,,,Crossing Bridge Family Dentistry,,"Mo,We 08:00-16:00; Tu,Th 11:00-20:00; Fr 08:00-13:00",,,,,dentist,-75.9313610096229,45.2687751888154,POLYGON
+700000734,ways_poly,,,,,,,,Metropolitan Dental,,,,,,,dentist,-75.7404208463472,45.361578458747,POLYGON
+143444500,ways_poly,,,,,,,,Shoppers Drug Mart,,08:00-24:00,,,,,pharmacy,-75.734422989897,45.3605594947367,POLYGON
+253384628,ways_poly,,,,,,,,Pro Physio,,,,,,,clinic,-75.726508797447,45.3374558416116,POLYGON
+652110305,ways_poly,,,,,,,,Southgate Dental,,"Mo,Tu 08:00-18:00; We 08:00-17:30; Th 07:00-17:30; Fr 08:00-16:00",,,,,dentist,-75.645674621623,45.3545562401225,POLYGON
+476688695,ways_poly,,,,,,,,Les Orthèses Marc-André Catafard,,,,,,,dentist,-75.6513968739708,45.4897944174474,POLYGON
+604084506,ways_poly,,,,,,,,Dr. Khaled Mahmoud Dahche,,Mo-Th 09:30-16:30,,,,,doctors,-75.6687864531605,45.3426451538187,POLYGON
+201851179,ways_poly,,,,,,,,Shoppers Drug Mart,,Mo-Su 08:00-22:00,,,,,pharmacy,-75.6636172170427,45.3697909131041,POLYGON
+218815747,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.8044945253748,45.3548403870273,POLYGON
+305804944,ways_poly,,,,,Loblaw Companies Limited,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.6462587655404,45.4418135351562,POLYGON
+537538738,ways_poly,,,,,,,,MotionWorks Physiotherapy,,"Mo-Sa 09:00-21:00; Su 10:00-18:00",,,,,clinic,-75.9317540801367,45.2680920886582,POLYGON
+649385489,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.6863941407752,44.5886889187269,POLYGON
+367717254,ways_poly,,,,,,,,Altima Dental,,,,,,,dentist,-75.6874424,44.61193725,POLYGON
+397790846,ways_poly,,,,,Hôpital Glengarry Memorial Hospital,,,Hôpital Glengarry Memorial Hospital,,,,,,,hospital,-74.644133195553,45.3061161073978,POLYGON
+704856731,ways_poly,,,,,,,,CLSC Gracefield,,,,,,,clinic,-76.0518974041011,46.0917588358854,POLYGON
+1215191878,ways_poly,,,,,,,,Braceology,,,,,,,dentist,-75.6308016684621,45.4466081442352,POLYGON
+483215102,ways_poly,,,,,,,,Shoppers Drug Mart,,Mo-Su 03:00-12:00,,,,,pharmacy,-75.6446983627358,45.3550837929694,POLYGON
+473049404,ways_poly,,,,,,,,PharmaChoice,,"Mo-Fr 09:00-18:00; Sa 09:00-15:00",,,,,pharmacy,-75.625971282034,45.3476580543446,POLYGON
+764310636,ways_poly,,,,,,,,South Nepean Community Health Centre,,"Mo-We 08:30-20:30; Th-Fr 08:30-16:30",,,,,clinic,-75.7679843711897,45.2605633631092,POLYGON
+614132670,ways_poly,,,,,,,,Dr. G. E. Carlin,,,,,,,dentist,-75.3519332167853,45.091003883334,POLYGON
+167468123,ways_poly,,,,,,,,Appletree Medical Centre,,,,,,,doctors,-75.7041676,45.4171742,POLYGON
+593922353,ways_poly,,,,,,,,The Hope Dental Care Centre,,,,,,,dentist,-75.8937459690519,45.2934702482069,POLYGON
+239254003,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.8684194296382,45.2873357622999,POLYGON
+471920749,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.9119772629453,45.2837617227766,POLYGON
+474250924,ways_poly,,,,,The Ottawa Hospital,,,The Ottawa Hospital - Riverside Campus,,,,,,,hospital,-75.669175111354,45.395711411181,POLYGON
+693945785,ways_poly,,,,,,,,Uniprix,,"Sa-Su 09:00-18:00; Mo-Fr 08:30-21:00",,,,,pharmacy,-75.8332093264506,45.3947685523827,POLYGON
+663543724,ways_poly,,,,,,,,Riverside Court Dental Clinic,,,,,,,dentist,-75.6920587903646,45.3448106136258,POLYGON
+663543726,ways_poly,,,,,,,,Riverside Court Medical Clinic,,,,,,,clinic,-75.6921168221537,45.3449732999602,POLYGON
+671164976,ways_poly,,,,,,,,Apple's Portobello Dental Clinic,,,,,,,dentist,-75.466993550249,45.4666163668734,POLYGON
+574589071,ways_poly,,,,,,,,Vimy Bridge Dental,,,,,,,dentist,-75.7095613413764,45.2729294083908,POLYGON
+471171466,ways_poly,,,,,,,,Crystal Medical Centre,,,,,,,clinic,-75.9185753927634,45.2560473940963,POLYGON
+239366065,ways_poly,,,,,,,,Shoppers Drug Mart,,08:00-24:00,,,,,pharmacy,-75.9326673286921,45.3545095457224,POLYGON
+410941078,ways_poly,,,,,,,,Chapman Mills Dental,,"Mo 08:00-20:00; Tu,Th 08:00-16:00; We 08:00-17:00",,,,,dentist,-75.7433328219028,45.2700115739922,POLYGON
+478217652,ways_poly,,,,,,,,Barrhaven South Dentistry,,,,,,,dentist,-75.7395672435933,45.268981648982,POLYGON
+470452835,ways_poly,,,,,,,,Shoppers Drug Mart,,24/7,,,,,pharmacy,-75.718478704539,45.2743679381157,POLYGON
+478521061,ways_poly,,,,,,,,Orthodontist Periodontist,,,,,,,dentist,-75.7196728022326,45.2738779894313,POLYGON
+478521048,ways_poly,,,,,,,,Champlain Health Line,,"Mo 08:30-19:00; Tu-Fr 08:30-20:00; Sa 09:00-16:00; Su 10:00-16:00",,,,,clinic,-75.7194572,45.2739121,POLYGON
+478374554,ways_poly,,,,,,,,Robinson Dental,,,,,,,dentist,-75.7461970427841,45.2733075155991,POLYGON
+479399883,ways_poly,,,,,,,,Greenbelt Family Health Team,,"Mo-Th 08:00-20:00; Fr 08:00-17:00",,,,,clinic,-75.7420233318851,45.2931468039371,POLYGON
+479399879,ways_poly,,,,,,,,Pharmasave,,,,,,,pharmacy,-75.7422825379685,45.2930282669293,POLYGON
+478366942,ways_poly,,,,,,,,Barrhaven Dental Care,,"Mo-Tu,Fr-Sa 08:00-17:00; We-Th 08:00-20:00",,,,,dentist,-75.7470049961203,45.26824190636,POLYGON
+394709223,ways_poly,,,,,,,,St Laurent Medical Centre,,,,,,,clinic,-75.6408390962152,45.4297554547689,POLYGON
+484713836,ways_poly,,,,,,,,Harmony,,,,,,,dentist,-75.6358532988223,45.4256609331939,POLYGON
+318061239,ways_poly,,,,,Children's Hospital of Eastern Ontario,,,Children's Hospital of Eastern Ontario,,,,,,,hospital,-75.6516866789217,45.4012548223092,POLYGON
+480204769,ways_poly,,,,,,,,Axis RMT,,,,,,,clinic,-75.66114225,45.43109325,POLYGON
+651371862,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.6922810669892,45.4256063977845,POLYGON
+152495729,ways_poly,,,,,,,,Sandy Hill Community Health Centre,,,,,,,clinic,-75.6835267997024,45.4293156249814,POLYGON
+474837207,ways_poly,,,,,,,,Smile Dental Laboratory,,,,,,,dentist,-75.7522578308049,45.3692032795215,POLYGON
+478968908,ways_poly,,,,,,,,Fallowfield Dental,,,,,,,dentist,-75.7335217,45.29691185,POLYGON
+471308856,ways_poly,,,,,,,,Endodocs,,,,,,,dentist,-75.7222482997218,45.2812667734404,POLYGON
+471315276,ways_poly,,,,,,,,Argyle Associates,,,,,,,dentist,-75.7162249140618,45.2758801457831,POLYGON
+478740487,ways_poly,,,,,,,,Aqua Dental,,,,,,,dentist,-75.7164085885659,45.2758225022471,POLYGON
+478740488,ways_poly,,,,,,,,Advanced Access Medical,,"Mo-Th 08:15-19:30; Fr 08:15-16:00; Sa 08:15-11:30",,,,,doctors,-75.7165973872942,45.2757733544073,POLYGON
+478533542,ways_poly,,,,,,,,Strandherd Dental Centre,,,,,,,dentist,-75.7366782,45.27505465,POLYGON
+242169983,ways_poly,,,,,Arnprior Regional Health,,,Arnprior & District Memorial Hospital,,,,,,,hospital,-76.3534303731083,45.4414746976519,POLYGON
+591041968,ways_poly,,,,,,,,Van Orthodontics,,,,,,,dentist,-75.87046165,45.2738911,POLYGON
+307654832,ways_poly,,,,,,,,Brunet,,,,,,,pharmacy,-75.7022755,45.48814635,POLYGON
+628136992,ways_poly,,,,,,,,Glover Family Dental,,,,,,,dentist,-76.3639774280243,45.4256917067957,POLYGON
+710678750,ways_poly,,,,,,,,Familiprix,,"Mo-Fr 09:00-18:00; Sa 09:00-17:00",,,,,pharmacy,-75.6771810029455,45.4927883906508,POLYGON
+302467684,ways_poly,,,,,Simon Thibaudeau,,,Pharmaprix,,"Mo-Fr 09:00-22:00; Sa-Su 09:00-21:00",,,,,pharmacy,-75.6904333678316,45.4913427615192,POLYGON
+163144321,ways_poly,,,,,,,,Hôpital de Gatineau,,,,,,,hospital,-75.6911111999443,45.4934579492603,POLYGON
+367700117,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.3006871140249,45.5404842489585,POLYGON
+95531870,ways_poly,,,,,,,,Buckingham CLSC,,,,,,,clinic,-75.4027821484447,45.5880797400658,POLYGON
+624881275,ways_poly,,,,,A. Haché & D. Tardif,,,Familiprix,,"Mo-Fr 09:00-20:00; Sa 09:00-17:00; Su 10:00-17:00",,,,,pharmacy,-75.77308885,45.5398954,POLYGON
+570367966,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.8178465664864,45.3295302581856,POLYGON
+233811389,ways_poly,,,,,,,,Robertson Family Dentistry,,,,,,,dentist,-75.8284378077156,45.3244342912641,POLYGON
+484963105,ways_poly,,,,,,,,Trillium Dental,,,,,,,dentist,-75.5066877628719,45.4545521483311,POLYGON
+587297068,ways_poly,,,,,,,,Dr. T. K. Alexis,,,,,,,dentist,-75.6021368967263,45.4272315149092,POLYGON
+478977108,ways_poly,,,,,,,,BioPed,,"Mo,Th 09:00-16:00; Tu-We 09:00-18:00; Fr 09:00-15:00",,,,,clinic,-75.7566769,45.2868785,POLYGON
+478977122,ways_poly,,,,,,,,Barrhaven Physiotherapy,,"Mo-Fr 07:00-20:00; Sa 08:00-14:00",,,,,clinic,-75.7571755888406,45.2859217966275,POLYGON
+674473782,ways_poly,,,,,,,,Chapel Hill Health Centre,,,,,,,doctors,-75.5254098316181,45.46118849225,POLYGON
+926850589,ways_poly,,,,,,,,Rexall,,,,,,,pharmacy,-76.1839089940177,45.2356164395696,POLYGON
+538876151,ways_poly,,,,,,,,Villanova Dental Studio,,"Mo-Th 07:30-19:30, Fr 07:30-14:30; Sa ""by appointment""",,,,,dentist,-75.9283621843977,45.2674365371112,POLYGON
+262919656,ways_poly,,,,,,,,Dows Lake Dental,,,,,,,dentist,-75.7085049805808,45.3984635903278,POLYGON
+692860045,ways_poly,,,,,Pharmaprix,,,Pharmaprix,,,,,,,pharmacy,-75.7317325594642,45.4422171047953,POLYGON
+163847312,ways_poly,,,,,Georges Farah,,,Pharmaprix,,"Mo-Fr 09:00-22:00; Sa-Su 09:00-21:00",,,,,pharmacy,-75.7025063612062,45.4732652820177,POLYGON
+576869296,ways_poly,,,,,,,,Trillium Dental,,,,,,,dentist,-75.9323521657034,45.2728496901634,POLYGON
+190809466,ways_poly,,,,,,,,Hôpital du Pontiac,,,,,,,hospital,-76.4847370190815,45.6058166805509,POLYGON
+753784857,ways_poly,,,,,,,,Veale Family Dental Centre,,,,,,,dentist,-76.36933445,45.42456205,POLYGON
+479808953,ways_poly,,,,,Loblaw Companies Limited,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.7015555292,45.3672426918778,POLYGON
+561087179,ways_poly,,,,,,,,Meadowlands Family Health Centre,,,,,,,clinic,-75.7019123241461,45.3670437740226,POLYGON
+551780134,ways_poly,,,,,,,,Rexall,,09:00-22:00,,,,,pharmacy,-75.733166088146,45.3537169529061,POLYGON
+670753899,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.7897275435901,45.3627606045273,POLYGON
+237593150,ways_poly,,,,,,,,Retina Centre of Ottawa,,,,,,,clinic,-75.7730903381005,45.3695541789507,POLYGON
+471916721,ways_poly,,,,,,,,FallingBrook Dental Centre,,,,,,,dentist,-75.4922207040702,45.467680760341,POLYGON
+584815442,ways_poly,,,,,,,,"Dr. Kin Fong, Dentist",,,,,,,dentist,-75.5418967437488,45.4646040642302,POLYGON
+584815453,ways_poly,,,,,,,,Ottawa Cardiovascular Centre Orleans,,,,,,,clinic,-75.5419395410123,45.4651381250724,POLYGON
+478555856,ways_poly,,,,,,,,Denistry@Cedarview,,,,,,,dentist,-75.7688502039882,45.2602178123731,POLYGON
+1084715406,ways_poly,,,,,,,,Stonebridge Dentistry,,,,,,,dentist,-75.7301733919769,45.2427330085153,POLYGON
+590258036,ways_poly,,,,,,,,Valley Natural Health Care,,,,,,,clinic,-76.1434419933442,45.1369231234718,POLYGON
+470053300,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.674557644871,45.2338249785401,POLYGON
+560871090,ways_poly,,,,,,,,Rexall,,09:00-22:00,,,,,pharmacy,-75.6823503055177,45.2232284403396,POLYGON
+495528867,ways_poly,,,,,,,,I.D.A.,,"Mo-Fr 09:00-18:00; Sa-Su 09:00-17:00",,,,,pharmacy,-76.3963475650679,44.6795183543504,POLYGON
+614485958,ways_poly,,,,,,,,Capital KidZ Medical Centre,,,,,,,doctors,-75.9134715383107,45.3015393867536,POLYGON
+664536856,ways_poly,,,,,,,,Bridlewood Medical Centre,,,,,,,doctors,-75.8571490667251,45.2916329243345,POLYGON
+573799360,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.5977794242546,45.4514654908992,POLYGON
+68607633,ways_poly,,,,,,,,Orleans Gardens Dental,,,,,,,dentist,-75.5236733907168,45.4599065615312,POLYGON
+219306005,ways_poly,,,,,,,,7Dental,,,,,,,dentist,-75.5949884287703,45.3181631535878,POLYGON
+688281949,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-76.2631978404522,44.9099683156758,POLYGON
+1005621605,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-76.1301435833643,45.1437698628708,POLYGON
+587769304,ways_poly,,,,,,,,Shoppers Drug Mart,,,,,,,pharmacy,-75.5626461903555,45.4311306336775,POLYGON
+469722586,ways_poly,,,,,,,,North Gower Dental,,,,,,,dentist,-75.7181436967091,45.1328165947321,POLYGON
+19620398,relations,,,,,Cornwall Community Hospital,,,Cornwall Community Hospital,,24/7,,,,,hospital,-74.7181951861251,45.0305625844396,POLYGON

@@ -11,7 +11,15 @@ export default function HospitalList({ hospitals, loading, onSelect, selectedId 
     }
 
     if (!hospitals || hospitals.length === 0) {
-        return null;
+        return (
+            <div className="absolute top-24 right-4 z-[1000] w-80 bg-white rounded-3xl shadow-xl border border-gray-100 p-6 flex flex-col items-center justify-center font-sans space-y-3 text-center">
+                <div className="w-12 h-12 bg-gray-50 rounded-full flex flex-col items-center justify-center text-gray-400 mb-2">
+                    <MapPin size={24} />
+                </div>
+                <h3 className="text-gray-900 font-bold">No facilities found.</h3>
+                <p className="text-sm text-gray-500">No facilities found within 100km. Try expanding your search or checking your connection.</p>
+            </div>
+        );
     }
 
     return (
