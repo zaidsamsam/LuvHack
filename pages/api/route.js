@@ -55,45 +55,40 @@ export default async function handler(req, res) {
             return res.status(200).json([]);
         }
 
-        // Phase 2 Sort: Traffic-Aware Re-Ranking via TomTom Synchronous Matrix API
+        // Phase 2 Sort: Traffic-Aware Re-Ranking via TomTom Synchronous Batch API
         const tomtomKey = process.env.TOMTOM_KEY || process.env.NEXT_PUBLIC_TOMTOM_KEY;
         if (!tomtomKey) {
             console.error("Missing TOMTOM_KEY environment variable");
             return res.status(500).json({ error: 'Server misconfiguration' });
         }
 
-        const routingUrl = `https://api.tomtom.com/routing/matrix/2?key=${tomtomKey}&traffic=true&travelMode=car&departAt=now`;
+        const routingUrl = `https://api.tomtom.com/routing/1/batch/sync/json?key=${tomtomKey}`;
 
         const payload = {
-            origins: [
-                {
-                    point: { latitude: userLat, longitude: userLon }
-                }
-            ],
-            destinations: nearby.map(hospital => ({
-                point: { latitude: hospital.latitude, longitude: hospital.longitude }
+            batchItems: nearby.map(hospital => ({
+                query: `/calculateRoute/${userLat},${userLon}:${hospital.latitude},${hospital.longitude}/json?routeType=fastest&traffic=true&travelMode=car&departAt=now`
             }))
         };
 
-        let matrixResults = null;
+        let batchResults = null;
         try {
             const response = await axios.post(routingUrl, payload, {
                 headers: { 'Content-Type': 'application/json' }
             });
-            matrixResults = response.data.matrix[0]; // Origins length is 1
-        } catch (matrixErr) {
-            console.warn("TomTom Matrix API failed (likely 403 Forbidden due to API key tier restriction). Falling back to geographic distance approximation.", matrixErr.message);
+            batchResults = response.data.batchItems; 
+        } catch (batchErr) {
+            console.warn("TomTom Batch API failed. Falling back to geographic distance approximation.", batchErr.message);
         }
 
         let timeCalculations;
 
-        if (matrixResults) {
+        if (batchResults) {
             timeCalculations = nearby.map((hospital, index) => {
-                const resultCell = matrixResults[index];
+                const resultCell = batchResults[index];
                 
-                // Handle Matrix Error seamlessly
+                // Handle Error seamlessly
                 if (resultCell.statusCode !== 200) {
-                    console.warn(`TomTom Matrix Error for ${hospital.name} (status ${resultCell.statusCode})`);
+                    console.warn(`TomTom Routing Error for ${hospital.name} (status ${resultCell.statusCode})`);
                     return {
                         ...hospital,
                         drive_time: Infinity,
@@ -101,8 +96,8 @@ export default async function handler(req, res) {
                     };
                 }
 
-                const routeSummary = resultCell.response.routeSummary;
-                if (!routeSummary || typeof routeSummary.travelTimeInSeconds === 'undefined') {
+                const routes = resultCell.response.routes;
+                if (!routes || routes.length === 0 || typeof routes[0].summary.travelTimeInSeconds === 'undefined') {
                     return {
                         ...hospital,
                         drive_time: Infinity,
@@ -110,7 +105,7 @@ export default async function handler(req, res) {
                     };
                 }
 
-                const travelTimeInSeconds = routeSummary.travelTimeInSeconds;
+                const travelTimeInSeconds = routes[0].summary.travelTimeInSeconds;
                 const driveTimeMinutes = Math.round(travelTimeInSeconds / 60);
                 
                 // fake wait time uses the 'base_wait_time' from the db
@@ -123,7 +118,7 @@ export default async function handler(req, res) {
                 };
             });
         } else {
-             // FALLBACK: If Matrix API is restricted (403), approximate drive time from PostGIS ST_Distance
+             // FALLBACK: If API is totally unreachable, approximate drive time from PostGIS ST_Distance
              // Assume average city speed of 40 km/h (11.11 m/s)
              timeCalculations = nearby.map(hospital => {
                  const approxDriveTimeMinutes = Math.round(hospital.distance / 11.11 / 60);
