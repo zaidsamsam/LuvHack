@@ -13,12 +13,10 @@ if (!supabaseUrl || !supabaseKey) {
 
 const supabase = createClient(supabaseUrl, supabaseKey);
 
-async function seed() {
-    console.log("Reading CSV file...");
-    const csvPath = path.resolve(__dirname, '../ER_WAZE_csv/ER_WAZE.csv');
+async function processFile(csvPath) {
     if (!fs.existsSync(csvPath)) {
-        console.error("CSV file not found at", csvPath);
-        process.exit(1);
+        console.warn("CSV file not found at", csvPath);
+        return [];
     }
 
     const csvContent = fs.readFileSync(csvPath, 'utf8');
@@ -32,25 +30,11 @@ async function seed() {
     const idxHealthFacilityType = headers.indexOf('health_facility_type');
 
     if (idxName === -1 || idxLat === -1 || idxLon === -1) {
-        console.error("CSV must contain 'name', 'latitude', and 'longitude' columns.");
-        process.exit(1);
+        console.warn(`CSV at ${csvPath} must contain 'name', 'latitude', and 'longitude' columns.`);
+        return [];
     }
 
-    console.log(`Found ${lines.length - 1} records in CSV. Starting seeding...`);
-    
-    // Clear the existing data
-    console.log("Emptying existing hospitals table...");
-    const { error: deleteError } = await supabase.from('hospitals').delete().neq('id', '00000000-0000-0000-0000-000000000000');
-    if (deleteError) {
-        console.warn("Could not delete existing hospitals (maybe table is empty):", deleteError.message);
-    }
-
-    let insertedCount = 0;
-    
-    // Process in batches
-    const batchSize = 100;
-    let batch = [];
-
+    let records = [];
     for (let i = 1; i < lines.length; i++) {
         const line = lines[i].trim();
         if (!line) continue;
@@ -79,13 +63,12 @@ async function seed() {
         } else if (amenity === 'doctors' || amenity === 'clinic') {
             facility_type = 'UrgentCare';
         } else {
-            // Default mapping if something weird
             facility_type = 'UrgentCare';
         }
 
         const base_wait_time = Math.floor(Math.random() * (120 - 15 + 1) + 15);
 
-        batch.push({
+        records.push({
             name,
             latitude: lat,
             longitude: lon,
@@ -94,21 +77,50 @@ async function seed() {
             is_trauma_center,
             location: `POINT(${lon} ${lat})`
         });
+    }
 
-        if (batch.length === batchSize || i === lines.length - 1) {
-            const { error } = await supabase.from('hospitals').insert(batch);
-            
-            if (error) {
-                console.error(`Error inserting batch ending at line ${i}:`, error.message);
-            } else {
-                insertedCount += batch.length;
-                console.log(`Successfully inserted ${insertedCount} facilities so far...`);
-            }
-            batch = [];
+    console.log(`Parsed ${records.length} valid records from ${csvPath}`);
+    return records;
+}
+
+async function seed() {
+    const filesToMerge = [
+        path.resolve(__dirname, '../ER_WAZE_csv/ER_WAZE.csv'),
+        path.resolve(__dirname, '../ER_WAZE_riyadh_csv/ER_WAZE_riyadh_csv.csv')
+    ];
+
+    let allFacilities = [];
+
+    for (const file of filesToMerge) {
+        const fileRecords = await processFile(file);
+        allFacilities = allFacilities.concat(fileRecords);
+    }
+    
+    console.log(`Found a total of ${allFacilities.length} aggregated facilities to seed.`);
+
+    // Clear the existing data
+    console.log("Emptying existing hospitals table...");
+    const { error: deleteError } = await supabase.from('hospitals').delete().neq('id', '00000000-0000-0000-0000-000000000000');
+    if (deleteError) {
+        console.warn("Could not delete existing hospitals:", deleteError.message);
+    }
+
+    let insertedCount = 0;
+    const batchSize = 100;
+
+    for (let i = 0; i < allFacilities.length; i += batchSize) {
+        const batch = allFacilities.slice(i, i + batchSize);
+        const { error } = await supabase.from('hospitals').insert(batch);
+        
+        if (error) {
+            console.error(`Error inserting batch ending at index ${i + batch.length}:`, error.message);
+        } else {
+            insertedCount += batch.length;
+            console.log(`Successfully inserted ${insertedCount} facilities so far...`);
         }
     }
 
-    console.log(`Seeding complete. Inserted ${insertedCount} valid facilities into the 'hospitals' table.`);
+    console.log(`Aggregated seeding complete. Inserted ${insertedCount} valid facilities across both datasets.`);
 }
 
 seed().catch(console.error);

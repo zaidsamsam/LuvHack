@@ -129,7 +129,7 @@ export default function Map({ userLocation, hospitals, selectedHospital, onSelec
         return () => clearInterval(intervalId);
     }, [fetchRouteGeometry]);
 
-    const mapCenter = userLocation ? [userLocation.lat, userLocation.lon] : [41.8781, -87.6298];
+    const mapCenter = userLocation ? [userLocation.lat, userLocation.lon] : [24.7136, 46.6753];
 
     // Custom icons based on hospital ranks
     const getIcon = (hospital, isWinner, isSelected) => {

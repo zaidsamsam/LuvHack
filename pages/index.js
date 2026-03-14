@@ -31,12 +31,12 @@ export default function Home() {
                 },
                 (error) => {
                     console.error("Error getting location:", error);
-                    // Fallback to Chicago if declined
-                    setUserLocation({ lat: 41.8781, lon: -87.6298 });
+                    // Fallback to Riyadh if declined
+                    setUserLocation({ lat: 24.7136, lon: 46.6753 });
                 }
             );
         } else {
-            setUserLocation({ lat: 41.8781, lon: -87.6298 });
+            setUserLocation({ lat: 24.7136, lon: 46.6753 });
         }
     }, []);
 
