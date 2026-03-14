@@ -1,9 +1,23 @@
 import { supabase } from "../../lib/supabase";
 import axios from "axios";
+import rateLimit from "../../lib/rate-limit";
+
+const limiter = rateLimit({
+    interval: 60 * 1000, // 60 seconds
+    uniqueTokenPerInterval: 500, // Max 500 users per second
+});
 
 export default async function handler(req, res) {
     if (req.method !== 'GET') {
         return res.status(405).json({ message: 'Method Not Allowed' });
+    }
+
+    try {
+        // Enforce max 15 requests per minute per IP
+        const userIP = req.headers['x-forwarded-for'] || req.connection.remoteAddress || 'default-ip';
+        await limiter.check(res, 15, userIP);
+    } catch {
+        return res.status(429).json({ error: 'Rate limit exceeded. Please wait a minute before searching again.' });
     }
 
     const { lat, lon, type } = req.query;

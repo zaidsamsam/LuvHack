@@ -1,8 +1,22 @@
 import axios from "axios";
+import rateLimit from "../../lib/rate-limit";
+
+const limiter = rateLimit({
+    interval: 60 * 1000, // 60 seconds
+    uniqueTokenPerInterval: 500,
+});
 
 export default async function handler(req, res) {
     if (req.method !== 'GET') {
         return res.status(405).json({ message: 'Method Not Allowed' });
+    }
+
+    try {
+        // Geometry fetches automatically every 2mins. Give a generous 60 limit per minute to avoid accidental blocks.
+        const userIP = req.headers['x-forwarded-for'] || req.connection.remoteAddress || 'default-ip';
+        await limiter.check(res, 60, userIP);
+    } catch {
+        return res.status(429).json({ error: 'Geometry Rate limit exceeded' });
     }
 
     const { startLat, startLon, endLat, endLon } = req.query;
