@@ -47,12 +47,16 @@ export default function Map({ userLocation, hospitals, selectedHospital, onSelec
                 const segments = [];
                 const sections = data.sections;
 
-                // Color mappings based on 'simpleCategory'
-                const colorMap = {
-                    'JAM': '#EA4335',     // Red
-                    'HEAVY': '#FA7B17',   // Orange
-                    'MODERATE': '#FBBC04', // Yellow
-                    'UNKNOWN': '#34A853', // Default to Green if unknown
+                // Color mappings based on magnitudeOfDelay severity
+                // 0: Unknown, 1: Minor, 2: Moderate, 3: Major, 4: Undefined (Blocked)
+                const getTrafficColor = (magnitude) => {
+                    switch(magnitude) {
+                        case 1: return '#FBBC04'; // Yellow (Minor Delay)
+                        case 2: return '#FA7B17'; // Orange (Moderate)
+                        case 3: return '#EA4335'; // Red (Major)
+                        case 4: return '#B31412'; // Dark Red (Blocked/Undefined)
+                        default: return '#EA4335'; // Fallback Red for 'JAM'
+                    }
                 };
 
                 // Create full base segment array initially as green
@@ -78,7 +82,7 @@ export default function Map({ userLocation, hospitals, selectedHospital, onSelec
                         // Draw the traffic section
                         styledSegments.push({
                             positions: data.points.slice(section.startPointIndex, section.endPointIndex + 1),
-                            color: colorMap[section.simpleCategory] || '#34A853'
+                            color: getTrafficColor(section.magnitudeOfDelay)
                         });
 
                         lastEndIndex = section.endPointIndex;
@@ -244,10 +248,13 @@ export default function Map({ userLocation, hospitals, selectedHospital, onSelec
                             <div className="w-2.5 h-2.5 rounded-full bg-[#34A853]"></div> Clear
                         </div>
                         <div className="flex items-center gap-1.5">
-                            <div className="w-2.5 h-2.5 rounded-full bg-[#FBBC04]"></div> Busy
+                            <div className="w-2.5 h-2.5 rounded-full bg-[#FBBC04]"></div> Minor
                         </div>
                         <div className="flex items-center gap-1.5">
-                            <div className="w-2.5 h-2.5 rounded-full bg-[#EA4335]"></div> Jammed
+                            <div className="w-2.5 h-2.5 rounded-full bg-[#FA7B17]"></div> Moderate
+                        </div>
+                        <div className="flex items-center gap-1.5">
+                            <div className="w-2.5 h-2.5 rounded-full bg-[#EA4335]"></div> Heavy
                         </div>
                     </div>
                 </div>
