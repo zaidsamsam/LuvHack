@@ -8,11 +8,14 @@ import "leaflet-defaulticon-compatibility/dist/leaflet-defaulticon-compatibility
 
 function MapUpdater({ center }) {
     const map = useMap();
+    const lat = center ? center[0] : null;
+    const lng = center ? center[1] : null;
+
     useEffect(() => {
-        if (center) {
-            map.flyTo(center, 13, { animate: true, duration: 1 });
+        if (lat !== null && lng !== null) {
+            map.flyTo([lat, lng], 13, { animate: true, duration: 1 });
         }
-    }, [center, map]);
+    }, [lat, lng, map]);
     return null;
 }
 
@@ -50,13 +53,11 @@ export default function Map({ userLocation, hospitals, selectedHospital, onSelec
                 // Color mappings based on magnitudeOfDelay severity
                 // 0: Unknown, 1: Minor, 2: Moderate, 3: Major, 4: Undefined (Blocked)
                 const getTrafficColor = (magnitude) => {
-                    switch(magnitude) {
-                        case 1: return '#FBBC04'; // Yellow (Minor Delay)
-                        case 2: return '#FA7B17'; // Orange (Moderate)
-                        case 3: return '#EA4335'; // Red (Major)
-                        case 4: return '#B31412'; // Dark Red (Blocked/Undefined)
-                        default: return '#EA4335'; // Fallback Red for 'JAM'
-                    }
+                    const level = Number(magnitude);
+                    if (level === 1) return '#FBBC04'; // Yellow (Minor Delay)
+                    if (level === 2) return '#FA7B17'; // Orange (Moderate)
+                    if (level >= 3) return '#EA4335'; // Red (Major/Blocked)
+                    return '#34A853'; // Green (Clear/Unknown/Default)
                 };
 
                 // Create full base segment array initially as green
@@ -135,6 +136,12 @@ export default function Map({ userLocation, hospitals, selectedHospital, onSelec
 
     const mapCenter = userLocation ? [userLocation.lat, userLocation.lon] : [24.7136, 46.6753];
 
+    // Riyadh bounding box to restrict panning
+    const riyadhBounds = [
+        [24.4, 46.4], // Southwest coordinates
+        [25.0, 46.9]  // Northeast coordinates
+    ];
+
     // Custom icons based on hospital ranks
     const getIcon = (hospital, isWinner, isSelected) => {
         let iconUrl = "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png";
@@ -161,9 +168,14 @@ export default function Map({ userLocation, hospitals, selectedHospital, onSelec
                 center={mapCenter}
                 zoom={13}
                 scrollWheelZoom={true}
+                wheelPxPerZoomLevel={120}
+                preferCanvas={true}
                 style={{ height: "100%", width: "100%" }}
                 ref={mapRef}
                 zoomControl={false}
+                maxBounds={riyadhBounds}
+                maxBoundsViscosity={1.0}
+                minZoom={10}
             >
                 <TileLayer
                     attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
@@ -184,24 +196,17 @@ export default function Map({ userLocation, hospitals, selectedHospital, onSelec
                 <MapEvents onDragEnd={onMapDragEnd} />
 
                 {userLocation && (
-                    <>
-                        <Circle
-                            center={[userLocation.lat, userLocation.lon]}
-                            radius={100000}
-                            pathOptions={{ color: '#1A73E8', fillOpacity: 0.1, opacity: 0.5, weight: 2 }}
-                        />
-                        <Marker
-                            position={[userLocation.lat, userLocation.lon]}
-                            icon={new L.Icon({
-                                iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-black.png',
-                                shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
-                                iconSize: [25, 41],
-                                iconAnchor: [12, 41],
-                                popupAnchor: [1, -34],
-                                shadowSize: [41, 41]
-                            })}
-                        />
-                    </>
+                    <Marker
+                        position={[userLocation.lat, userLocation.lon]}
+                        icon={new L.Icon({
+                            iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-black.png',
+                            shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+                            iconSize: [25, 41],
+                            iconAnchor: [12, 41],
+                            popupAnchor: [1, -34],
+                            shadowSize: [41, 41]
+                        })}
+                    />
                 )}
 
                 {hospitals && hospitals.map((hospital, index) => {
@@ -237,28 +242,7 @@ export default function Map({ userLocation, hospitals, selectedHospital, onSelec
                 ))}
             </MapContainer>
 
-            {/* Live Traffic Legend Overlay */}
-            {selectedHospital && (
-                <div className="absolute bottom-6 left-6 z-[1000] bg-white rounded-xl shadow-lg border border-gray-100 p-3 pr-4 flex items-center gap-4">
-                    <div className="text-xs font-bold text-gray-500 bg-gray-50 px-2 py-1 flex items-center gap-1 rounded uppercase tracking-wider">
-                       Live Traffic
-                    </div>
-                    <div className="flex gap-3 text-xs font-bold font-sans text-gray-700">
-                        <div className="flex items-center gap-1.5">
-                            <div className="w-2.5 h-2.5 rounded-full bg-[#34A853]"></div> Clear
-                        </div>
-                        <div className="flex items-center gap-1.5">
-                            <div className="w-2.5 h-2.5 rounded-full bg-[#FBBC04]"></div> Minor
-                        </div>
-                        <div className="flex items-center gap-1.5">
-                            <div className="w-2.5 h-2.5 rounded-full bg-[#FA7B17]"></div> Moderate
-                        </div>
-                        <div className="flex items-center gap-1.5">
-                            <div className="w-2.5 h-2.5 rounded-full bg-[#EA4335]"></div> Heavy
-                        </div>
-                    </div>
-                </div>
-            )}
+
         </div>
     );
 }

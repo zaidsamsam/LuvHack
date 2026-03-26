@@ -31,11 +31,11 @@ export default async function handler(req, res) {
         const userLon = parseFloat(lon);
 
         // Phase 1 Sort: Spatial Radius Constraint (100km)
-        // Fetches up to 25 physically closest facilities within 100km using PostGIS ST_DWithin
+        // Fetches up to 25 physically closest facilities globally using PostGIS ST_DWithin
         let { data: nearby, error } = await supabase.rpc('get_nearest_hospitals', {
             user_lat: userLat,
             user_lng: userLon,
-            radius_meters: 100000 // 100 km
+            radius_meters: 100000000 // 100,000 km (effectively no radius limit)
         });
 
         if (error) {

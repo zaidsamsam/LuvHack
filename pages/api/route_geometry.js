@@ -48,6 +48,11 @@ export default async function handler(req, res) {
 
     } catch (err) {
         console.error("Traffic Route API Error", err.response?.data || err.message);
-        res.status(500).json({ error: 'Failed to fetch detailed route' });
+        // Fallback to straight line if TomTom API fails (e.g. rate limit)
+        const fallbackPoints = [
+            [parseFloat(startLat), parseFloat(startLon)],
+            [parseFloat(endLat), parseFloat(endLon)]
+        ];
+        res.status(200).json({ points: fallbackPoints, sections: [] });
     }
 }

@@ -7,10 +7,6 @@ export default function Triage({ selectedType, onTypeSelect }) {
 
     return (
         <div className="absolute top-24 left-4 z-[1000] w-80 bg-white rounded-3xl shadow-lg border border-gray-100 overflow-hidden font-sans">
-            <div className="p-4 bg-gray-50 border-b border-gray-100">
-                <h2 className="text-lg font-bold text-gray-800">Smart Triage</h2>
-                <p className="text-xs text-gray-500 mt-1">Filter locations by care level</p>
-            </div>
             <div className="p-3 flex flex-col gap-2">
                 {options.map((opt) => (
                     <button
